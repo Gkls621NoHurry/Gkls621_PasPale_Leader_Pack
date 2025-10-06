@@ -1,0 +1,27 @@
+INSERT INTO District_Adjacencies
+(DistrictType,  YieldChangeId)
+SELECT DISTINCT
+'DISTRICT_C_AGRICULTURE',  'EQUIPMENT_ROOM_FOOD_gkls621'
+FROM District_Adjacencies
+WHERE EXISTS(SELECT 1 FROM Districts WHERE DistrictType = 'DISTRICT_C_AGRICULTURE');
+
+INSERT INTO District_Adjacencies
+(DistrictType,  YieldChangeId)
+SELECT DISTINCT
+'DISTRICT_LIGHT_INDUSTRIAL_ZONE',  'EQUIPMENT_ROOM_GOLD_gkls621'
+FROM District_Adjacencies
+WHERE EXISTS(SELECT 1 FROM Districts WHERE DistrictType = 'DISTRICT_LIGHT_INDUSTRIAL_ZONE');
+
+INSERT INTO District_Adjacencies
+(DistrictType,  YieldChangeId)
+SELECT DISTINCT
+'DISTRICT_JD_HOSPITAL',  'EQUIPMENT_ROOM_FOOD_gkls621'
+FROM District_Adjacencies
+WHERE EXISTS(SELECT 1 FROM Districts WHERE DistrictType = 'DISTRICT_JD_HOSPITAL');
+
+INSERT INTO District_Adjacencies
+(DistrictType,  YieldChangeId)
+SELECT DISTINCT
+'DISTRICT_LEU_GARDEN',  'EQUIPMENT_ROOM_CULTURE_gkls621'
+FROM District_Adjacencies
+WHERE EXISTS(SELECT 1 FROM Districts WHERE DistrictType = 'DISTRICT_LEU_GARDEN');

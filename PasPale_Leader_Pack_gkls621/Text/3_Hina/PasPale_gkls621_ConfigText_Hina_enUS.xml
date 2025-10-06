@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_LEADER_HINA_gkls621_NAME" Language="en_US">
+			<Text>Hina Hikawa</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HINA_gkls621_NAME" Language="en_US">
+			<Text>Little Genius</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HINA_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Non-capital cities do not provide the basic [ICON_Science] Science yield from [ICON_Citizen] Population, but gain +0.4 [ICON_Science] Science per Envoy at City-States. [ICON_Citizen] Citizens can work on Mountain tiles, which provide +2 [ICON_Science] Science, +1 [ICON_Production] Production, and +3 [ICON_Food] Food, with an additional +3 [ICON_Science] Science after entering the Industrial Era. Completing a glorious Astronomy Club, Harbor, or Industrial Zone unlocks a random technology; completing a glorious Idol Theater, Commercial Hub, or Holy Site unlocks a random civic; building the Astronomy Club, Idol Theater, Government Plaza, or Diplomatic Quarter for the first time grants a [ICON_TechBoosted] Eureka for a future era technology; building an Aerodrome for the first time unlocks "Rocketry" and "Stealth Technology"; building a Spaceport for the first time grants [ICON_TechBoosted] Eurekas for all future era technologies, with technologies that already have Eurekas being directly unlocked. The aforementioned glorious districts receive 50% initial construction progress.</Text>
+		</Row>
+
+		<Row Tag="LOC_DISTRICT_ASTRONOMY_CLUB_gkls621_NAME" Language="en_US">
+			<Text>Astronomy Club</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ASTRONOMY_CLUB_gkls621_DESCRIPTION" Language="en_US">
+			<Text>A unique district when leading as Hina Hikawa, replacing the Campus. It has a lower base cost and does not require population. Receives major adjacency bonuses from Mountains and Natural Wonders, and minor adjacency from Plains. Campus buildings cannot be constructed, but bonuses for the Library, University, and Research Lab are granted upon unlocking Mathematics, Astronomy, and Advanced Flight respectively. When adjacent to a Spaceport, the city gains +50% [ICON_Production] Production when building Space Race projects.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

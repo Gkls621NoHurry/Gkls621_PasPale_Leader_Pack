@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_LEADER_MAYA_gkls621_NAME" Language="en_US">
+			<Text>Maya Yamato</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_MAYA_gkls621_NAME" Language="en_US">
+			<Text>Palindromic Technician</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MAYA_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Cities can build one additional specialized [ICON_District] district. Idol Theaters do not count towards the specialized [ICON_District] district limit. Can build Industrial Zones after unlocking 'Construction'. +100% [ICON_Production] Production towards building Industrial Zones, and +50% [ICON_Production] Production towards building all other districts (except Equipment Rooms). Districts receive +200% adjacency bonus for every two identical adjacent districts; districts receive +100% adjacency bonus for every two identical districts on the second ring.</Text>
+		</Row>
+
+        <Row Tag="LOC_DISTRICT_EQUIPMENT_ROOM_gkls621_NAME" Language="en_US">
+			<Text>Equipment Room</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_EQUIPMENT_ROOM_gkls621_DESCRIPTION" Language="en_US">
+			<Text>A unique district for Maya Yamato as Leader. Replaces the Aqueduct, has a lower base production cost, unlocked with 'Masonry', and multiple can be built in the same city. Provides +1 [ICON_Amenities] Amenity when adjacent to an Industrial Zone or Idol Theater. Provides significant adjacency bonuses to districts, and causes Industrial Zones to receive +100% adjacency bonus.</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

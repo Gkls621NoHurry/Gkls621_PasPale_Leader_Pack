@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+    <LocalizedText>
+        <Row Tag="LOC_PROJECT_AKUSHUKAI_gkls621_NAME" Language="en_US">
+			<Text>Akushukai (Handshake Event)</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_AKUSHUKAI_gkls621_SHORT_NAME" Language="en_US">
+			<Text>Akushukai</Text>
+		</Row>
+        <Row Tag="LOC_PROJECT_AKUSHUKAI_gkls621_DESCRIPTION" Language="en_US">
+			<Text>A unique project for the Pastel*Palettes civilization, requires the Idol Theater district. Provides [ICON_Gold] Gold and [ICON_Culture] Culture per turn, and grants [ICON_GreatMusician] Great Idol points upon completion.[NEWLINE][NEWLINE]After starting the project, each [ICON_Citizen] Citizen exerts +1.0 Loyalty pressure per turn on this city. This Loyalty pressure also affects other cities within 9 tiles, but the effect decreases by 10% per tile of distance. This city gains +20 Loyalty immediately upon project completion.</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_1" Language="en_US">
+			<Text>Agency</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_2" Language="en_US">
+			<Text>Shirasagi Machi</Text>
+		</Row>
+        <Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_3" Language="en_US">
+			<Text>Hikawa Machi</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_4" Language="en_US">
+			<Text>Wakamiya Machi</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_5" Language="en_US">
+			<Text>Yamato Machi</Text>
+		</Row>
+        <Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_6" Language="en_US">
+			<Text>Maruyama Machi</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_7" Language="en_US">
+			<Text>Yotsuba Women's University</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_8" Language="en_US">
+			<Text>Keihō Women's University</Text>
+		</Row>
+        <Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_9" Language="en_US">
+			<Text>Haneoka Astronomy Club</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_10" Language="en_US">
+			<Text>Maruyama Auto Repair</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_11" Language="en_US">
+			<Text>Hazawa Coffee Shop</Text>
+		</Row>
+        <Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_12" Language="en_US">
+			<Text>Equipment Room</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_13" Language="en_US">
+			<Text>Artium of Wakamiya's Castle</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_14" Language="en_US">
+			<Text>Green Room</Text>
+		</Row>
+        <Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_15" Language="en_US">
+			<Text>Maruyama Channel</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_16" Language="en_US">
+			<Text>Fast Food Restaurant</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_17" Language="en_US">
+			<Text>Helsinki</Text>
+		</Row>
+        <Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_18" Language="en_US">
+			<Text>Espoo</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_19" Language="en_US">
+			<Text>Rovaniemi</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_20" Language="en_US">
+			<Text>Idol Stage</Text>
+		</Row>
+
+		<Row Tag="LOC_CITIZEN_PASPALE_gkls621_1" Language="en_US">
+			<Text>Aya Maruyama</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PASPALE_gkls621_2" Language="en_US">
+			<Text>Chisato Shirasagi</Text>
+		</Row>
+        <Row Tag="LOC_CITIZEN_PASPALE_gkls621_3" Language="en_US">
+			<Text>Hina Hikawa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PASPALE_gkls621_4" Language="en_US">
+			<Text>Eve Wakamiya</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PASPALE_gkls621_5" Language="en_US">
+			<Text>Maya Yamato</Text>
+		</Row>
+        <Row Tag="LOC_CITIZEN_PASPALE_gkls621_6" Language="en_US">
+			<Text>Nao Toyama</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PASPALE_gkls621_7" Language="en_US">
+			<Text>Ayumi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PASPALE_gkls621_8" Language="en_US">
+			<Text>Miharu</Text>
+		</Row>
+        <Row Tag="LOC_CITIZEN_PASPALE_gkls621_9" Language="en_US">
+			<Text>Fuyumi</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PASPALE_gkls621_10" Language="en_US">
+			<Text>Hanne</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PASPALE_gkls621_11" Language="en_US">
+			<Text>Mio Serizawa</Text>
+		</Row>
+        <Row Tag="LOC_CITIZEN_PASPALE_gkls621_12" Language="en_US">
+			<Text>Serina Yamase</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PASPALE_gkls621_13" Language="en_US">
+			<Text>Shino Koganei</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PASPALE_gkls621_14" Language="en_US">
+			<Text>Leo</Text>
+		</Row>
+        <Row Tag="LOC_CITIZEN_PASPALE_gkls621_15" Language="en_US">
+			<Text>Mysterious Creature</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PASPALE_gkls621_16" Language="en_US">
+			<Text>Sayo Hikawa</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PASPALE_gkls621_17" Language="en_US">
+			<Text>Kanon Matsubara</Text>
+		</Row>
+        <Row Tag="LOC_CITIZEN_PASPALE_gkls621_18" Language="en_US">
+			<Text>Ami Maeshima</Text>
+		</Row>
+
+		<!--Civilopedia contents-->
+		<Row Tag="LOC_CIVINFO_PASPALE_gkls621_LOCATION" Language="en_US">
+			<Text>Anywhere idol activities might take place,[NEWLINE]including Livehouse Circle, of course</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_PASPALE_gkls621_SIZE" Language="en_US">
+			<Text>A to Z, Uniting the World!</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_PASPALE_gkls621_POPULATION" Language="en_US">
+			<Text>5 people (Please note, Kanon is not a member of PasPale)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_PASPALE_gkls621_CAPITAL" Language="en_US">
+			<Text>Managing Agency</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_PASPALE_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>An "idol band" formed from members of a talent agency: Aya, a trainee who had been working hard in secret; Chisato, who had been involved in show business since childhood; Eve, a mixed-race former model; Hina, who excels at learning anything quickly; and Maya, a studio musician. The band was initially ordered to fake playing and singing, but their debut was exposed due to a power failure, threatening their dissolution. However, through the combined efforts of the five, the band regrouped, avoided being shelved, reinvented their image, and transformed into unique idols. Today, the members from diverse backgrounds continue to strive to establish their own unique "idol images," and their pursuit of dreams shines brightly.</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FANS_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Support culture refers to the culture where fans respond to and cheer for their favorite artists in various ways, particularly referring to actions like calling out chants and waving glow sticks in time with the music during live performances.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FANS_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Fans spontaneously calling out idols' names during performances is a natural behavior with a long history. Since the 1970s, singers like Hideki Saijō promoted the use of specific call books and light-up items; Candies' fans developed visual decorations (like happi coats) and PPPH, core elements of contemporary support culture.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FANS_gkls621_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>As for the most typical pioneer of support culture in the BanG Dream! universe, it is none other than Reona Nyūbara (PAREO), the keyboardist of RAISE A SUILEN and a die-hard Pastel*Palettes fan. She owns a large amount of member merchandise and operates a fan account. Back then, Pareo was deeply moved by PasPale's performance and posted piano cover videos online, which led to her discovery by Chu².</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_IDOL_THEATER_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Many idol groups establish their own theaters as dedicated performance venues. These theaters typically seat hundreds of people, allowing fans to get close to the idols. Well-known examples include the "AKB48 Theater" used by AKB48 and the 765PRO LIVE THE@TER featured in the "The Idolmaster" universe.</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

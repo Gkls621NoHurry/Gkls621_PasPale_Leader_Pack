@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_AGENDA_EVE_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>武士精神</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_EVE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>尊重軍隊規模龐大而保持和平的文明，討厭利用大軍發動戰爭的文明。</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_EVE_gkls621" Language="zh_Hant_HK">
+			<Text>若宮伊芙，竭誠拜謁枯山水，茶劍窺豹和之心，又是充實的一天。北歐圍獵暢飲的傳統、東瀛克己忠君的風尚，孰骨孰皮，早已如空言——樂在其中，活出追求，兼取精華，而冥冥中巧避糟粕。大方、直率、甘於兩肋插刀，這便是你，永懷原初信仰。</Text>
+		</Row>
+
+		<Row Tag="LOC_KENDO_CLUB_TUNDRA_SNOW_FAITH_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>相鄰凍土/雪地地形+{1_Num} [ICON_Faith] 信仰。</Text>
+		</Row>
+		<Row Tag="LOC_KENDO_CLUB_TUNDRA_SNOW_FOOD_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>相鄰凍土/雪地地形+{1_Num} [ICON_Food] 食物。</Text>
+		</Row>
+		<Row Tag="LOC_KENDO_CLUB_FISSURE_FAITH_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>相鄰地熱裂縫+{1_Num} [ICON_Faith] 信仰。</Text>
+		</Row>
+		<Row Tag="LOC_KENDO_CLUB_VOLCANO_FAITH_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>相鄰火山土+{1_Num} [ICON_Faith] 信仰。</Text>
+		</Row>
+		<Row Tag="LOC_KENDO_CLUB_VOLCANIC_SOIL_FAITH_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>相鄰火山+{1_Num} [ICON_Faith] 信仰。</Text>
+		</Row>
+		<Row Tag="LOC_KENDO_CLUB_REEF_FAITH_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>相鄰礁石+{1_Num} [ICON_Faith] 信仰。</Text>
+		</Row>
+		<Row Tag="LOC_KENDO_CLUB_IDOL_THEATER_FAITH_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>相鄰偶像劇場+{1_Num} [ICON_Faith] 信仰。</Text>
+		</Row>
+		<Row Tag="LOC_IDOL_THEATER_KENDO_CLUB_CULTURE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>相鄰劍道俱樂部+{1_Num} [ICON_Culture] 文化。</Text>
+		</Row>
+		<Row Tag="LOC_EVE_KENDO_CLUB_FAITH_FROM_DEATHS_gkls621" Language="zh_Hant_HK">
+			<Text>+{1_iBonus} {2_YieldIcon} 信仰來自死亡與擊殺單位數。</Text>
+		</Row>
+
+		<Row Tag="LOC_EVE_COMBAT_AGAINST_STRONG_UNITS_gkls621_DSECRIPTION" Language="zh_Hant_HK">
+			<Text>對抗基礎戰鬥力更高的單位+{1_Amount} [ICON_Strength] 戰鬥力。</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_EVE_COMBAT_AGAINST_STRONG_UNITS_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>拉普蘭武士道</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_EVE_COMBAT_AGAINST_STRONG_UNITS_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>對抗基礎戰鬥力更高的單位+6 [ICON_Strength] 戰鬥力。</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_KENDO_CLUB_MOVEMENT_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>劍道俱樂部訓練單位</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_KENDO_CLUB_MOVEMENT_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>經驗值獲取+50%。</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_KENDO_CLUB_EXP_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>劍道俱樂部訓練單位</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_KENDO_CLUB_EXP_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+2 [ICON_Movement] 移動力。</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SNIPER_STEALTH_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>雪地狙擊手</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SNIPER_STEALTH_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>只有相鄰敵軍單位才能發現該單位。</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SNIPER_MOVE_AFTER_ATTACK_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>雪地狙擊手</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_SNIPER_MOVE_AFTER_ATTACK_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>攻擊後可移動。</Text>
+		</Row>
+
+		<!--Civilopedia contents-->
+		<Row Tag="LOC_LEADER_EVE_gkls621_QUOTE" Language="zh_Hant_HK">
+			<Text>武士道！</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_EVE_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+			<Text>Pastel✽Palettes的鍵盤手，日芬混血兒，曾長居芬蘭。加入PasPale前是一名模特。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_EVE_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+			<Text>愛看日本時代劇，因而對武士道精神抱有強烈憧憬，進而將「武士道」作為口頭禪；也鍾愛日本文化其他方方面面，常用「能感受到和之心/侘寂/……」等和風表達，但不時會誤用成語，還表示「很想成為大和伊芙」（麻彌：？）。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_EVE_gkls621_CHAPTER_HISTORY_PARA_3" Language="zh_Hant_HK">
+			<Text>伊芙總是光芒四射、振奮人心，以全力以赴的態度面對生活中一切挑戰。她隨和有禮，酷愛擁抱他人，表裡如一深愛所有朋友（她也不可能有敵人）。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_EVE_gkls621_CHAPTER_HISTORY_PARA_4" Language="zh_Hant_HK">
+			<Text>儘管還有PasPale的活動，伊芙依然同時在花咲川的茶道部、花道部、劍道部活動。升高三後，更是同時擔任以上三個社團的部長。此外，她亦是羽澤咖啡店的兼職服務員。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_EVE_gkls621_CHAPTER_HISTORY_PARA_5" Language="zh_Hant_HK">
+			<Text>（整理自Fandom、萌娘百科）</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_KENDO_CLUB_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+			<Text>劍道，是日本一項劍術競技運動。選手雙方須著護具，持竹劍，赤足，在固定大小的木質地板方形場地上進行一對一的比拼。雙方選手必須按規則擊打對方的有效部位，並由裁判判定得分和勝負。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_KENDO_CLUB_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+			<Text>如領袖百科頁面之描述，酷愛武士道文化的伊芙擔任著花咲川劍道社社長之職。她也曾親自上陣，向白金燐子展示扣人心弦的劍道對決。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FINNISH_SNIPER_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+			<Text>「白色死神」西蒙·海耶可能是世上最著名的狙擊手之一，於蘇芬戰爭中立下505人的戰績。他的成功也印證了芬蘭方游擊牽制戰略的實用性。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_EVE_gkls621_AGENDA_HIGH_MILITARY_AT_PEACE" Language="zh_Hant_HK">
+			<Text>有勇有禮，這就是武士道精神！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_EVE_gkls621_AGENDA_HIGH_MILITARY_AT_WAR" Language="zh_Hant_HK">
+			<Text>秉著武士道的原則，我們大可以選擇光明決鬥！（舉刀）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_EVE_gkls621_AGENDA_HIGH_MILITARY_AT_PEACE" Language="zh_Hant_HK">
+			<Text>她喜歡擁兵而無戰的文明。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_EVE_gkls621_AGENDA_HIGH_MILITARY_AT_WAR" Language="zh_Hant_HK">
+			<Text>她討厭借龐大軍隊大肆開戰的文明。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_EVE_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>大家團結一心，著手做一件事，真的特別棒！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_EVE_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>不，不動如山，不渝忠義，不知火舞……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_EVE_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>武士要惺惺相惜！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_EVE_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>大家團結一心，著手做一件事，真的特別棒！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_EVE_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>不，不動如山，不渝忠義，不知火舞……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_EVE_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>你膽怯了嗎？不要成為他人的笑柄，趕快覺悟吧！武士道！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_EVE_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>知恥吧！如此行徑，怎麼配得上武士道之名呢？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_EVE_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>讓他走，讓他走。這是……對勝利者的尊重……武士要惺惺相惜……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_EVE_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>讓他走，讓他走。這是……對勝利者的尊重……武士要惺惺相惜……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_EVE_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>現在只是友誼的開始。以後只要我們都心懷武士道，就什麼困難都能越過！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_EVE_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>或許大和撫子之追求，不是我們的共同語言……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_EVE_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>我們請來了花咲川茶道社與劍道社的表演隊哦！要是有時間的話，請在舞台背後注視我們喲？一定會把我們的英姿，傳達給你！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_EVE_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>要懷著武士之心對待所有難關——現在看來就是要面對你！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_EVE_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>要懷著武士之心對待所有難關——現在看來就是要面對你！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_EVE_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>我是若宮伊芙，PasPale的鍵盤手，今天也是在為了武士道，為了成為大和伊芙，修行著！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_EVE_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>PasPale正在出外景，歡迎你也來看看喲！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_EVE_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>PasPale正在出外景呢。不介意的話，可以來貴國取個景嗎？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_EVE_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>誒，希望我做一個偶像招牌動作嗎？你也來試一個唄？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_EVE_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>演出即是戰役，是孤注一擲的戰場！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_EVE_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>誒嘿嘿……被你這麼一說、我就有幹勁啦！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_EVE_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>武士道精神，就是用來教化你這凡苗的！押忍！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_EVE_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>這種時候不應該流眼淚，應該準備出拳才對！</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

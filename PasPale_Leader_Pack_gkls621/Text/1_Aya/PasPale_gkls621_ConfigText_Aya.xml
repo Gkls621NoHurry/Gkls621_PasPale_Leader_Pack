@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_LEADER_AYA_gkls621_NAME" Language="zh_Hans_CN">
+			<Text>丸山彩</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_AYA_gkls621_NAME" Language="zh_Hans_CN">
+			<Text>丸山添彩！</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_AYA_gkls621_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>开局获得“建造”“工程”“机械”“学徒”“军事工程学”“精炼”的 [ICON_TechBoosted] 尤里卡。同时拥有“批量生产”与“金属铸造”的 [ICON_TechBoosted] 尤里卡（或解锁科技）则解锁“内燃机”。购买重骑兵单位的费用-50%。城市建成工作坊时获得一名建造者；建成工厂时获得建造者、军事工程师各一名。建造者、军事工程师、应援团与近战单位获得+1 [ICON_Charges] 劳动次数。每招募一名 [ICON_GreatPerson] 伟人，全国 [ICON_Science] 科技、 [ICON_Culture] 文化、 [ICON_Faith] 信仰产出+5%（至多30%）。有总督就职的城市，免受环境效应的掠夺。</Text>
+		</Row>
+
+        <Row Tag="LOC_DISTRICT_GARAGE_gkls621_NAME" Language="zh_Hans_CN">
+			<Text>车库</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_GARAGE_gkls621_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>丸山彩为领袖时的特殊区域，替代工业区，解锁于“戏剧与诗歌”市政。建成后提供一个应援团。相邻的战略资源、堡垒、娱乐中心、水上乐园及工作人口提供大量相邻加成，加成资源提供标准相邻加成；区域内每个专家人口使相邻加成+50%。揭示铝资源位置，每回合提供2点石油。6个单元格内的己方军事单位+10 [ICON_Strength] 战斗力，+60生命回复。解锁“工业化”后，提供等于 [ICON_Production] 生产力加成50%的 [ICON_Tourism] 旅游业绩。</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

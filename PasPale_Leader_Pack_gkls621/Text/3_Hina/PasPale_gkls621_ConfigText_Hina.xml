@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_LEADER_HINA_gkls621_NAME" Language="zh_Hans_CN">
+			<Text>冰川日菜</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_HINA_gkls621_NAME" Language="zh_Hans_CN">
+			<Text>小天才</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_HINA_gkls621_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>除首都外的城市不提供 [ICON_Citizen] 人口 [ICON_Science] 科技值产出，但从每个城邦使者获得+0.4 [ICON_Science] 科技值。 [ICON_Citizen] 公民可于山脉单元格工作，山脉单元格提供+2 [ICON_Science] 科技值、+1 [ICON_Production] 生产力、+3 [ICON_Food] 食物，进入工业时代后额外+3 [ICON_Science] 科技值。建成辉煌的天文社、港口、工业区时解锁随机科技，建成辉煌的偶像剧场、商业中心、圣地时解锁随机市政；首次建成天文俱乐部、偶像剧场、市政广场、外交区时获得一项未来时代的 [ICON_TechBoosted] 尤里卡；首次建成航空港时解锁“火箭研究”与“隐形技术”；首次建成宇航中心时获得所有未来时代科技的 [ICON_TechBoosted] 尤里卡，其中已获得尤里卡的科技直接解锁。上述辉煌区域获得50%的初始建造进度。</Text>
+		</Row>
+
+        <Row Tag="LOC_DISTRICT_ASTRONOMY_CLUB_gkls621_NAME" Language="zh_Hans_CN">
+			<Text>天文社</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_ASTRONOMY_CLUB_gkls621_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>冰川日菜为领袖时的特殊区域，替代学院，基础造价更低，非专业化区域。相邻山脉与自然奇观提供大量相邻加成，平原提供少量相邻加成。无法建造学院建筑，但解锁数学、天文学与现代航空后分别获得图书馆、大学与研究实验室的加成。同宇航中心相邻时，城市生产飞天项目时+50% [ICON_Production] 生产力。</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

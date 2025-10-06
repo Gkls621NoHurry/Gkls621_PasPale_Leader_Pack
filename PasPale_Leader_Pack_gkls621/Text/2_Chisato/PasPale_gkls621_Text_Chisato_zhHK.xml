@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_AGENDA_CHISATO_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>老成形象</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_CHISATO_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>喜歡建立同盟的文明，討厭缺少盟友的文明。</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_CHISATO_gkls621" Language="zh_Hant_HK">
+			<Text>白鷺千聖，嫻熟持重的控場者——雖說遠不止於「持重」。笑看曾經雷霆出擊的說教環節，拋卻東西糾結、牽掛顏面的過往——優雅、體恤，是端莊的護身符，更可涵養蘊藉，助力周濟中磨礪出蛻變。於是行家至道，文心化人。</Text>
+		</Row>
+
+		<Row Tag="LOC_CHILDSTAR_GUILD_LUXURY_CULTURE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Culture] 文化來自相鄰奢侈品資源。</Text>
+		</Row>
+		<Row Tag="LOC_CHILDSTAR_GUILD_BONUS_CULTURE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Culture] 文化來自相鄰加成資源。</Text>
+		</Row>
+		<Row Tag="LOC_CHILDSTAR_GUILD_ENTERTAINMENT_CULTURE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Culture] 文化來自相鄰娛樂中心。</Text>
+		</Row>
+		<Row Tag="LOC_CHILDSTAR_GUILD_WATER_ENTERTAINMENT_CULTURE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Culture] 文化來自相鄰水上樂園。</Text>
+		</Row>
+		<Row Tag="LOC_CHILDSTAR_GUILD_IDOL_THEATER_CULTURE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Culture] 文化來自相鄰偶像劇場。</Text>
+		</Row>
+		<Row Tag="LOC_IDOL_THEATER_CHILDSTAR_GUILD_CULTURE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Culture] 文化來自相鄰童星行會。</Text>
+		</Row>
+		<Row Tag="LOC_CHISATO_CHILDSTAR_GUILD_CULTURE_FROM_DIPLO_CARDS_gkls621" Language="zh_Hant_HK">
+			<Text>+{1_iBonus} {2_YieldIcon} 文化來自 {3_AdjacentSubjectNum} 個外交政策。</Text>
+		</Row>
+		<Row Tag="LOC_CHISATO_CHILDSTAR_GUILD_GOLD_FROM_DIPLO_CARDS_gkls621" Language="zh_Hant_HK">
+			<Text>+{1_iBonus} {2_YieldIcon} 金幣來自 {3_AdjacentSubjectNum} 個外交政策。</Text>
+		</Row>
+
+		<!--Civilopedia contents-->
+		<Row Tag="LOC_LEADER_CHISATO_gkls621_QUOTE" Language="zh_Hant_HK">
+			<Text>有必要好好說教吧？</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CHISATO_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+			<Text>Pastel✽Palettes樂隊的貝斯手，幼時即以童星身份活動。因為童星的經驗，所以很會控制場面、維持個人形象。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CHISATO_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+			<Text>喜歡在咖啡廳喝茶和逛街。喜歡吃味道清淡的東西、巴西莓碗，飲料是紅茶，討厭納豆，也討厭吃辣的東西。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CHISATO_gkls621_CHAPTER_HISTORY_PARA_3" Language="zh_Hant_HK">
+			<Text>有一個看起來善良，卻深不可測的微笑。鐵壁微笑背後的千聖是一個典型的腹黑女王，不但懂得利用他人，碰見不愉快的事還會突然黑化，露出著名的「看垃圾的眼神」[NEWLINE]——「有必要好好說教吧？」</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CHISATO_gkls621_CHAPTER_HISTORY_PARA_4" Language="zh_Hant_HK">
+			<Text>畫技感人（謎之生物.jpg），害怕蟲子，坐不明白電車。與彩、花音、薰等人有微妙而美妙的關係（啊，多情的觀眾們）。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CHISATO_gkls621_CHAPTER_HISTORY_PARA_5" Language="zh_Hant_HK">
+			<Text>（整理自Fandom、萌娘百科）</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_CHILDSTAR_GUILD_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+			<Text>行會/工會，是同一行業的從業者建立，以維護共同利益的組織。演藝界也不例外，英美等國家早在二十世紀初期便有了演員工會。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_CHILDSTAR_GUILD_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+			<Text>眾所周知，白鷺千聖早年便以童星身份出道，同時可能是BanG Dream!中最出名的童星。因此，由她主導串聯一個匯集童星與前童星而成的工會亦非不合理。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_CHISATO_EVERYONE_KUDO_gkls621" Language="zh_Hant_HK">
+			<Text>哇，這不是白鷺千聖小姐嗎？！真沒想到能榮幸見到電視裡的大明星！！！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_CHISATO_EVERYONE_KUDO_gkls621" Language="zh_Hant_HK">
+			<Text>你是白鷺千聖。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_CHISATO_gkls621_AGENDA_MANY_ALLIANCES" Language="zh_Hant_HK">
+			<Text>我覺得有大家在，真的是太好了。如果隻身一人，也許無法跨越障礙。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_CHISATO_gkls621_AGENDA_FEW_ALLIANCES" Language="zh_Hant_HK">
+			<Text>你至今為止做的這些事，和個自以為努力得償的練習生有什麼區別？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_CHISATO_gkls621_AGENDA_MANY_ALLIANCES" Language="zh_Hant_HK">
+			<Text>她喜歡訂立盟約的文明。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_CHISATO_gkls621_AGENDA_FEW_ALLIANCES" Language="zh_Hant_HK">
+			<Text>她討厭缺乏同盟的文明。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CHISATO_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>私底下的我，你覺得很新鮮嗎？呵呵，謝謝你。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_CHISATO_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>偶像，要遵守規則……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_CHISATO_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>有能用心交流的夥伴真好。我想成為一個真切的夥伴，我想和你好好交流。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_CHISATO_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>私底下的我，你覺得很新鮮嗎？呵呵，謝謝你。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_CHISATO_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>偶像，要遵守規則……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CHISATO_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>我只是選擇不會失敗的道路……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CHISATO_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>我只是選擇不會失敗的道路……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_CHISATO_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>已經沒有未來了……連我的名字也……要怎麼挽回……？我該怎麼抓住挽回的機會……？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_CHISATO_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>已經沒有未來了……連我的名字也……要怎麼挽回……？我該怎麼抓住挽回的機會……？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_CHISATO_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>雖然直接說出來有些害羞……再次感謝你的鼓勵。今後，也請多多關照！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_CHISATO_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>很抱歉，我無法出席。不介意的話，歡迎再來！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_CHISATO_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>我們的使團送來了羽澤咖啡店的精緻下午茶。我和鶇說好了，您覺得滿意她就來開分店，呵呵。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_CHISATO_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>啊，你這樣很沒禮貌呢。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_CHISATO_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>啊，你這樣很沒禮貌呢。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_CHISATO_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>你好，我是Pastel✽Palettes的貝斯手白鷺千聖。承蒙關照，希望下次同您見面，是在我們的舞台上……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_CHISATO_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>說到PasPale，確實是五個人的力量才能讓我們牢牢團結呢。也歡迎貴國公民欣賞我們的演出！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_CHISATO_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>誒？我在這裡做什麼嗎？……沒什麼目的的，散個步而已。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_CHISATO_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>謝謝你的邀請。也許邀請私下的我的，也只有花音了吧……我該如何回饋你的好意？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_CHISATO_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>啊呀，在這裡碰到你真是碰巧啊</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CHISATO_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>你還真是有趣呢。呼呼……抱歉，笑了出來。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CHISATO_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>可不能這樣沒教養啊……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_CHISATO_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>的確……如果目標只是想要站在寬廣的舞台上，那可能不必拘泥於我們彼此的顏面……</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

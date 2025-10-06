@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_GREAT_PERSON_CLASS_IDOL_gkls621_NAME" Language="en_US">
+			<Text>Great Idol</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_IDOL_gkls621_NAME" Language="en_US">
+			<Text>Great Idol</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GREAT_IDOL_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Description of the Great Idol.</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SAYURI_gkls621_NAME" Language="en_US">
+			<Text>Sayuri Yoshinaga</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_PLADY_gkls621_NAME" Language="en_US">
+			<Text>Pink Lady</Text>
+		</Row>
+        <Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MOMOE_gkls621_NAME" Language="en_US">
+			<Text>Momoe Yamaguchi</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SEIKO_gkls621_NAME" Language="en_US">
+			<Text>Seiko Matsuda</Text>
+		</Row>
+        <Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARI_gkls621_NAME" Language="en_US">
+			<Text>Mari Iijima</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_AKINA_gkls621_NAME" Language="en_US">
+			<Text>Akina Nakamori</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_NORIKO_gkls621_NAME" Language="en_US">
+			<Text>Noriko Sakai</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_YUKIKO_gkls621_NAME" Language="en_US">
+			<Text>Yukiko Okada</Text>
+		</Row>
+        <Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MEGUMI_gkls621_NAME" Language="en_US">
+			<Text>Megumi Hayashibara</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SPEED_gkls621_NAME" Language="en_US">
+			<Text>Speed</Text>
+		</Row>
+        <Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MORNING_gkls621_NAME" Language="en_US">
+			<Text>Morning Musume。</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_AKB48_gkls621_NAME" Language="en_US">
+			<Text>AKB48</Text>
+		</Row>
+        <Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CLOVERZ_gkls621_NAME" Language="en_US">
+			<Text>Momoiro Clover Z</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_765AS_gkls621_NAME" Language="en_US">
+			<Text>765PRO ALLSTARS</Text>
+		</Row>
+        <Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MUS_gkls621_NAME" Language="en_US">
+			<Text>μ's</Text>
+		</Row>
+		<Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_PASPALE_gkls621_NAME" Language="en_US">
+			<Text>Pastel*Palettes</Text>
+		</Row>
+
+		<!--Birth Modifiers-->
+		<Row Tag="LOC_IDOL_SAYURI_IDOL_THEATER_CULTURE_TO_SCIENCE_ATTACH_gkls621" Language="en_US">
+			<Text>In cities within 3 tiles, the [ICON_Gold] Gold and [ICON_Culture] Culture adjacency bonuses of Idol Theaters also provide [ICON_Science] Science.</Text>
+		</Row>
+        <Row Tag="LOC_IDOL_SEIKO_CITY_HAPPY_GOLD_ATTACH_gkls621" Language="en_US">
+			<Text>Within 6 tiles, Happy cities gain +50% [ICON_Gold] Gold yield, and Ecstatic cities gain +150%.</Text>
+		</Row>
+		<Row Tag="LOC_IDOL_MARI_DISTRICTS_EXTRA_RANGE_ATTACH_gkls621" Language="en_US">
+			<Text>Within 6 tiles, the range of regional buildings is increased by 3.</Text>
+		</Row>
+        <Row Tag="LOC_IDOL_YUKIKO_COMBAT_STRENGTH_gkls621" Language="en_US">
+			<Text>Grants adjacent military units +5 [ICON_Strength] Combat Strength and +1 [ICON_Movement] Movement.</Text>
+		</Row>
+		<Row Tag="LOC_IDOL_MEGUMI_EXTRA_ROCK_BAND_ATTACH_gkls621" Language="en_US">
+			<Text>Within 6 tiles, cities gets an extra rock band upon training one.</Text> <!-- Note: Original text was incomplete -->
+		</Row>
+        <Row Tag="LOC_IDOL_765AS_CITIES_IDENTITY_PRESSURE_ATTACH_gkls621" Language="en_US">
+			<Text>Loyalty pressure exerted by cities within 6 tiles is increased by 5.</Text>
+		</Row>
+		<Row Tag="LOC_IDOL_PASPALE_CITIES_PRODUCTION_gkls621" Language="en_US">
+			<Text>Cities within 6 tiles gain +100% [ICON_Production] Production.</Text>
+		</Row>
+
+		<!--Action Modifiers-->
+		<Row Tag="LOC_IDOL_MOMOE_IDOL_EXTRA_CHARGE_gkls621" Language="en_US">
+			<Text>Great Idol gains +1 charge.</Text>
+		</Row>
+        <Row Tag="LOC_IDOL_PLADY_FOREIGN_CONTINENT_CITIES_YIELD_gkls621" Language="en_US">
+			<Text>Cities on a different continent than the capital gain +10% to all yields.</Text>
+		</Row>
+		<Row Tag="LOC_IDOL_SEIKO_COAST_PRODUCTION_gkls621" Language="en_US">
+			<Text>Shallow water tiles gain +1 [ICON_Production] Production. Coastal districts gain +1 [ICON_Amenities] Amenity.</Text>
+		</Row>
+        <Row Tag="LOC_IDOL_AKINA_ALL_PROJECTS_PRODUCTION_gkls621" Language="en_US">
+			<Text>All cities gain +20% [ICON_Production] Production towards Projects. Gain +5% [ICON_Culture] Culture for each city-state you are Suzerain of.</Text>
+		</Row>
+		<Row Tag="LOC_IDOL_NORIKO_OFFENSIVE_SPY_SCIENCE_gkls621" Language="en_US">
+			<Text>Gain one Spy. Successful offensive spy operations grant 150% of the target city's per-turn [ICON_Science] Science and [ICON_Gold] Gold yield.</Text>
+		</Row>
+        <Row Tag="LOC_IDOL_YUKIKO_UNITS_PROPERTY_STRENGTH_gkls621" Language="en_US">
+			<Text>Empire does not generate War Weariness. When a military unit dies, adjacent friendly military units gain +1 [ICON_Strength] Combat Strength.</Text>
+		</Row>
+		<Row Tag="LOC_IDOL_MEGUMI_CITIES_ROCK_BAND_AMENITY_gkls621" Language="en_US">
+			<Text>Gain 3 Rock Bands. Cities with a Rock Band in their City Center gain +5 [ICON_Amenities] Amenities.</Text>
+		</Row>
+		<Row Tag="LOC_IDOL_MORNING_FAITH_FOREST_HARVEST_gkls621" Language="en_US"> <!-- Adjusted based on common game mechanics -->
+			<Text>Yields from harvesting features and resources are increased by 50%. Also gain [ICON_Faith] Faith equal to the amount of yield gained.</Text>
+		</Row>
+        <Row Tag="LOC_IDOL_AKB48_CITIES_GOLD_POPULATION_BASE_gkls621" Language="en_US">
+			<Text>Gain +10 [ICON_Gold] Gold per turn for each [ICON_Citizen] Population in your empire; tripled for cities with a Broadcast Center (or equivalent Theater building).</Text>
+		</Row>
+		<Row Tag="LOC_IDOL_CLOVERZ_TOURISM_BOMB_FARM_ABILITY_gkls621" Language="en_US">
+			<Text>Rock Bands perform 1 level better on Farms, Plantations, and Lumber Mills, and gain +200 [ICON_Tourism] Tourism from performances there.</Text>
+		</Row>
+        <Row Tag="LOC_IDOL_765AS_CITIES_ALLOW_PURCHASE_DISTRICTS_FULL_LOYALTY_gkls621" Language="en_US">
+			<Text>Districts can be purchased with [ICON_Gold] Gold in cities at full Loyalty.</Text>
+		</Row>
+		<Row Tag="LOC_IDOL_MUS_KILL_ENEMY_UNITS_gkls621" Language="en_US">
+			<Text>Instantly kills enemy units within 3 tiles. When your military units are killed, they generate a [ICON_GreatWork_Relic] Relic.</Text>
+		</Row>
+        <Row Tag="LOC_IDOL_PASPALE_CITIES_UNLIMITED_DISTRICTS_FULL_LOYALTY_gkls621" Language="en_US">
+			<Text>Cities at full Loyalty can build specialized districts without population requirements.</Text>
+		</Row>
+		<Row Tag="LOC_IDOL_MARI_CITIES_GRANT_P51_WITH_AERODROME_gkls621" Language="en_US">
+			<Text>All [ICON_Government] Governments gain +1 Wildcard policy slot. Cities gain two P-51 Mustang fighter aircraft upon completing an Aerodrome.</Text>
+		</Row>
+		<Row Tag="LOC_IDOL_SAYURI_CITY_SCIENCE_PER_GREATWORKOBJECT_WRITING_gkls621" Language="en_US">
+			<Text>Gain 200 [ICON_Science] Science and 200 [ICON_Culture] Culture for each Great Work in this city.</Text>
+		</Row>
+		<Row Tag="LOC_IDOL_SPEED_GREAT_PERSON_CLASS_GENERAL_IDOL_THEATER_SCIENCE_gkls621" Language="en_US">
+			<Text>Idol Theaters gain +2 [ICON_Science] Science for each type of [ICON_GreatPerson] Great Person you have recruited.</Text>
+		</Row>
+
+		<Row Tag="LOC_ABILITY_IDOL_YUKIKO_COMBAT_STRENGTH_gkls621_NAME" Language="en_US">
+			<Text>Yukiko Okada</Text>
+		</Row>
+        <Row Tag="LOC_ABILITY_IDOL_YUKIKO_COMBAT_STRENGTH_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Adjacent military units gain +5 [ICON_Strength] Combat Strength.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_IDOL_YUKIKO_MOVEMENT_gkls621_NAME" Language="en_US">
+			<Text> </Text> <!-- Empty name placeholder -->
+		</Row>
+		<Row Tag="LOC_ABILITY_IDOL_YUKIKO_MOVEMENT_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Adjacent military units gain +1 [ICON_Movement] Movement.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_IDOL_YUKIKO_PROPERTY_STRENGTH_gkls621_NAME" Language="en_US">
+			<Text> </Text> <!-- Empty name placeholder -->
+		</Row>
+		<Row Tag="LOC_ABILITY_IDOL_YUKIKO_PROPERTY_STRENGTH_gkls621_DESCRIPTION" Language="en_US">
+			<Text>When a military unit dies, adjacent friendly military units gain +1 [ICON_Strength] Combat Strength.</Text>
+		</Row>
+        <Row Tag="LOC_ABILITY_IDOL_CLOVERZ_TOURISM_BOMB_FARM_gkls621_NAME" Language="en_US">
+			<Text>Momoiro Clover Z</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_IDOL_CLOVERZ_TOURISM_BOMB_FARM_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Gain +200 [ICON_Tourism] Tourism when performing on Farms.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_IDOL_CLOVERZ_ROCK_LEVEL_FARM_gkls621_NAME" Language="en_US">
+			<Text> </Text> <!-- Empty name placeholder -->
+		</Row>
+		<Row Tag="LOC_ABILITY_IDOL_CLOVERZ_ROCK_LEVEL_FARM_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Performance level increased by 1 when performing on Farms.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_IDOL_CLOVERZ_ROCK_LEVEL_PLANTATION_gkls621_NAME" Language="en_US">
+			<Text> </Text> <!-- Empty name placeholder -->
+		</Row>
+		<Row Tag="LOC_ABILITY_IDOL_CLOVERZ_ROCK_LEVEL_PLANTATION_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Performance level increased by 1 when performing on Plantations.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_IDOL_CLOVERZ_TOURISM_BOMB_PLANTATION_gkls621_NAME" Language="en_US">
+			<Text> </Text> <!-- Empty name placeholder -->
+		</Row>
+        <Row Tag="LOC_ABILITY_IDOL_CLOVERZ_TOURISM_BOMB_PLANTATION_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Gain +200 [ICON_Tourism] Tourism when performing on Plantations.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_IDOL_CLOVERZ_TOURISM_BOMB_LUMBER_MILL_gkls621_NAME" Language="en_US">
+			<Text> </Text> <!-- Empty name placeholder -->
+		</Row>
+		<Row Tag="LOC_ABILITY_IDOL_CLOVERZ_TOURISM_BOMB_LUMBER_MILL_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Gain +200 [ICON_Tourism] Tourism when performing on Lumber Mills.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_IDOL_CLOVERZ_ROCK_LEVEL_LUMBER_MILL_gkls621_NAME" Language="en_US">
+			<Text> </Text> <!-- Empty name placeholder -->
+		</Row>
+		<Row Tag="LOC_ABILITY_IDOL_CLOVERZ_ROCK_LEVEL_LUMBER_MILL_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Performance level increased by 1 when performing on Lumber Mills.</Text>
+		</Row>
+        <Row Tag="LOC_ABILITY_IDOL_MUS_UNITS_DEATH_RELIC_gkls621_NAME" Language="en_US">
+			<Text>μ's</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_IDOL_MUS_UNITS_DEATH_RELIC_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Upon death, generates a [ICON_GreatWork_Relic] Relic.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_IDOL_YUKIKO_PROPERTY_STRENGTH_gkls621_PREVIEW" Language="en_US">
+			<Text>+{Property} [ICON_Strength] Combat Strength.</Text>
+		</Row>
+
+        <!--Civilopedia Contents-->
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SAYURI_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+      		<Text>Sayuri Yoshinaga may not have been Japan's first national idol, but she is certainly one of the most enduring and influential national artists in terms of career longevity. As a representative actress of the 1960s, her image of a "pure maiden" was inherited by numerous later idols, and her multi-faceted development path, even the "no-dating clauses" in her personal life, were also adopted by talent agencies.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SAYURI_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+      		<Text>Sayuri Yoshinaga was born on March 13, 1945, and first acted in a radio drama in her sixth year of elementary school (1957). In 1959, her screen debut, "Whistle at Dawn" (Asa no Kikan), was released. In 1962, the 17-year-old Sayuri won the Blue Ribbon Award for Best Actress for "The Street of Furnaces" (Katetsu no aru machi).</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SAYURI_gkls621_CHAPTER_HISTORY_PARA_3" Language="en_US">
+      		<Text>As the leading actress for Nikkatsu film company, Sayuri Yoshinaga starred in many pure love and youth-oriented films (especially paired with Mitsuo Hamada), helping the company pioneer a new direction and successfully attract a large new audience. The songs she sang also sold well, and she herself appeared five times on the Kohaku Uta Gassen (Red and White Song Festival).</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SAYURI_gkls621_CHAPTER_HISTORY_PARA_4" Language="en_US">
+      		<Text>Although the market shift impacted her youthful maiden image, Sayuri successfully transitioned and maintained a stable position in the entertainment industry, winning numerous awards. To this day, she remains one of Japan's highest-paid celebrities for advertising endorsements and is a regular on various "national goddess" lists.[NEWLINE][NEWLINE](Compiled from the Japanese Wikipedia)</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_PLADY_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+      		<Text>Pink Lady was a female vocal duo from the late 1970s. They sparked a craze with their innovative choreography and costumes and even attempted to break into the American market. However, their popularity plummeted abruptly, which is lamentable.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_PLADY_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+      		<Text>The two members of Pink Lady, Mitsuyo Nemoto (Kei) and Keiko Masuda, met in junior high school. In 1973, they passed an audition held by Yamaha Music and entered its vocal school. They later began imitating the popular group Candies (also once considered for inclusion in this mod as a great idol) and attempted to debut, but only succeeded in 1976.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_PLADY_gkls621_CHAPTER_HISTORY_PARA_3" Language="en_US">
+      		<Text>The Victor company that signed them, however, decided to package them with reference to Western disco artists—changing into bold, skin-revealing, form-fitting outfits, promoting a sexy yet fresh and cute image, and using the urban-sounding group name "Pink Lady." Their popularity quickly soared; their debut single won a New Artist Award, and they set a record with ten consecutive singles selling over a million copies and collectively topping the charts for 64 weeks. At that time, their child fans might have constituted up to 42.5% of their audience.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_PLADY_gkls621_CHAPTER_HISTORY_PARA_4" Language="en_US">
+      		<Text>However, as Pink Lady refused an appearance on the Kohaku Uta Gassen to instead perform on NTV's New Year's Eve special, and as idols with different styles like Seiko Matsuda entered the stage, the duo's popularity sharply declined. They held their final concert on March 31, 1981. It is said that attendance was worryingly low, far from matching their initial goal, the final performance of Candies.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_PLADY_gkls621_CHAPTER_HISTORY_PARA_5" Language="en_US">
+      		<Text>It is worth mentioning that Pink Lady also attempted to enter the American market. Their debut single in the US reached No. 37 on the Billboard charts, and they had a namesake variety show in primetime on NBC; unfortunately, all of this came to an abrupt end with the conclusion of their US contract and failed to help reverse the group's declining fortunes.[NEWLINE][NEWLINE](Compiled from the Japanese Wikipedia)</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MOMOE_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+      		<Text>Momoe Yamaguchi's brilliant yet brief artistic career was as fleeting as tanhua (a night-blooming cereus), yet its less than ten-year span has become an eternal, treasured memory in East Asia. However, upon closer examination of her courageous retirement, one can also perceive the bitterness behind the glamour of the entertainment industry.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MOMOE_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+      		<Text>In 1973, Momoe starred in the movie "Toshigoro" and sang its theme song, marking her official debut. Due to lower-than-expected popularity, her agency decided to rebrand her with a "youthful sexuality" route, presenting her as an innocent middle school girl singing songs with provocative and bold lyrics. Although Momoe became hugely popular from then on, becoming the best-selling idol singer of the 70s, the first teenage closing performer on the Kohaku Uta Gassen, and the top-selling photobook model for seven consecutive years, this packaged and enforced experience also sowed the seeds for her early retirement.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MOMOE_gkls621_CHAPTER_HISTORY_PARA_3" Language="en_US">
+      		<Text>In 1974, Momoe Yamaguchi starred in "The Izu Dancer," where she met Tomokazu Miura. She collaborated with him on numerous film and television works, including 11 other movies and 7 installments of TBS's "Red Series" dramas, earning them the title of the "Golden Combination." On October 20, 1979, Momoe announced her relationship with Tomokazu Miura, and on March 7 of the following year, she publicly declared her decision to retire from the entertainment industry. On October 5 of that year, she held her final concert at the Nippon Budokan. The image of her deeply bowing to her fans after the performance, silently walking backstage, leaving the microphone in the center of the stage, remains profoundly moving to this day.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MOMOE_gkls621_CHAPTER_HISTORY_PARA_4" Language="en_US">
+      		<Text>Momoe has rarely appeared in public since her retirement. After her departure, record labels vigorously promoted various "next Momoe Yamaguchi" newcomers, though few succeeded—she was irreplaceable and unrepeatable. With the tide of reform and opening up, her works also became popular in mainland China. Gaining fame abroad even after retiring from acting is indeed a remarkable story.[NEWLINE][NEWLINE](Compiled from the Japanese Wikipedia)</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SEIKO_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+      		<Text>Seiko Matsuda debuted in the same year Momoe Yamaguchi retired, but she ultimately did not become the "next Momoe." Instead, she became an idol who almost defined the style of the 1980s, the "one and only Seiko Matsuda."</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SEIKO_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+      		<Text>Seiko's path to becoming a singer began in 1978. She entered the Ms. Seventeen singing competition audition without her parents' knowledge, advanced, and eventually persuaded her disapproving father to prepare for her debut. In 1980, Seiko sang a series of commercial songs, but due to her lack of fame, she even ended up boosting the popularity of other artists featured in the same ads. Finally, the single "Blue Coral Reef" (Aoi Sangoshō), released in July of that year, became a hit after several twists and turns (though it didn't reach No. 1, it became Seiko Matsuda's signature song), and through this, she shared a performance with Momoe Yamaguchi that was rich in symbolic meaning for the era.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SEIKO_gkls621_CHAPTER_HISTORY_PARA_3" Language="en_US">
+      		<Text>In 1985, Seiko Matsuda married Masaki Kanda (her highly publicized breakup with Hioki Gō prior to this was also a topic of discussion), and in 1986 gave birth to their only daughter, Sayaka Kanda. Returning to the music scene the following year, she maintained her pre-marriage style but began new attempts: self-composing, venturing overseas, releasing jazz-style works, etc. Seiko broke Pink Lady's records for both the number of No. 1 singles and consecutive chart-toppers. She is also the female artist with the most performances at the Nippon Budokan.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SEIKO_gkls621_CHAPTER_HISTORY_PARA_4" Language="en_US">
+      		<Text>Seiko Matsuda was frequently involved in annoying entertainment industry gossip but always remained firmly among the "most popular idols of all time," being publicly recognized in one survey as the "most common celebrity in Japanese magazines." The influence of her early image and style was particularly profound, with the so-called "Seiko haircut" becoming a fashionable hairstyle; furthermore, the powerful song production team behind her also advanced the production quality of idol music albums, laying the foundation for the later mature star-making industry.[NEWLINE][NEWLINE](Compiled from the Japanese Wikipedia)</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MARI_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+      		<Text>Although she herself might not agree, Mari Iijima is indeed one of the pioneers of the "idolization of voice actors." The later success of artists like Megumi Hayashibara, Mizuki Nana, and Uesaka Sumire is, to some extent, indebted to her trailblazing.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MARI_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+      		<Text>Mari Iijima signed with Victor during her university years and released her first album, produced by Ryūichi Sakamoto, in September 1983. However, as early as the previous year, she had begun voicing Lynn Minmay in "The Super Dimension Fortress Macross" and sang songs under Minmay's name. Among these, the theme song "Do You Remember Love?" for the 1984 film reached No. 7 on the Oricon charts.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MARI_gkls621_CHAPTER_HISTORY_PARA_3" Language="en_US">
+      		<Text>In the Macross series' worldview, Lynn Minmay, who left Earth, ultimately disappears into the center of the galaxy; Mari Iijima's connection with the anime world also largely ended here. Later, she continued to focus on her work as a singer, collaborating with artists like Tatsurō Yamashita and Toto. Around the 1990s, she moved to the United States, still releasing new work and regularly returning to Japan to hold concerts.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MARI_gkls621_CHAPTER_HISTORY_PARA_4" Language="en_US">
+      		<Text>However, in subsequent Macross derivative works, she still provided the voice for Minmay and participated in many commemorative events. Although in terms of commercial success, Mari is inferior to her juniors who went further; but she remains a significant figure in the history of multi-talented artist development.[NEWLINE][NEWLINE](Compiled from the Japanese Wikipedia)</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_AKINA_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+      		<Text>Akina Nakamori was also one of the most representative idols of the 1980s, another "successor to Momoe Yamaguchi." Her unfortunate life story evokes pity, and she also enjoys a certain level of popularity in mainland China due to several anecdotes involving Hong Kong entertainment.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_AKINA_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+      		<Text>In 1981, Akina participated in the talent show "Star Tanjō!" (Star Birth!) and performed Momoe Yamaguchi's "Dream Guide" (Yume no Onte), earning the highest score in the show's history and attracting attention. She debuted under her real name the following year, subsequently rising steadily in popularity, achieving two consecutive wins at the Japan Record Awards, four wins at the Japan Record Sales Awards, and becoming the artist with the most number-one songs on TBS's "The Best Ten."</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_AKINA_gkls621_CHAPTER_HISTORY_PARA_3" Language="en_US">
+      		<Text>However, in 1989, during the height of her career, Akina suddenly attempted suicide at the home of her then-boyfriend, artist Masahiko Kondō. It is generally believed that Kondō's betrayal of Akina's affection (he was even photographed in intimate magazine pictures with Seiko Matsuda at the time) provoked this action. On December 31 of that year, the two held a press conference: during which Akina showed goodwill, but Kondō flatly denied their romantic relationship, forcing her to end the program in the "posture of a friend." This event became known historically as the "Golden Screen Incident."</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_AKINA_gkls621_CHAPTER_HISTORY_PARA_4" Language="en_US">
+      		<Text>Akina made a comeback in 1990, occasionally pausing afterwards due to health reasons, but maintained a strong performing career. Rumor has it that she was the first choice for the role of Nie Xiaoqian in the classic Hong Kong film "A Chinese Ghost Story"; and another tragic superstar, Leslie Cheung, also openly expressed his admiration for Akina, further bringing her into the view of Chinese audiences in a peculiar way.[NEWLINE][NEWLINE](Compiled from the Japanese Wikipedia)</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_NORIKO_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+      		<Text>Noriko Sakai, a generation's energetic idol girl, a star pursued across the strait in China (Mainland, Taiwan, Hong Kong), is now "known" for downfall incidents like involvement with drugs and filming explicit works. It truly shows that "things are unpredictable."</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_NORIKO_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+      		<Text>In 1985, Noriko participated in an image contest sponsored by Shiseido. Although she didn't win the championship, she was appreciated by a talent agency and received "BOMB! Award", which was specially created for her. Noriko debuted the following year (through the rare VHD video disc medium), released a series of hit singles, and frequently participated in advertising endorsements and public service poster shoots—Koshien Baseball Match, the Red Cross, and the Fire Department all favored her vitality.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_NORIKO_gkls621_CHAPTER_HISTORY_PARA_3" Language="en_US">
+      		<Text>Noriko Sakai's domestic career was commendable, and she also found success overseas. Originally not the most prominent in popularity, she broke into the Taiwanese market, which was not highly valued by the Japanese entertainment industry at the time, and became immensely popular there, with tickets for her performances being hard to come by. In mainland China, she became a regular on household posters, her songs and TV dramas were hugely popular, and the Panasonic TV commercials she appeared in were also well-loved.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_NORIKO_gkls621_CHAPTER_HISTORY_PARA_4" Language="en_US">
+      		<Text>But in 2009, when Noriko Sakai, married for many years, was arrested for drug use, possession, and even abscondment attempt, everyone was shocked (she had just participated in a promotional film about the legal system produced by the Supreme Court the previous year, having long maintained a positive image). Although her drug addiction was linked to threats from her husband, the damage was done, and her career collapsed. In the following years, at the lowest point of her career, she even appeared in 'X-rated' films; however, the situation has improved somewhat in recent years.[NEWLINE][NEWLINE](Compiled from the Japanese Wikipedia)</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_YUKIKO_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+      		<Text>Yukiko Okada, a rising star in the idol world, was expected to become the "next Seiko Matsuda"; however, her sudden death under mysterious circumstances ended everything, further prompting reflection on the hidden blood and tears within the idol industry and the social effects amplified by the era's background.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_YUKIKO_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+      		<Text>In 1982, Yukiko defied her homeroom teacher's opposition, resolutely skipped class to participate in "Star Tanjō!" and qualified for the finals; she also fulfilled all the harsh academic standards set by her mother as a "debut requirement" through hard work, finally making it the following year. She hosted a series of radio programs and, from 1984 onwards, released many songs, sweeping all newcomer categories at the Japan Record Awards.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_YUKIKO_gkls621_CHAPTER_HISTORY_PARA_3" Language="en_US">
+      		<Text>Yukiko got her first number-one single in 1985, and her other activities progressed simultaneously. But on April 8, 1986, shortly after graduating high school and during a national tour, she suddenly attempted suicide by gas suffocation in her apartment. Rescued, she then leaped from the record company building. The death of this sunny idol shocked Japan and even became a topic of discussion in the Diet. The trend of young students committing suicide that same year was called the "Yukiko Syndrome."</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_YUKIKO_gkls621_CHAPTER_HISTORY_PARA_4" Language="en_US">
+      		<Text>The reasons for her death are varied: emotional setbacks, work overload... What is undeniable is that the idol career she once greatly admired had long since unfolded its true colours. But Okada's own charm remains eternal. Mariya Takeuchi, who provided songs for her, frankly stated: "There are plenty of people whose single sales surpassed hers. But a singer who debuted with a fresh image, full of 'promising future,' yet vanished suddenly is truly unprecedented and likely never to be seen again. She not only delivered dreams to fans but also let people purely enjoy the joy of supporting an idol, while simultaneously projecting the hardships and loneliness of the idol identity onto the world. She is precisely that unique presence who became even more palpable after disappearing." To this day, the place where Yukiko passed away still receives a constant stream of flowers.[NEWLINE][NEWLINE](Compiled from the Japanese Wikipedia)</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MEGUMI_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+      		<Text>The "idolization of voice actors" is no longer a new topic. People hope that the voice actors behind the characters are both talented and good-looking, able to sing and host—in short, to align with the "youthful and energetic idol" image. Megumi Hayashibara's success made this trend irresistible.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MEGUMI_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+      		<Text>Megumi Hayashibara is known as the "Queen of Voice Actors." Her representative roles include, but are not limited to, Female Ranma ("Ranma ½"), Lina Inverse ("Slayers"), Jessie ("Pokémon"), Rei Ayanami ("Neon Genesis Evangelion"), Faye Valentine ("Cowboy Bebop"),  Ai Haibara ("Detective Conan"), and even Hello Kitty. Any '90s work, whether nostalgic childhood memories for elders, enduring fashion items until nowadays, or "high-taste masterpieces," likely features her. Furthermore, she was the first voice actor to have a single ("Give a Reason") and an album ("SPHERE") break into the Oricon Top 10, and she long held chart and sales records.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MEGUMI_gkls621_CHAPTER_HISTORY_PARA_3" Language="en_US">
+      		<Text>Hayashibara initially attended nursing school while simultaneously studying at a voice actor training institute. In 1988, the role of Himiko Shinobu in "Mashin Hero Wataru" became her first major role, but the cautious Hayashibara once continued working as a nurse concurrently until her career prospects became sufficiently clear. Her singing career began with the OVA "Mobile Suit Gundam 0080: War in the Pocket." Actually, voice actors performing on stage was not yet mainstream at the time, and there were instances where older generation voice actors refused to show their faces in interviews. But King Records, which signed Hayashibara, alleviated her concerns and successfully managed her into becoming the "Hibari Misora of the voice acting world."</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MEGUMI_gkls621_CHAPTER_HISTORY_PARA_4" Language="en_US">
+      		<Text>After entering the 2000s, Hayashibara rarely accepted new major roles; while continuing to voice her old characters, she also hosts one of the longest-running voice actor personal radio shows in history (once it was "two of the longest"). King Records, which was determined to discover Hayashibara back then, also accumulated experience and later launched successful voice actor singers like Nana Mizuki and Sumire Uesaka, accelerating the popularity of voice actor idolization.[NEWLINE][NEWLINE](Compiled from the Japanese Wikipedia)</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SPEED_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+      		<Text>SPEED was a singing and dancing idol group from Okinawa Prefecture, consisting of Hiiro Shingaki, Takako Uehara, Eriko Imai, and Hiroko Shimabukuro. Although short-lived, the group was highly successful and can be regarded as a rare representative during the idol downturn of the 1990s.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SPEED_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+      		<Text>In 1995, the members passed an audition held by the Okinawa Actor's School and debuted on Nippon Television later that year. Their ages were all around the transition from elementary to junior high school at the time (average 13.5 years old at debut). They quickly appeared on programs featuring their Okinawan senior Namie Amuro and got their own radio show. SPEED's style emulated the then-popular American girl group TLC, promoting an independent, cool-girl image, with more immediate results: their second single sold over a million copies, and they won the 1996 New Artist Award with their debut single; they later appeared on the 1997 Kohaku Uta Gassen and even embraced the new trend by holding a Christmas online concert.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SPEED_gkls621_CHAPTER_HISTORY_PARA_3" Language="en_US">
+      		<Text>But as the members grew up, they went their separate ways—SPEED announced their impending dissolution on March 31, 2000, on the eve of the new millennium (simultaneously setting a ratings record for the first half of the 1999 Kohaku Uta Gassen). The members began solo activities but have also reunited multiple times.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SPEED_gkls621_CHAPTER_HISTORY_PARA_4" Language="en_US">
+      		<Text>From their CD debut, SPEED's first active period lasted 1335 days. During this time, they released 11 singles, 6 albums, and 4 music videos. Their cumulative sales are approximately 30 million copies, with sales revenue reaching 38.6 billion yen.[NEWLINE][NEWLINE](Compiled from the Japanese Wikipedia)</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MORNING_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+      		<Text>Morning Musume pioneered the idol group operation system of "member graduation" and "generational changeover," allowing the project to continue long-term and leveraging the established fame to generate heat for new members.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MORNING_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+      		<Text>The group's first-generation members were five unsuccessful contestants from a Tokyo TV talent show. They officially debuted in January 1998, immediately landing at No. 6 on the singles chart. Second-generation members joined later the same year, the group won the Japan Record Award for New Artist, and successfully appeared on the Kohaku Uta Gassen. In 1999, Asuka Fukuda became the first member to leave (the term "dattai" - withdrawal - was used then, not "sotsugyō" - graduation), marking prototype of the metabolic system.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MORNING_gkls621_CHAPTER_HISTORY_PARA_3" Language="en_US">
+      		<Text>Morning Musume's commercial performance was quite remarkable: all their singles entered the top 10 of the charts, and almost all reached the top 5; the group participated in the Kohaku Uta Gassen for ten consecutive years, making history. Strategies like maintaining a young member structure, increasing media exposure opportunities, and holding fan interaction events were key secrets to the group's growth from a few failed talent show contestants into a major force.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MORNING_gkls621_CHAPTER_HISTORY_PARA_4" Language="en_US">
+      		<Text>Today, Morning Musume has been renewed to its 17th generation and continues its activities as the core part of "Hello! Project."[NEWLINE][NEWLINE](Compiled from the Japanese Wikipedia)</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_AKB48_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+      		<Text>AKB48, one of the most popular graduation-system female idol groups today, took East Asia by storm with concepts like "growth-oriented" and "idols you can meet," boasting peak popularity that was simply unrivaled; and surprisingly, what outsiders might find strange, but fans feel honored by—the "10-second handshake event ('Akushukai')"—became a major magical weapon of its success.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_AKB48_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+      		<Text>AKB48 began in 2005. Selected members held their first theater performance on December 8 of that year. AKB48's small theater in Akihabara offered almost daily affordable performances, giving the audience frequent opportunities to see their favorite idols up close. Additionally, the "handshake events," which allowed direct contact and conversation with idols, fulfilled fans' dreams of seeing their favorites beyond flat media (at its peak, held almost weekly); the general elections also made it possible for audiences to influence idol development decisions. With the empowerment of such "breaking the fourth wall" techniques, AKB48 helped reverse the decline of Japan's physical music industry (largely driven by the frenzy to get handshake tickets).</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_AKB48_gkls621_CHAPTER_HISTORY_PARA_3" Language="en_US">
+      		<Text>The group's success is inseparable from producer Yasushi Akimoto's unique planning. This very person, who also created "Japan's greatest song" (lyrics for - "Kawa Nagare Uta ni") and the contemporary hottest idol group, had already led the production of another large-scale, girl-next-door style idol group "Onyanko Club" in 1985 (both his wife and Shizuka Kudo came from this group), which swept the nation with over 30 weekly number-one hits. Although the group disbanded shortly after due to member scandals, it inspired Akimoto's new thinking about "idols you can meet." AKB48 was not an instant hit either, but implementing handshake events, establishing general elections, and releasing the hit song "River", which resonated with the members' feelings, helped it break out of the "underground" sphere.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_AKB48_gkls621_CHAPTER_HISTORY_PARA_4" Language="en_US">
+      		<Text>In 2010, AKB48 became the first real-person/group recipient of the "Good Design Award Special Gold Award" (mostly awarded to products), a judgment that is reasonable yet somewhat ironic—does such an operational approach dilute the individual choice rights of idols as human beings? Akimoto charged ahead, continuing to establish 48 Groups (and later 46 Groups) domestically and overseas based on the "meetable" concept. Currently, the 48 Group shows slight fatigue, but people's desire to "meet idols" remains undiminished.[NEWLINE][NEWLINE](Compiled from the Japanese Wikipedia and related articles on platforms like Zhihu and Bilibili)</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CLOVERZ_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+      		<Text>Momoiro Clover Z also adheres to the "idols close to the people" route, starting from street performances and working their way up to major venues, yet their market strategy is "similar yet different" from other groups.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CLOVERZ_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+      		<Text>The group was formed on May 17, 2008, with the members all being of middle school age at the time. Initially neglected by their agency, they had to attract attention through street performances, traveling nationwide in vans for corporate promotional events, and personally selling their records. At that time, only one of their performances in Akihabara sold out, but a slogan intentionally comparing them to AKB48—"Idols meetable NOW"—was also established then. By the end of 2010, thanks to relentless appearances at major music festivals, the group finally achieved a sold-out music hall.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CLOVERZ_gkls621_CHAPTER_HISTORY_PARA_3" Language="en_US">
+      		<Text>Momoiro Clover Z's management is relatively open and unique: no dating bans, low-exposure clothing, CDs do not include event lottery tickets, activities are centered around concerts, etc. Their concert attendance numbers repeatedly broke records among female artists, and the group was selected as the "Best Performing Artist" for multiple years.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CLOVERZ_gkls621_CHAPTER_HISTORY_PARA_4" Language="en_US">
+      		<Text>Momoiro Clover Z's membership has remained stable for over ten years; although there have been departures and retirements, the remaining members have not changed. Even as youth fades, the group, approaching its twenties, still maintains strong appeal.[NEWLINE][NEWLINE](Compiled from the Japanese Wikipedia)</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_765AS_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+      		<Text>The original Idolm@ster franchise is now revered as the "ancestor of Nijigen idols", branching out into a vast empire of hundreds of characters. The project also grew through trial and error, which is particularly evident and far-reaching for the original series.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_765AS_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+      		<Text>Namco officially launched the idol-training arcade game "The Idolm@ster" in July 2005. Initial response was lukewarm, but the rise of Niconico allowed Ps (namely 'Producers', the role played by users and used as the community's moniker) to share gameplay and create derivative works. Coupled with the operator's cross-media expansion, the project began to rise. The console games it released even saved Xbox 360 sales in Japan directly. Due to the constant introduction of new sub-projects, to distinguish them, the initial batch of idols introduced 20 years ago (including those added later) are collectively referred to as "765PRO ALLSTARS," aka the "original series."</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_765AS_gkls621_CHAPTER_HISTORY_PARA_3" Language="en_US">
+      		<Text>Initially, 765PRO ALLSTARS consisted of: Haruka Amami (CV: Eriko Nakamura), Chihaya Kisaragi (CV: Asami Imai), Yukiho Hagiwara (CV: Yurika Ochiai / Yukina Hase → Atsumi Asakura), Yayoi Takatsuki (CV: Mayako Nigo), Iori Minase (CV: Rie Kugimiya), Makoto Kikuchi (CV: Hiromi Hirata), Azusa Miura (CV: Chiaki Takahashi), Ritsuko Akizuki (CV: Naomi Wakabayashi), Mami Futami (CV: Asami Shimoda), Ami Futami (CV: Asami Shimoda). Miki Hoshii (CV: Akiko Hasegawa) joined in the Xbox 360 version, and Hibiki Ganaha (CV: Manami Numakura) &amp; Takane Shijō (CV: Yumi Hara) were introduced via "The Idolm@ster SP." The project initially had no clear "center", but over time, the "Big Three" of Haruka, Chihaya, and Miki were established, with Haruka particularly as the core representative.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_765AS_gkls621_CHAPTER_HISTORY_PARA_4" Language="en_US">
+      		<Text>The story of the 13 members was widely spread through the TV anime "The Idolm@ster," though there are interesting points behind it: first, the 2011 version was far from their first anime; that title belongs to the 2007 mecha anime "Idolm@ster: Xenoglossia," a black history work with completely different voice actors, different character designs, and interpreting "idol" as intelligent robots (though the series quality was passable). Furthermore, the 2011 anime shared many settings with "The Idolm@ster 2", which was seen as "betraying the unity slogan" and sparked opposition, such as the unit Ryūgū Komachi (though the anime remained loyal to the "spirit of unity"). Additionally, lessons like the "Z Ending" from the arcade development period and the voice actor replacement incident provided precedents for later idol projects.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_765AS_gkls621_CHAPTER_HISTORY_PARA_5" Language="en_US">
+      		<Text>In "The Idolm@ster: Million Live!" series, 765PRO introduced a large number of new characters, and the collective name for the original 13 gradually solidified as "765PRO ALLSTARS" (often used in concert titles). Although issues like age and scheduling cannot be ignored, they still regularly hold concerts—the most recent one being for the project's 20th anniversary, with all members present.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MUS_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+      		<Text>μ's, the pioneers of school idols, were once synonymous with "LoveLive!". The LoveLive! Project began in 2010, telling the story of "a dream we achieve together" through print media, music, radio, games, anime, concerts, and other mediums. The school idol group formed by the nine characters was named "μ's" (meaning the nine Muses) through a reader vote that year. They are: Honoka Kōsaka (CV: Emi Nitta), Eli Ayase (CV: Yoshino Nanjō), Kotori Minami (CV: Aya Uchida), Umi Sonoda (CV: Suzuko Mimori), Rin Hoshizora (CV: Riho Iida), Maki Nishikino (CV: Pile), Nozomi Tōjō (CV: Aina Kusuda), Hanayo Kōsaka (CV: Yurika Kubo), Nico Yazawa (CV: Sora Tokui).</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MUS_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+      		<Text>In the project's worldview, the nine become school idols to save their school, Otonokizaka Academy, from closure by attracting new students. Simultaneously, they strive to compete in "LoveLive!", the national school idol tournament. The dramatic story concludes with a happy ending: Otonokizaka is saved from closure, and μ's wins the LoveLive! championship.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MUS_gkls621_CHAPTER_HISTORY_PARA_3" Language="en_US">
+      		<Text>The real-world trajectory of μ's's nine voice actors shares similarities: the project had little attention initially, their first single sold only 434 copies, and the later-famous Sora Tokui once took selfies with the lonesome exhibition booth; however, with the follow-up of concerts, games and anime, their achievements soared. Their Blu-ray discs broke first-week sales records, CD revenue accounted for over half of their record label's income, and they appeared on the 2015 Kohaku Uta Gassen. Memes like "Nico Nico Nii," "Umi's Card Draw," and "In order to save... we've decided to become idols..." have transcended fleeting internet fame and become part of the lives of multiple generations.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MUS_gkls621_CHAPTER_HISTORY_PARA_4" Language="en_US">
+      		<Text>Regrettably, at the height of their popularity, μ's suddenly announced a Final Live, after which never a performance has been held with all the nine members. Some believe this was related to internal strife within Bandai Namco: the aging μ's became losers, having to make way for the newer Aqours—Aqours' initial strategy deliberately avoided μ's, further fanning the flames of the most pointless community conflict, the "Mū-Sui War" (μ's vs. Aqours). Shortly after the Final Live, lead singer Emi Nitta's past involvement in adult videos was exposed, causing panic; although the directly related controversies have gradually subsided, it seems that every subsequent generation of LoveLive! voice actors has been unable to escape the wildest negative rumors.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MUS_gkls621_CHAPTER_HISTORY_PARA_5" Language="en_US">
+      		<Text>Today, μ's members still occasionally participate in project events. Aqours, commercially more successful, has also become a victim to later corporate machinations, with the "LoveLive! tournament" confirmed to be discontinued in the latest work's setting. Setting aside the tragedy and alienation, what barely can be considered ironic is: all these newer groups going their own ways must inherit the mother title passed down by μ's, seemingly no longer able to find a second gold signboard. "Youthful energy," in the end, settled into dust, reveals merely the face of capitalism.[NEWLINE][NEWLINE](LoveLive! plot and worldview information compiled from Moegirlpedia)</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_PASPALE_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+      		<Text>Pastel*Palettes is a band appearing in the "BanG Dream!" series and a voice actor unit of the same name, though the voice actors for the characters do not play instruments.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_PASPALE_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+      		<Text>The Civilization/Leader page has basically introduced Pastel*Palettes and its members. In the real world, their voice actresses are: Ami Maeshima (as Aya Maruyama), Sumire Uesaka (as Chisato Shirasagi), Ari Ozawa (as Hina Hikawa), Sawako Hata (as Eve Wakamiya), Ikumi Nakaue (as Maya Yamato). The unit released their first single "Shuwarin☆Dorimin" on July 12, 2017. Other representative works include "Tenka Tōitsu A to Z☆" and "Yura・Yura Ring-Dong-Dance," etc.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_PASPALE_gkls621_CHAPTER_HISTORY_PARA_3" Language="en_US">
+      		<Text>Pastel*Palettes's activity frequency is not as high as the real-man live bands, primarily involving Ami Maeshima's participation in BanG Dream! series combined live performances, though there are also unit-specific events. As the live bands continuously expand, fans have constantly worried that PasPale and other virtual bands would be marginalized; luckily, the situation remains relatively stable, with new songs, mobile game events, etc., though incidents like unbalanced high-rarity card attributes and peripheral merchandise missing one member occasionally occur.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_PASPALE_gkls621_CHAPTER_HISTORY_PARA_4" Language="en_US">
+      		<Text>Ami Maeshima (affectionately called "Amita"), due to her early idol career and striking resemblance to Aya Maruyama, is universally acknowledged as the group's soul. Her legend of Ten-Tiles-Breaking-Punch has, in turn, fueled countless Aya derivative works. In November 2022, she suddenly announced an activity hiatus, probably frozen by her agency, and caused immense worry about her and PasPale's future. For nearly a year afterwards, Aya was voiceless, with the voice actor field left blank—until September 1, 2023, when Amita returned under a new agency, and Aya regained her voice (previous lines were also re-recorded), leading to widespread jubilation.</Text>
+    	</Row>
+		<Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_PASPALE_gkls621_CHAPTER_HISTORY_PARA_5" Language="en_US">
+      		<Text>In terms of popularity and achievements, Pastel*Palettes can hardly compete with the likes of The Idolm@ster and LoveLive!. But fortunately, helping a group of people find their exclusive love and destined like-minded friends is also the indelible value of "small projects" likewise.[NEWLINE](Of course, after all, they are the protagonists of this mod...)</Text>
+    	</Row>
+	</LocalizedText>
+</GameData>

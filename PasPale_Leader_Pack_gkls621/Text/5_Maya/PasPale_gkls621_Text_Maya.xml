@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_AGENDA_MAYA_gkls621_NAME" Language="zh_Hans_CN">
+			<Text>棚虫</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_MAYA_gkls621_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>喜欢积极建设区域的文明，讨厌懒于建设区域的文明。</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_MAYA_gkls621" Language="zh_Hans_CN">
+			<Text>“命运”一词只是冒险故事起点，“契机”一瞬恰恰铸就佳话长青。大和麻弥，经此神奇洗礼，你仍是那个技艺为本的你，笑声富魔力，聊起器械便入迷。这六角地，同样是你展身手之地；尽情布置基建，缔造有条不紊，大可小天地如一线，安栖其间。</Text>
+		</Row>
+
+		<Row Tag="LOC_EQUIPMENT_ROOM_PRODUCTION_gkls621_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>+{1_Num} [ICON_Production] 生产力来自相邻器材间。</Text>
+		</Row>
+		<Row Tag="LOC_EQUIPMENT_ROOM_CULTURE_gkls621_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>+{1_Num} [ICON_Culture] 文化来自相邻器材间。</Text>
+		</Row>
+		<Row Tag="LOC_EQUIPMENT_ROOM_SCIENCE_gkls621_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>+{1_Num} [ICON_Science] 科技来自相邻器材间。</Text>
+		</Row>
+		<Row Tag="LOC_EQUIPMENT_ROOM_FAITH_gkls621_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>+{1_Num} [ICON_Faith] 信仰来自相邻器材间。</Text>
+		</Row>
+		<Row Tag="LOC_EQUIPMENT_ROOM_GOLD_gkls621_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>+{1_Num} [ICON_Gold] 金币来自相邻器材间。</Text>
+		</Row>
+		<Row Tag="LOC_EQUIPMENT_ROOM_FOOD_gkls621_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>+{1_Num} [ICON_Food] 食物来自相邻器材间。</Text>
+		</Row>
+		<Row Tag="LOC_IDOL_THEATER_EQUIPMENT_ROOM_PRODUCTION_gkls621_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>+{1_Num} [ICON_Production] 生产力来自相邻偶像剧场。</Text>
+		</Row>
+		<Row Tag="LOC_MAYA_RING_ONE_gkls621" Language="zh_Hans_CN">
+			<Text>+{1_iBonus} {2_YieldIcon} 相邻加成来自一环上若干组相同区域。</Text>
+		</Row>
+		<Row Tag="LOC_MAYA_RING_TWO_gkls621" Language="zh_Hans_CN">
+			<Text>+{1_iBonus} {2_YieldIcon} 相邻加成来自二环上若干组相同区域。</Text>
+		</Row>
+		<Row Tag="LOC_EQUIPMENT_INDUSTRY_gkls621" Language="zh_Hans_CN">
+			<Text>+{1_iBonus}% {2_YieldIcon} 相邻加成来自相邻器材间。</Text>
+		</Row>
+		
+    <!--Civilopedia contents-->
+		<Row Tag="LOC_LEADER_MAYA_gkls621_QUOTE" Language="zh_Hans_CN">
+			<Text>呼嘿嘿~</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MAYA_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>姓名的日语发音正反念都一样的大和麻弥，是Pastel✽Palettes乐队的鼓手。重度器材爱好者，精通各色器械，在其余不同范畴的知识亦相当丰富——甚至懂得野外求生。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MAYA_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>起初是事务所的技术人员、支援鼓手。因Pastel✽Palettes迟迟寻不到鼓手人选（唯一容不得假弹的位置），而临时顶班排练；千圣慧眼识珠，看出眼镜背后麻弥的美貌，于是拍板使她成为正式成员（演出时须佩戴隐形眼镜）。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MAYA_gkls621_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>麻弥并不长于社交，于人前的举止总显得有些笨拙，成为鼓手前也曾有点社恐。但每当回到音乐设备周围、谈论她的爱好时，她又会兴奋不已，口若悬河。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MAYA_gkls621_CHAPTER_HISTORY_PARA_4" Language="zh_Hans_CN">
+			<Text>麻弥“呼嘿嘿”的笑声相当魔性，可惜会被千圣纠正，此时则“哦吼吼”地笑。[NEWLINE][NEWLINE]精通场下细琐的麻弥如今已成为事务所演出设施的负责者，并与薰、Masking等人保持良好合作。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MAYA_gkls621_CHAPTER_HISTORY_PARA_5" Language="zh_Hans_CN">
+			<Text>（整理自Fandom、萌娘百科）</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_EQUIPMENT_ROOM_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>电容式麦克风发明于1925年，电吉他发明于1931年，磁带录音机发明于1935年……这些发明改写了录音棚的面貌。到了先锋实验之风盛行的1970年代前后，EMI艾比路录音室的工程师已熟练运用各种声音处理技巧。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_EQUIPMENT_ROOM_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>大和麻弥擅长管理录音器材，而器材间正是集中储存这些设备的绝佳场所。麻弥还是录音室鼓手，初次同PasPale其他成员见面时，就与日菜激动地讨论起电压（电压的什么呢？对于录音设备而言，大概涵盖方方面面吧……）。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_MAYA_gkls621_AGENDA_HIGH_DISTRICTS" Language="zh_Hans_CN">
+			<Text>城市的区域就像录音的设备。嘿嘿，看来你也喜欢打磨细节呢！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_MAYA_gkls621_AGENDA_LOW_DISTRICTS" Language="zh_Hans_CN">
+			<Text>坦白说，其实我推荐你充分利用手头的设备展开建设……</Text>
+		</Row>
+        <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_MAYA_gkls621_AGENDA_HIGH_DISTRICTS" Language="zh_Hans_CN">
+			<Text>她喜欢积极开展区域建设的文明。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_MAYA_gkls621_AGENDA_LOW_DISTRICTS" Language="zh_Hans_CN">
+			<Text>她讨厌缺乏区域开展专业工作的文明。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MAYA_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>谢，谢谢你。那个……我，真的很开心！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MAYA_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>非常抱歉……我不是那种，能够走到台前的类型……！更不要说誓盟什么的了，绝对办不到……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MAYA_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>……这还是第一次，居然有人这样信赖着我……如果你不嫌弃的话……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MAYA_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>谢，谢谢你。那个……我，真的很开心！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MAYA_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>非常抱歉……我不是那种，能够走到台前的类型……！更不要说誓盟什么的了，绝对办不到……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MAYA_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>别看我总是一副闷头摆弄器材的样子，其实你的无理，我也早已看在眼里！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MAYA_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>别看我总是一副闷头摆弄器材的样子，其实你的无理，我也早已看在眼里！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MAYA_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>所有骄傲都碎了：练习、演奏技巧、器材修理、这支由梦想驱动的PasPale……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_MAYA_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>所有骄傲都碎了：练习、演奏技巧、器材修理、这支由梦想驱动的PasPale……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MAYA_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>呼、呼嘿嘿……听到你这么说，我好害羞呀</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_MAYA_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>啊，等等，不好意思……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_MAYA_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>我们送来了最新款的吉他效果器，还有全套的演唱会电路升级解决方案！希望能帮助贵国不重蹈我们的覆辙……[NEWLINE]对了，之后的高级视听展，也非常值得一看！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_MAYA_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>嘿嘿，你这样不是很持重呀~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_MAYA_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>嘿嘿，你这样不是很持重呀~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_MAYA_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>正读倒读都是大和麻弥。我是大和麻弥。请多关照~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MAYA_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>能有人聊乐器的话题，真的非常幸福！诶，诶嘿嘿……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MAYA_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>可，可以让我见识下贵国的琴行吗？嘿嘿，其实只是想，看看有没有最新款攻防卖。嘿嘿嘿……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MAYA_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>那个……你不用怕的！我，我很精通野外求生的技俩的啦……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_MAYA_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>喔，没想到还能碰到你呢！幸会幸会~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MAYA_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>是、是吗？ 诶嘿嘿……被你这样说，真的很开心呢。谢谢你！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MAYA_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>啊咧？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MAYA_gkls621_ANY" Language="zh_Hans_CN">
+			<Text>别碰我刚收拾的架子鼓！而且，你也不可能有踏进来摸着它的机会！</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

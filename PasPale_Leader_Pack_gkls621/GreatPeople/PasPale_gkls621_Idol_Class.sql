@@ -1,0 +1,113 @@
+-- Great People Class Definition
+INSERT INTO Types
+(Type,  Kind)
+VALUES
+('GREAT_PERSON_CLASS_IDOL_gkls621',    'KIND_GREAT_PERSON_CLASS'),
+--('GREAT_PERSON_CLASS_SHADOW_IDOL_gkls621', 'KIND_GREAT_PERSON_CLASS'),
+('UNIT_GREAT_IDOL_gkls621',    'KIND_UNIT');
+--('UNIT_GREAT_IDOL_SHADOW_gkls621',    'KIND_UNIT')
+
+INSERT INTO GreatPersonClasses
+(GreatPersonClassType,
+Name,
+UnitType,
+DistrictType,
+PseudoYieldType,
+IconString,
+ActionIcon,
+AvailableInTimeline)
+VALUES
+('GREAT_PERSON_CLASS_IDOL_gkls621',
+'LOC_GREAT_PERSON_CLASS_IDOL_gkls621_NAME',
+'UNIT_GREAT_IDOL_gkls621',
+'DISTRICT_THEATER',
+'PSEUDOYIELD_GPP_MUSICIAN',
+'[ICON_GreatMusician]',
+'ICON_UNITOPERATION_MUSICIAN_ACTION',
+1);
+/*('GREAT_PERSON_CLASS_SHADOW_IDOL_gkls621',
+'LOC_GREAT_PERSON_CLASS_SHADOW_IDOL_gkls621_NAME',
+'UNIT_GREAT_IDOL_SHADOW_gkls621',
+'DISTRICT_THEATER',
+'PSEUDOYIELD_GPP_MUSICIAN',
+'[ICON_GreatMusician]',
+'ICON_UNITOPERATION_MUSICIAN_ACTION',
+0);*/
+
+INSERT INTO UnitAiInfos
+(UnitType,  AiType)
+VALUES
+('UNIT_GREAT_IDOL_gkls621', 'UNITTYPE_CIVILIAN');
+
+INSERT INTO TypeTags
+(Type,  Tag)
+VALUES
+('UNIT_GREAT_IDOL_gkls621', 'CLASS_LANDCIVILIAN');
+
+INSERT INTO Units
+(UnitType,
+Name, 
+Description, 
+Cost,
+BaseMoves,
+BaseSightRange,
+ZoneOfControl,
+Domain,
+FormationClass,
+CanCapture,
+CanRetreatWhenCaptured,
+CanTrain)
+VALUES
+('UNIT_GREAT_IDOL_gkls621',
+'LOC_UNIT_GREAT_IDOL_gkls621_NAME',
+'LOC_UNIT_GREAT_IDOL_gkls621_DESCRIPTION',
+1,
+4,
+3,
+1,
+'DOMAIN_LAND',
+'FORMATION_CLASS_CIVILIAN',
+0,
+1,
+0);
+/*('UNIT_GREAT_IDOL_SHADOW_gkls621',
+'LOC_UNIT_GREAT_IDOL_gkls621_NAME',
+'LOC_UNIT_GREAT_IDOL_gkls621_DESCRIPTION',
+1,
+1,
+1,
+1,
+'DOMAIN_LAND',
+'FORMATION_CLASS_CIVILIAN',
+0,
+1,
+0);
+
+INSERT INTO CivilopediaPageGroupExcludes
+(SectionId, PageGroupId)
+VALUES
+('GREATPEOPLE', 'GREAT_PERSON_CLASS_SHADOW_IDOL_gkls621');
+*/
+
+INSERT INTO ExcludedGreatPersonClasses
+(GreatPersonClassType,  TraitType)
+SELECT DISTINCT
+'GREAT_PERSON_CLASS_IDOL_gkls621', TraitType
+FROM CivilizationTraits WHERE (CivilizationType <> 'CIVILIZATION_PASPALE_gkls621') AND (TraitType <> 'TRAIT_CIVILIZATION_UNIT_JAPANESE_SAMURAI');
+
+-- Oracle Compatibility
+INSERT INTO BuildingModifiers
+(BuildingType,  ModifierId)
+VALUES
+('BUILDING_ORACLE', 'ORACLE_IDOL_POINT_gkls621');
+
+INSERT INTO Modifiers
+(ModifierId,    ModifierType,   SubjectRequirementSetId)
+VALUES
+('ORACLE_IDOL_POINT_gkls621',   'MODIFIER_SINGLE_CITY_ADJUST_GREAT_PERSON_POINT',    'REQSET_PASPALE_CITY_HAS_IDOL_THEATER_gkls621');
+
+INSERT INTO ModifierArguments
+(ModifierId,    Name,   Value)
+VALUES
+('ORACLE_IDOL_POINT_gkls621',   'Amount',   2),
+('ORACLE_IDOL_POINT_gkls621',   'GreatPersonClassType',   'GREAT_PERSON_CLASS_IDOL_gkls621');

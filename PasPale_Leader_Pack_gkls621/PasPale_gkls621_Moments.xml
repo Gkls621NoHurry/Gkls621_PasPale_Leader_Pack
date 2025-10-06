@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- PasPale_gkls621_Moments -->
+<!-- Author: Geekless_621 -->
+<GameData>
+	<MomentIllustrations>
+        <Row MomentIllustrationType="MOMENT_ILLUSTRATION_UNIQUE_UNIT" MomentDataType="MOMENT_DATA_UNIT" GameDataType="UNIT_FANS_gkls621" Texture="Moment_UniqueUnit_Fans_gkls621.dds"/>
+		<Row MomentIllustrationType="MOMENT_ILLUSTRATION_UNIQUE_UNIT" MomentDataType="MOMENT_DATA_UNIT" GameDataType="UNIT_FINNISH_SNIPER_gkls621" Texture="Moment_UniqueUnit_Finnish_Sniper_gkls621.dds"/>
+		<Row MomentIllustrationType="MOMENT_ILLUSTRATION_UNIQUE_DISTRICT" MomentDataType="MOMENT_DATA_DISTRICT" GameDataType="DISTRICT_IDOL_THEATER_gkls621" Texture="Moment_Infrastructure_PasPale_gkls621.dds"/>
+        <Row MomentIllustrationType="MOMENT_ILLUSTRATION_UNIQUE_DISTRICT" MomentDataType="MOMENT_DATA_DISTRICT" GameDataType="DISTRICT_GARAGE_gkls621" Texture="Moment_Infrastructure_Aya_gkls621.dds"/>
+        <Row MomentIllustrationType="MOMENT_ILLUSTRATION_UNIQUE_DISTRICT" MomentDataType="MOMENT_DATA_DISTRICT" GameDataType="DISTRICT_CHILDSTAR_GUILD_gkls621" Texture="Moment_Infrastructure_Chisato_gkls621.dds"/>
+        <Row MomentIllustrationType="MOMENT_ILLUSTRATION_UNIQUE_DISTRICT" MomentDataType="MOMENT_DATA_DISTRICT" GameDataType="DISTRICT_ASTRONOMY_CLUB_gkls621" Texture="Moment_Infrastructure_Hina_gkls621.dds"/>
+        <Row MomentIllustrationType="MOMENT_ILLUSTRATION_UNIQUE_DISTRICT" MomentDataType="MOMENT_DATA_DISTRICT" GameDataType="DISTRICT_KENDO_CLUB_gkls621" Texture="Moment_Infrastructure_Eve_gkls621.dds"/>
+        <Row MomentIllustrationType="MOMENT_ILLUSTRATION_UNIQUE_DISTRICT" MomentDataType="MOMENT_DATA_DISTRICT" GameDataType="DISTRICT_EQUIPMENT_ROOM_gkls621" Texture="Moment_Infrastructure_Maya_gkls621.dds"/>
+	</MomentIllustrations>
+</GameData>

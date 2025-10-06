@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_NAME" Language="en_US">
+			<Text>Pastel*Palettes</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>PasPale Empire</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_ADJECTIVE" Language="en_US">
+			<Text>Pastel*Palettes's</Text>
+		</Row>
+        <Row Tag="LOC_TRAIT_CIVILIZATION_PASPALE_gkls621_NAME" Language="en_US">
+			<Text>Five Colors Together</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_PASPALE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>All five Pastel*Palettes leaders possess unique districts, and these districts provide significant mutual adjacency bonuses with the Idol Theater. The City Center provides +20% [ICON_Culture] Culture yield for the city when adjacent to an Idol Theater. Can recruit the special [ICON_GreatPerson] Great Person "Great Idol". Entertainment Complexes, Water Parks, Idol Theaters, and their buildings each provide +1 Great Idol point; Leader unique districts provide +2 Great Idol points. Can undertake the special project "Handshake Event". Starts the game with 50% research progress towards "Drama and Poetry".</Text>
+		</Row>
+
+        <Row Tag="LOC_DISTRICT_IDOL_THEATER_gkls621_NAME" Language="en_US">
+			<Text>Idol Theater</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_IDOL_THEATER_gkls621_DESCRIPTION" Language="en_US">
+			<Text>A unique district for the Pastel*Palettes civilization. Replaces the Theater Square and has a lower base production cost. In addition to the Theater Square's adjacency bonuses, provides +2 [ICON_Gold] Gold from adjacent districts, +2 [ICON_Gold] Gold for every two identical improvements, and +4 [ICON_Gold] Gold from World Wonders. Reduces the cost of purchasing Rock Bands in this city by 20%. During a [ICON_GLORY_GOLDEN_AGE] Golden Age, provides [ICON_Tourism] Tourism equal to 50% of its Gold adjacency bonus.</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_FANS_gkls621_NAME" Language="en_US">
+			<Text>Fans</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FANS_gkls621_DESCRIPTION" Language="en_US">
+			<Text>A Medieval Era unique support unit that replaces the Battering Ram. In addition to allowing melee and anti-cavalry units to ignore walls (except Renaissance Walls) when attacking cities, it can also heal adjacent units. Provides adjacent units +2 [ICON_Movement] Movement. Provides an additional +2 [ICON_Movement] Movement when the Support Squad is adjacent to a Great Idol.</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

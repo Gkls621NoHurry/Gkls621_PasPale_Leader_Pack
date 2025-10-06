@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_AGENDA_HINA_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>輕而易舉</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_HINA_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>喜歡科技值產出高的文明，討厭科技水平低下的文明。</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_HINA_gkls621" Language="zh_Hant_HK">
+			<Text>冰川日菜，我們繪製新航線的急切樣子，是否算很「嚕」？人如所好，繁星漫長而規律的運轉，亦狀你跳脫而專一的頭腦。您獨樹一幟的才華將有所新用武，您遊移的興致將揭示偶像旅程聞所未聞的光譜。備好炸薯，輕輕鬆鬆繼續下一程吧！</Text>
+		</Row>
+
+		<Row Tag="LOC_BUILDING_BUILDING_BLOCK_HINA_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>天文社無法建造學院建築！</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BUILDING_BLOCK_HINA_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>天文社無法建造學院建築！</Text>
+		</Row>
+
+		<Row Tag="LOC_ASTRONOMY_CLUB_GRASS_MOUNTAIN_SCIENCE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Science] 科技值來自相鄰草原山脈單元格。</Text>
+		</Row>
+		<Row Tag="LOC_ASTRONOMY_CLUB_PLAINS_MOUNTAIN_SCIENCE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Science] 科技值來自相鄰山脈單元格。</Text>
+		</Row>
+		<Row Tag="LOC_ASTRONOMY_CLUB_DESERT_MOUNTAIN_SCIENCE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Science] 科技值來自相鄰沙漠山脈單元格。</Text>
+		</Row>
+		<Row Tag="LOC_ASTRONOMY_CLUB_TUNDRA_MOUNTAIN_SCIENCE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Science] 科技值來自相鄰凍土山脈單元格。</Text>
+		</Row>
+		<Row Tag="LOC_ASTRONOMY_CLUB_SNOW_MOUNTAIN_SCIENCE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Science] 科技值來自相鄰雪地山脈單元格。</Text>
+		</Row>
+		<Row Tag="LOC_ASTRONOMY_CLUB_GRASS_SCIENCE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Science] 科技值來自相鄰草原單元格。</Text>
+		</Row>
+		<Row Tag="LOC_ASTRONOMY_CLUB_PLAINS_SCIENCE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Science] 科技值來自相鄰平原單元格。</Text>
+		</Row>
+		<Row Tag="LOC_ASTRONOMY_CLUB_DESERT_SCIENCE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Science] 科技值來自相鄰沙漠單元格。</Text>
+		</Row>
+		<Row Tag="LOC_ASTRONOMY_CLUB_TUNDRA_SCIENCE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Science] 科技值來自相鄰凍土單元格。</Text>
+		</Row>
+		<Row Tag="LOC_ASTRONOMY_CLUB_SNOW_SCIENCE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Science] 科技值來自相鄰雪地單元格。</Text>
+		</Row>
+		<Row Tag="LOC_ASTRONOMY_CLUB_WONDER_SCIENCE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Science] 科技值來自相鄰自然奇觀單元格。</Text>
+		</Row>
+		<Row Tag="LOC_ASTRONOMY_CLUB_IDOL_THEATER_SCIENCE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Science] 科技值來自相鄰偶像劇場。</Text>
+		</Row>
+		<Row Tag="LOC_IDOL_THEATER_ASTRONOMY_CLUB_CULTURE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Culture] 文化值來自相鄰天文社。</Text>
+		</Row>
+
+		<!--Civilopedia contents-->
+		<Row Tag="LOC_LEADER_HINA_gkls621_QUOTE" Language="zh_Hant_HK">
+			<Text>嚕♪</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HINA_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+			<Text>Pastel✽Palettes的吉他手，喜歡垃圾食品（尤其是薯條），以及姐姐冰川紗夜（重中之重！）。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HINA_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+			<Text>日菜是個過目不忘一點就通的天才，無論背書或練琴皆駕重如輕；因此，她也容易對某物失去興趣，並尋求新奇有趣的事情。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HINA_gkls621_CHAPTER_HISTORY_PARA_3" Language="zh_Hant_HK">
+			<Text>天才過人的日菜或許難解俗世人情，性格直爽但無遮攔，而且還有點小孩子氣，譬如在彩彩出錯時候狂笑、在手機裡存儲隨手拍攝的彩的醜照……</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HINA_gkls621_CHAPTER_HISTORY_PARA_4" Language="zh_Hant_HK">
+			<Text>曾領導羽丘天文社，並曾擔任羽丘學生會長；雖然日菜治校一事想來不可思議，但在她的指揮下，學生意見得到充分吸收，其偶像心得也成為管理借鑑（天文部也保住了呢）。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HINA_gkls621_CHAPTER_HISTORY_PARA_5" Language="zh_Hant_HK">
+			<Text>（整理自Fandom、萌娘百科，這些條目的確很嚕呢♪）</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_ASTRONOMY_CLUB_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+			<Text>人類很早就開始觀測天象，《尚書》中記載了公元前2137年前後發生的日食，巴比倫人的星表則概括許多天體的運行規律。天文學必然從業餘水平起步，但業餘天文愛好者的俱樂部組織直到近代才真正發展（如1859年成立的利茲天文協會）。天文社，一般也不是學校中佔主流的熱門社團。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_ASTRONOMY_CLUB_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+			<Text>高中時代的冰川日菜是羽丘天文社社長兼長期的唯一成員，曾帶領（隻身一人下，「帶」字其實也不貼切）天文社挺過廢部危機。按日菜評價，天文社團屬於難以募新的「怪人俱樂部」（高松燈：？）；不過，她所舉辦的天文觀測會也能吸引不少學生。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_HINA_gkls621_AGENDA_HIGH_SCIENCE" Language="zh_Hant_HK">
+			<Text>你們國家的新發明，真的很嚕呢♪</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_HINA_gkls621_AGENDA_LOW_SCIENCE" Language="zh_Hant_HK">
+			<Text>哈哈，你果然還是這麼笨呀！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HINA_gkls621_AGENDA_HIGH_SCIENCE" Language="zh_Hant_HK">
+			<Text>她喜歡擁有高科技值的文明。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HINA_gkls621_AGENDA_LOW_SCIENCE" Language="zh_Hant_HK">
+			<Text>她討厭科技值低下的文明。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HINA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>和你在一起很開心！而且，捉弄你也很開心☆</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HINA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>有點無聊……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_HINA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>對我而言，你就是一個未知數！正因為是未知數，所以才會這麼有趣，讓我一直想要和你在一起！「其他人」現在成為了我的原動力——不對，你已經不能算「其他人」了☆</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_HINA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>和你在一起很開心！而且，捉弄你也很開心☆</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_HINA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>有點無聊……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_HINA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>吶，我說，你眼中的宣戰也是嚕到不行吧♪不過得等你的有趣靈魂經此一役升了天，我才有機會用望遠鏡觀察呢♪</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_HINA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>吶，我說，你眼中的宣戰也是嚕到不行吧♪不過得等你的有趣靈魂經此一役升了天，我才有機會用望遠鏡觀察呢♪</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_HINA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>現在要發生些什麼，我也砰——的一下都知道了。如果有比校長講話還長的指控，倒是能證明你是不作不死的大反派哦……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_HINA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>現在要發生些什麼，我也砰——的一下都知道了。如果有比校長講話還長的指控，倒是能證明你是不作不死的大反派哦……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_HINA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>好有趣的代表團嚕♪</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_HINA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>所有流程都是那套樣子，一點也不有趣。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_HINA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>鏘鏘——是小日菜最愛最愛的炸薯條嚕♪還有還有，我用外星人語言設計的題目，所有塗鴉都只是塗鴉，做不出還有懲罰喲！[NEWLINE]——有這麼難嗎？ </Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_HINA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>啊哈哈，確實有些天不怕地不怕的呢，但這只能是專屬於小日菜的有趣之處喲~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_HINA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>啊哈哈，確實有些天不怕地不怕的呢，但這只能是專屬於小日菜的有趣之處喲~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_HINA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>我是冰川日菜！在Pastel✽Palettes中負責彈奏吉他。還有……嗯，沒什麼了。[NEWLINE]欸？其他的？我最喜歡姐姐了♪</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_HINA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>今晚有百年一遇流星雨哦！來一起看看嗎？超級無敵勁爆有趣的呢~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_HINA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>可以讓小日菜合法地偷偷觀察你嗎？哼哼♪</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_HINA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>實際上確實很能消磨時間呢。畢竟我們，都是很有趣的人~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_HINA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>咦咦？竟然能在這裡遇到你呢！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_HINA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>讓小日菜也來看看嚕♪</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_HINA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>都看穿了啦，無♪聊♪的同志~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_HINA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>發現你，好奇你又在動什麼歪腦筋……這樣就會很興奮呢♪</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

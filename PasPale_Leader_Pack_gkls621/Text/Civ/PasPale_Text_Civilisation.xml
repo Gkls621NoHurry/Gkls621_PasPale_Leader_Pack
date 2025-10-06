@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+    <LocalizedText>
+        <Row Tag="LOC_PROJECT_AKUSHUKAI_gkls621_NAME" Language="zh_Hans_CN">
+			<Text>握手会</Text>
+		</Row>
+		<Row Tag="LOC_PROJECT_AKUSHUKAI_gkls621_SHORT_NAME" Language="zh_Hans_CN">
+			<Text>握手会</Text>
+		</Row>
+        <Row Tag="LOC_PROJECT_AKUSHUKAI_gkls621_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>Pastel✽Palettes文明特色项目，需要建成“偶像剧场”区域。每回合提供 [ICON_Gold] 金币与 [ICON_Culture] 文化值、完成后提供 [ICON_GreatMusician] 大偶像点数。[NEWLINE][NEWLINE]项目启动后，每位 [ICON_Citizen] 公民每回合对此城所施加的忠诚度压力+1.0。此忠诚度压力还将影响9个单元格以内的其他城市，但每远离1个单元格，效果减弱10%。项目完成后此城立即+20忠诚度。</Text>
+		</Row>
+
+		<Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_1" Language="zh_Hans_CN">
+			<Text>事务所</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_2" Language="zh_Hans_CN">
+			<Text>白鹭町</Text>
+		</Row>
+        <Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_3" Language="zh_Hans_CN">
+			<Text>冰川町</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_4" Language="zh_Hans_CN">
+			<Text>若宫町</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_5" Language="zh_Hans_CN">
+			<Text>大和町</Text>
+		</Row>
+        <Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_6" Language="zh_Hans_CN">
+			<Text>丸山町</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_7" Language="zh_Hans_CN">
+			<Text>四叶女子大学</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_8" Language="zh_Hans_CN">
+			<Text>庆鹏女子大学</Text>
+		</Row>
+        <Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_9" Language="zh_Hans_CN">
+			<Text>羽丘天文社</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_10" Language="zh_Hans_CN">
+			<Text>丸山汽修厂</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_11" Language="zh_Hans_CN">
+			<Text>羽泽咖啡店</Text>
+		</Row>
+        <Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_12" Language="zh_Hans_CN">
+			<Text>设备间</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_13" Language="zh_Hans_CN">
+			<Text>若宫家城内</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_14" Language="zh_Hans_CN">
+			<Text>休息室</Text>
+		</Row>
+        <Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_15" Language="zh_Hans_CN">
+			<Text>丸山频道</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_16" Language="zh_Hans_CN">
+			<Text>快餐店</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_17" Language="zh_Hans_CN">
+			<Text>赫尔辛基</Text>
+		</Row>
+        <Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_18" Language="zh_Hans_CN">
+			<Text>埃斯波</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_19" Language="zh_Hans_CN">
+			<Text>罗瓦涅米</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_CITY_20" Language="zh_Hans_CN">
+			<Text>偶像舞台</Text>
+		</Row>
+
+		<Row Tag="LOC_CITIZEN_PASPALE_gkls621_1" Language="zh_Hans_CN">
+			<Text>丸山彩</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PASPALE_gkls621_2" Language="zh_Hans_CN">
+			<Text>白鹭千圣</Text>
+		</Row>
+        <Row Tag="LOC_CITIZEN_PASPALE_gkls621_3" Language="zh_Hans_CN">
+			<Text>冰川日菜</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PASPALE_gkls621_4" Language="zh_Hans_CN">
+			<Text>若宫伊芙</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PASPALE_gkls621_5" Language="zh_Hans_CN">
+			<Text>大和麻弥</Text>
+		</Row>
+        <Row Tag="LOC_CITIZEN_PASPALE_gkls621_6" Language="zh_Hans_CN">
+			<Text>东中野奈绪</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PASPALE_gkls621_7" Language="zh_Hans_CN">
+			<Text>步美</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PASPALE_gkls621_8" Language="zh_Hans_CN">
+			<Text>美春</Text>
+		</Row>
+        <Row Tag="LOC_CITIZEN_PASPALE_gkls621_9" Language="zh_Hans_CN">
+			<Text>冬见</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PASPALE_gkls621_10" Language="zh_Hans_CN">
+			<Text>Hanne</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PASPALE_gkls621_11" Language="zh_Hans_CN">
+			<Text>芹泽澪</Text>
+		</Row>
+        <Row Tag="LOC_CITIZEN_PASPALE_gkls621_12" Language="zh_Hans_CN">
+			<Text>山濑濑理奈</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PASPALE_gkls621_13" Language="zh_Hans_CN">
+			<Text>小金井志乃</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PASPALE_gkls621_14" Language="zh_Hans_CN">
+			<Text>Leo</Text>
+		</Row>
+        <Row Tag="LOC_CITIZEN_PASPALE_gkls621_15" Language="zh_Hans_CN">
+			<Text>谜之生物</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PASPALE_gkls621_16" Language="zh_Hans_CN">
+			<Text>冰川纱夜</Text>
+		</Row>
+		<Row Tag="LOC_CITIZEN_PASPALE_gkls621_17" Language="zh_Hans_CN">
+			<Text>松原花音</Text>
+		</Row>
+        <Row Tag="LOC_CITIZEN_PASPALE_gkls621_18" Language="zh_Hans_CN">
+			<Text>前岛亚美</Text>
+		</Row>
+
+		<!--Civilopedia contents-->
+		<Row Tag="LOC_CIVINFO_PASPALE_gkls621_LOCATION" Language="zh_Hans_CN">
+			<Text>一切可能开展偶像活动的地点，[NEWLINE]当然包括Livehouse Circle</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_PASPALE_gkls621_SIZE" Language="zh_Hans_CN">
+			<Text>A to Z，天下一统！</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_PASPALE_gkls621_POPULATION" Language="zh_Hans_CN">
+			<Text>5人（请注意，花音不是PasPale的成员）</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_PASPALE_gkls621_CAPITAL" Language="zh_Hans_CN">
+			<Text>所属事务所</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_PASPALE_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>由演艺事务所旗下成员组成的“偶像乐队”：一直在暗自努力的研修生彩，从小进行演艺活动的千圣，模特出身的混血儿伊芙，学什么都快的日菜以及录音棚音乐人麻弥。乐队最初被命令假弹假唱，然首演便因供电事故而穿帮，面临分崩离析之危；但在五人共同努力下，乐队重整旗鼓，摆脱雪藏，重塑形象，蜕变为自成一格的偶像。如今，背景各异的成员们，依然为确立起各自独有的“偶像形象”而不断奋斗，她们追逐梦想的姿态正绽放光芒。</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FANS_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>应援文化，即粉丝们以多种方式响应、声援自己所喜爱之艺人的文化，尤指在演出现场伴随音乐呼喊口号、甩动荧光棒等行动。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FANS_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hans_CN">
+			<Text>粉丝们在演出时自发呼喊偶像名字，乃属自然行为，由来亦久。而1970年代起，西城秀树等歌手促进了具体Call本与发光物的使用；Candies的粉丝们则发展出视觉装饰（如法披）、PPPH等当代应援文化的核心要素。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_UNITS_PAGE_UNIT_FANS_gkls621_CHAPTER_HISTORY_PARA_3" Language="zh_Hans_CN">
+			<Text>至于BanG Dream!世界观中最典型的应援先锋，非Pastel✽Palettes死忠粉，RAISE A SUILEN的键盘手鳰原令王那（PAREO）莫属。她拥有大量成员周边，并运营着一个粉丝账号。当年，Pareo正是深受PasPale表演的触动，于网上发布钢琴翻弹视频，才有缘被Chu²发掘。</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_IDOL_THEATER_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hans_CN">
+			<Text>许多偶像团体都会开设剧场，作为专属的演出场所。这些剧场的就座规模通常为数百人，足够粉丝们与偶像近距离接触。其中较知名的剧场有AKB48所使用的“AKB48剧场”，以及出现在“偶像大师”世界观中的765PRO LIVE THE@TER等。</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

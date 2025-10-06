@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_LEADER_EVE_gkls621_NAME" Language="en_US">
+			<Text>Eve Wakamiya</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_EVE_gkls621_NAME" Language="en_US">
+			<Text>Lapland Bushido</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_EVE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Can produce Samurai and has the unique unit "Snow Sniper". Can purchase melee and ranged units with [ICON_Faith] Faith. +6 [ICON_Strength] Combat Strength when fighting against military units with higher base Combat Strength. Upon killing a unit, gain [ICON_Science] Science and [ICON_Culture] Culture equal to 50% of its [ICON_Strength] Combat Strength, and [ICON_Faith] Faith equal to 100%. If Eve's unit has lower base Combat Strength, these yields are doubled. Units are immune to damage from Blizzards and Volcanic Eruptions. Enemy units within her territory suffer double damage from these disasters.</Text>
+		</Row>
+
+		<Row Tag="LOC_DISTRICT_KENDO_CLUB_gkls621_NAME" Language="en_US">
+			<Text>Kendo Club</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_KENDO_CLUB_gkls621_DESCRIPTION" Language="en_US">
+			<Text>A unique district when leading as Eve Wakamiya, replacing the Encampment. It has a lower base cost and is unlocked with Military Tradition. Provides standard [ICON_Faith] Faith and [ICON_Food] Food adjacency bonuses from Tundra and Snow tiles; major [ICON_Faith] Faith adjacency from Reefs, Volcanoes, and Fissures; standard [ICON_Faith] Faith adjacency from Volcanic Soil. Also provides minor [ICON_Faith] Faith adjacency based on the total number of military units killed by Eve's forces and the number of kills made by units with lower base Combat Strength (capped at 255). During a [ICON_GLORY_GOLDEN_AGE] Golden Age, [ICON_Faith] Faith adjacency bonuses also provide [ICON_Production] Production. Melee and ranged units produced in this city gain +2 [ICON_Movement] Movement and +50% Experience. The city gains an additional +2 [ICON_Amenities] Amenities if it has a Fissure.</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_FINNISH_SNIPER_gkls621_NAME" Language="en_US">
+			<Text>Snow Sniper</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FINNISH_SNIPER_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Industrial Era unique ranged unit that replaces the Field Cannon. It has lower cost and melee attack, but higher base Movement and Ranged Strength. Ignores Zone of Control and can move after attacking. Can only be detected by adjacent enemy units.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

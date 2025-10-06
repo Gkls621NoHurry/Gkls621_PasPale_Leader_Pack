@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_NAME" Language="zh_Hans_CN">
+			<Text>Pastel✽Palettes</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>PasPale帝国</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_PASPALE_gkls621_ADJECTIVE" Language="zh_Hans_CN">
+			<Text>Pastel✽Palettes的</Text>
+		</Row>
+        <Row Tag="LOC_TRAIT_CIVILIZATION_PASPALE_gkls621_NAME" Language="zh_Hans_CN">
+			<Text>五色担当</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CIVILIZATION_PASPALE_gkls621_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>Pastel✽Palettes的五位领袖均拥有特色区域，且这些区域与偶像剧场互相提供可观的相邻加成。市中心与偶像剧场相邻时，城市 [ICON_Culture] 文化值产出+20%。可招募特殊 [ICON_GreatPerson] 伟人“大偶像”，娱乐中心、水上乐园、偶像剧场及其建筑均提供+1大偶像点数，领袖特色区域提供+2大偶像点数。可进行特殊项目“握手会”。开始游戏时获得“戏剧与诗歌”50%的研究进度。</Text>
+		</Row>
+
+        <Row Tag="LOC_DISTRICT_IDOL_THEATER_gkls621_NAME" Language="zh_Hans_CN">
+			<Text>偶像剧场</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_IDOL_THEATER_gkls621_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>Pastel✽Palettes文明特色区域，替代剧院广场，基础造价更低。除剧院广场的相邻加成外，相邻区域提供+2 [ICON_Gold] 金币，每两个相同改良设施提供+2 [ICON_Gold] 金币，人造奇观提供+4 [ICON_Gold] 金币。所在城市购买摇滚乐队的花费-20%。处于 [ICON_GLORY_GOLDEN_AGE] 黄金时代时，提供等于金币相邻加成50%的 [ICON_Tourism] 旅游业绩。</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_FANS_gkls621_NAME" Language="zh_Hans_CN">
+			<Text>应援团</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FANS_gkls621_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>中世纪特色支援单位，替代攻城塔。除使近战、抗骑兵单位攻城时无视非文艺复兴城墙外，还可治疗相邻单位。相邻单位+2 [ICON_Movement] 移动力，应援团与大偶像相邻时再额外提供+2 [ICON_Movement] 移动力。</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

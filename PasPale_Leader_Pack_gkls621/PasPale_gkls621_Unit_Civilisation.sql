@@ -1,0 +1,132 @@
+-- Pastel*Palettes Civilisation Unique Units
+INSERT INTO Types
+(Type,  Kind)
+VALUES
+('UNIT_FANS_gkls621', 'KIND_UNIT'),
+('TRAIT_UNIT_FANS_gkls621',   'KIND_TRAIT'),
+('ABILITY_FANS_MOVEMENT_BASE_gkls621',  'KIND_ABILITY'),
+('ABILITY_FANS_MOVEMENT_IDOL_gkls621',  'KIND_ABILITY');
+
+INSERT INTO Tags
+(Tag,   Vocabulary)
+VALUES
+('CLASS_FANS_gkls621',    'ABILITY_CLASS');
+
+INSERT INTO TypeTags
+(Type,  Tag)
+VALUES
+('UNIT_FANS_gkls621',         'CLASS_SIEGE_TOWER'),
+('UNIT_FANS_gkls621',         'CLASS_MEDIC'),
+('UNIT_FANS_gkls621',         'CLASS_SUPPORT'),
+('UNIT_FANS_gkls621',    'CLASS_FANS_gkls621'),
+('ABILITY_FANS_MOVEMENT_BASE_gkls621',  'CLASS_FANS_gkls621'),
+('ABILITY_FANS_MOVEMENT_IDOL_gkls621',  'CLASS_FANS_gkls621');
+
+INSERT INTO UnitAiInfos
+(UnitType,  AiType)
+VALUES
+('UNIT_FANS_gkls621',       'UNITTYPE_SIEGE_SUPPORT'),
+('UNIT_FANS_gkls621',       'UNITTYPE_SIEGE_ALL');
+
+INSERT INTO Traits
+(TraitType, Name,   Description)
+VALUES
+('TRAIT_UNIT_FANS_gkls621',    'LOC_UNIT_FANS_gkls621_NAME',  'LOC_UNIT_FANS_gkls621_DESCRIPTION');
+
+INSERT INTO Units
+(UnitType,
+Name, 
+Description, 
+Cost,
+CostProgressionModel,
+CostProgressionParam1,
+Maintenance,
+BaseMoves,
+BaseSightRange,
+ZoneOfControl,
+Domain,
+FormationClass,
+PromotionClass,
+AdvisorType,
+PurchaseYield,
+PrereqTech,
+PrereqCivic,
+TraitType
+)SELECT
+'UNIT_FANS_gkls621',
+'LOC_UNIT_FANS_gkls621_NAME',
+'LOC_UNIT_FANS_gkls621_DESCRIPTION',
+Cost *0.6,
+CostProgressionModel,
+CostProgressionParam1,
+Maintenance -2,
+BaseMoves +1,
+BaseSightRange,
+ZoneOfControl,
+'DOMAIN_LAND',
+FormationClass,
+PromotionClass,
+AdvisorType,
+'YIELD_GOLD',
+NULL,
+'CIVIC_FEUDALISM',
+'TRAIT_UNIT_FANS_gkls621'
+FROM Units WHERE UnitType = 'UNIT_SIEGE_TOWER';
+
+INSERT INTO UnitReplaces
+(CivUniqueUnitType, ReplacesUnitType)
+VALUES
+('UNIT_FANS_gkls621',  'UNIT_SIEGE_TOWER');
+
+INSERT INTO UnitUpgrades
+(Unit,  UpgradeUnit)
+VALUES
+('UNIT_FANS_gkls621',   'UNIT_SUPPLY_CONVOY');
+
+INSERT INTO UnitAbilities
+(UnitAbilityType,   Name,   Description)
+VALUES
+('ABILITY_FANS_MOVEMENT_BASE_gkls621',  'LOC_ABILITY_FANS_MOVEMENT_BASE_gkls621_NAME',  'LOC_ABILITY_FANS_MOVEMENT_BASE_gkls621_DESCRIPTION'),
+('ABILITY_FANS_MOVEMENT_IDOL_gkls621',  'LOC_ABILITY_FANS_MOVEMENT_IDOL_gkls621_NAME',  'LOC_ABILITY_FANS_MOVEMENT_IDOL_gkls621_DESCRIPTION');
+
+INSERT INTO UnitAbilityModifiers
+(UnitAbilityType,   ModifierId)
+VALUES
+('ABILITY_FANS_MOVEMENT_BASE_gkls621',  'FANS_MOVEMENT_BASE_gkls621'),
+('ABILITY_FANS_MOVEMENT_IDOL_gkls621',  'FANS_MOVEMENT_IDOL_gkls621');
+
+INSERT INTO Modifiers 
+(ModifierId,    ModifierType,   OwnerRequirementSetId,  SubjectRequirementSetId,    SubjectStackLimit)
+VALUES
+('FANS_MOVEMENT_BASE_gkls621',  'MODIFIER_PLAYER_UNITS_ADJUST_MOVEMENT', NULL,  'REQSET_PASPALE_UNIT_ADJACENT_TO_OWNER_FANS_gkls621',   1),
+('FANS_MOVEMENT_IDOL_gkls621',  'MODIFIER_PLAYER_UNITS_ADJUST_MOVEMENT', 'REQSET_PASPALE_UNIT_ADJACENT_TO_IDOL_gkls621', 'REQSET_PASPALE_UNIT_ADJACENT_TO_OWNER_FANS_gkls621',   1);
+
+INSERT INTO ModifierArguments
+(ModifierId,    Name,   Value)
+VALUES
+('FANS_MOVEMENT_BASE_gkls621',  'Amount',   2),
+('FANS_MOVEMENT_IDOL_gkls621',  'Amount',   2);
+
+INSERT INTO RequirementSets (RequirementSetId, RequirementSetType)
+VALUES
+('REQSET_PASPALE_UNIT_ADJACENT_TO_OWNER_FANS_gkls621', 'REQUIREMENTSET_TEST_ALL'),
+('REQSET_PASPALE_UNIT_ADJACENT_TO_IDOL_gkls621', 'REQUIREMENTSET_TEST_ALL');
+
+INSERT INTO RequirementSetRequirements (RequirementSetId, RequirementId)
+VALUES
+('REQSET_PASPALE_UNIT_ADJACENT_TO_OWNER_FANS_gkls621', 'PASPALE_UNIT_ADJACENT_TO_OWNER_FANS_gkls621'),
+('REQSET_PASPALE_UNIT_ADJACENT_TO_IDOL_gkls621', 'PASPALE_UNIT_ADJACENT_TO_IDOL_gkls621');
+
+INSERT INTO Requirements (RequirementId, RequirementType)
+VALUES
+('PASPALE_UNIT_ADJACENT_TO_OWNER_FANS_gkls621', 'REQUIREMENT_PLOT_ADJACENT_TO_OWNER'),
+('PASPALE_UNIT_ADJACENT_TO_IDOL_gkls621', 'REQUIREMENT_PLOT_ADJACENT_FRIENDLY_UNIT_TYPE_MATCHES');
+
+INSERT INTO RequirementArguments (RequirementId, Name, Value)
+VALUES
+('PASPALE_UNIT_ADJACENT_TO_IDOL_gkls621', 'IncludeCenter', '1'),
+('PASPALE_UNIT_ADJACENT_TO_IDOL_gkls621', 'MaxRange', '1'),
+('PASPALE_UNIT_ADJACENT_TO_IDOL_gkls621', 'MinRange', '0'),
+('PASPALE_UNIT_ADJACENT_TO_IDOL_gkls621', 'UnitType', 'UNIT_GREAT_IDOL_gkls621'),
+('PASPALE_UNIT_ADJACENT_TO_OWNER_FANS_gkls621', 'MaxDistance', '1'),
+('PASPALE_UNIT_ADJACENT_TO_OWNER_FANS_gkls621', 'MinDistance', '0');

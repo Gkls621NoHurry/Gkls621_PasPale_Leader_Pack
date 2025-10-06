@@ -1,0 +1,202 @@
+-- Maya's Unique District
+INSERT INTO Types
+(Type,  Kind)
+VALUES
+('DISTRICT_EQUIPMENT_ROOM_gkls621',    'KIND_DISTRICT'),
+('TRAIT_DISTRICT_EQUIPMENT_ROOM_gkls621',  'KIND_TRAIT');
+
+INSERT INTO Traits
+(TraitType, Name,   Description)
+VALUES
+('TRAIT_DISTRICT_EQUIPMENT_ROOM_gkls621',  'LOC_DISTRICT_EQUIPMENT_ROOM_gkls621_NAME',    'LOC_DISTRICT_EQUIPMENT_ROOM_gkls621_DESCRIPTION');
+
+INSERT INTO DistrictReplaces
+(CivUniqueDistrictType, ReplacesDistrictType)
+VALUES
+('DISTRICT_EQUIPMENT_ROOM_gkls621',    'DISTRICT_AQUEDUCT');
+
+INSERT INTO Districts 
+(   DistrictType,
+    Name,
+    PrereqTech,
+    PrereqCivic,
+    Coast,
+    Description,
+    Cost,
+    RequiresPlacement,
+    RequiresPopulation,
+    NoAdjacentCity,
+    CityCenter,
+    Aqueduct,
+    InternalOnly,
+    ZOC,
+    FreeEmbark,
+    HitPoints,
+    CaptureRemovesBuildings,
+    CaptureRemovesCityDefenses,
+    PlunderType,
+    PlunderAmount,
+    TradeEmbark,
+    MilitaryDomain,
+    CostProgressionModel,
+    CostProgressionParam1,
+    TraitType,
+    Appeal,
+    Housing,
+    Entertainment,
+    OnePerCity,
+    AllowsHolyCity,
+    Maintenance,
+    AirSlots,
+    CitizenSlots,
+    TravelTime,
+    CityStrengthModifier,
+    AdjacentToLand,
+    CanAttack,
+    AdvisorType,
+    CaptureRemovesDistrict,
+    MaxPerPlayer
+)SELECT
+    'DISTRICT_EQUIPMENT_ROOM_gkls621',
+    'LOC_DISTRICT_EQUIPMENT_ROOM_gkls621_NAME',
+    'TECH_MASONRY',
+    NULL,
+    Coast,
+    'LOC_DISTRICT_EQUIPMENT_ROOM_gkls621_DESCRIPTION',
+    Cost *0.5,
+    RequiresPlacement,
+    RequiresPopulation,
+    0,
+    CityCenter,
+    Aqueduct,
+    InternalOnly,
+    ZOC,
+    FreeEmbark,
+    HitPoints,
+    CaptureRemovesBuildings,
+    CaptureRemovesCityDefenses,
+    PlunderType,
+    PlunderAmount,
+    TradeEmbark,
+    MilitaryDomain,
+    "NO_COST_PROGRESSION",
+    0,
+    'TRAIT_DISTRICT_EQUIPMENT_ROOM_gkls621',
+    1,
+    2,
+    1,
+    0,
+    AllowsHolyCity,
+    0,
+    AirSlots,
+    2,
+    TravelTime,
+    CityStrengthModifier,
+    AdjacentToLand,
+    CanAttack,
+    AdvisorType,
+    CaptureRemovesDistrict,
+    MaxPerPlayer
+FROM Districts WHERE DistrictType = 'DISTRICT_AQUEDUCT';
+
+INSERT INTO District_GreatPersonPoints
+(DistrictType,  GreatPersonClassType,   PointsPerTurn)
+VALUES
+('DISTRICT_EQUIPMENT_ROOM_gkls621',   'GREAT_PERSON_CLASS_ENGINEER',  1),
+('DISTRICT_EQUIPMENT_ROOM_gkls621',   'GREAT_PERSON_CLASS_IDOL_gkls621',  1);
+
+INSERT INTO District_CitizenYieldChanges
+(DistrictType,  YieldType,  YieldChange)
+VALUES
+('DISTRICT_EQUIPMENT_ROOM_gkls621', 'YIELD_SCIENCE',  1),
+('DISTRICT_EQUIPMENT_ROOM_gkls621', 'YIELD_PRODUCTION',  1);
+
+INSERT INTO District_TradeRouteYields
+(DistrictType,  YieldType,  YieldChangeAsOrigin,    YieldChangeAsDomesticDestination,   YieldChangeAsInternationalDestination)
+VALUES
+('DISTRICT_EQUIPMENT_ROOM_gkls621', 'YIELD_PRODUCTION',
+0,    1,   1);
+
+INSERT INTO Districts_XP2
+(DistrictType,  PreventsDrought)
+VALUES
+('DISTRICT_EQUIPMENT_ROOM_gkls621', 1);
+
+INSERT INTO District_BuildChargeProductions
+(DistrictType,  UnitType,   PercentProductionPerCharge)
+VALUES
+('DISTRICT_EQUIPMENT_ROOM_gkls621', 'UNIT_MILITARY_ENGINEER',   20);
+
+INSERT INTO District_Adjacencies
+(DistrictType,  YieldChangeId)
+VALUES
+('DISTRICT_EQUIPMENT_ROOM_gkls621', 'IDOL_THEATER_EQUIPMENT_ROOM_PRODUCTION_gkls621'),
+('DISTRICT_INDUSTRIAL_ZONE', 'EQUIPMENT_ROOM_PRODUCTION_gkls621'),
+('DISTRICT_INDUSTRIAL_ZONE', 'EQUIPMENT_ROOM_CULTURE_gkls621'),
+('DISTRICT_INDUSTRIAL_ZONE', 'EQUIPMENT_ROOM_SCIENCE_gkls621'),
+('DISTRICT_INDUSTRIAL_ZONE', 'EQUIPMENT_ROOM_FAITH_gkls621'),
+('DISTRICT_INDUSTRIAL_ZONE', 'EQUIPMENT_ROOM_GOLD_gkls621'),
+('DISTRICT_INDUSTRIAL_ZONE', 'EQUIPMENT_ROOM_FOOD_gkls621'),
+('DISTRICT_IDOL_THEATER_gkls621', 'EQUIPMENT_ROOM_CULTURE_gkls621'),
+('DISTRICT_CAMPUS', 'EQUIPMENT_ROOM_SCIENCE_gkls621'),
+('DISTRICT_HOLY_SITE', 'EQUIPMENT_ROOM_FAITH_gkls621'),
+('DISTRICT_COMMERCIAL_HUB', 'EQUIPMENT_ROOM_GOLD_gkls621'),
+('DISTRICT_HARBOR', 'EQUIPMENT_ROOM_GOLD_gkls621');
+
+INSERT INTO Adjacency_YieldChanges
+(ID,    Description,    YieldType,  YieldChange,    TilesRequired,  AdjacentDistrict)
+VALUES
+('IDOL_THEATER_EQUIPMENT_ROOM_PRODUCTION_gkls621',    'LOC_IDOL_THEATER_EQUIPMENT_ROOM_PRODUCTION_gkls621_DESCRIPTION',
+'YIELD_PRODUCTION', 3, 1, 'DISTRICT_IDOL_THEATER_gkls621'),
+('EQUIPMENT_ROOM_PRODUCTION_gkls621',    'LOC_EQUIPMENT_ROOM_PRODUCTION_gkls621_DESCRIPTION',
+'YIELD_PRODUCTION', 2, 1, 'DISTRICT_EQUIPMENT_ROOM_gkls621'),
+('EQUIPMENT_ROOM_CULTURE_gkls621',    'LOC_EQUIPMENT_ROOM_CULTURE_gkls621_DESCRIPTION',
+'YIELD_CULTURE', 3, 1, 'DISTRICT_EQUIPMENT_ROOM_gkls621'),
+('EQUIPMENT_ROOM_SCIENCE_gkls621',    'LOC_EQUIPMENT_ROOM_SCIENCE_gkls621_DESCRIPTION',
+'YIELD_SCIENCE', 2, 1, 'DISTRICT_EQUIPMENT_ROOM_gkls621'),
+('EQUIPMENT_ROOM_FAITH_gkls621',    'LOC_EQUIPMENT_ROOM_FAITH_gkls621_DESCRIPTION',
+'YIELD_FAITH', 2, 1, 'DISTRICT_EQUIPMENT_ROOM_gkls621'),
+('EQUIPMENT_ROOM_GOLD_gkls621',    'LOC_EQUIPMENT_ROOM_GOLD_gkls621_DESCRIPTION',
+'YIELD_GOLD', 2, 1, 'DISTRICT_EQUIPMENT_ROOM_gkls621'),
+('EQUIPMENT_ROOM_FOOD_gkls621',    'LOC_EQUIPMENT_ROOM_FOOD_gkls621_DESCRIPTION',
+'YIELD_FOOD', 2, 1, 'DISTRICT_EQUIPMENT_ROOM_gkls621');
+
+INSERT INTO DistrictModifiers
+(DistrictType,  ModifierId)
+VALUES
+('DISTRICT_EQUIPMENT_ROOM_gkls621', 'EQUIPMENT_ROOM_INDUSTRY_AMENITY'),
+('DISTRICT_EQUIPMENT_ROOM_gkls621', 'EQUIPMENT_ROOM_IDOL_THEATER_AMENITY');
+
+INSERT INTO Modifiers
+(ModifierId,    ModifierType,   SubjectRequirementSetId)
+VALUES
+('EQUIPMENT_ROOM_INDUSTRY_AMENITY', 'MODIFIER_PLAYER_DISTRICT_ADJUST_DISTRICT_AMENITY', 'REQSET_PASPALE_DISTRICT_IS_EQUIPMENT_ADJACENT_TO_INDUSTRY_gkls621'),
+('EQUIPMENT_ROOM_IDOL_THEATER_AMENITY', 'MODIFIER_PLAYER_DISTRICT_ADJUST_DISTRICT_AMENITY', 'REQSET_PASPALE_DISTRICT_IS_EQUIPMENT_ADJACENT_TO_IDOL_THEATER_gkls621');
+
+INSERT INTO ModifierArguments
+(ModifierId,    Name,   Value)
+VALUES
+('EQUIPMENT_ROOM_INDUSTRY_AMENITY', 'Amount',   1),
+('EQUIPMENT_ROOM_IDOL_THEATER_AMENITY', 'Amount',   1);
+
+INSERT INTO RequirementSets (RequirementSetId, RequirementSetType)
+VALUES
+('REQSET_PASPALE_DISTRICT_IS_EQUIPMENT_ADJACENT_TO_INDUSTRY_gkls621', 'REQUIREMENTSET_TEST_ALL'),
+('REQSET_PASPALE_DISTRICT_IS_EQUIPMENT_ADJACENT_TO_IDOL_THEATER_gkls621', 'REQUIREMENTSET_TEST_ALL');
+
+INSERT INTO RequirementSetRequirements (RequirementSetId, RequirementId)
+VALUES
+('REQSET_PASPALE_DISTRICT_IS_EQUIPMENT_ADJACENT_TO_INDUSTRY_gkls621', 'PASPALE_DISTRICT_IS_EQUIPMENT_ROOM_gkls621'),
+('REQSET_PASPALE_DISTRICT_IS_EQUIPMENT_ADJACENT_TO_INDUSTRY_gkls621', 'PASPALE_PLOT_ADJACENT_TO_INDUSTRIAL_ZONE_gkls621'),
+('REQSET_PASPALE_DISTRICT_IS_EQUIPMENT_ADJACENT_TO_IDOL_THEATER_gkls621', 'PASPALE_DISTRICT_IS_EQUIPMENT_ROOM_gkls621'),
+('REQSET_PASPALE_DISTRICT_IS_EQUIPMENT_ADJACENT_TO_IDOL_THEATER_gkls621', 'PASPALE_PLOT_ADJACENT_TO_IDOL_THEATER_gkls621');
+
+INSERT INTO Requirements (RequirementId, RequirementType)
+VALUES
+('PASPALE_DISTRICT_IS_EQUIPMENT_ROOM_gkls621', 'REQUIREMENT_DISTRICT_TYPE_MATCHES'),
+('PASPALE_PLOT_ADJACENT_TO_INDUSTRIAL_ZONE_gkls621', 'REQUIREMENT_PLOT_ADJACENT_DISTRICT_TYPE_MATCHES');
+
+INSERT INTO RequirementArguments (RequirementId, Name, Value)
+VALUES
+('PASPALE_DISTRICT_IS_EQUIPMENT_ROOM_gkls621', 'DistrictType', 'DISTRICT_EQUIPMENT_ROOM_gkls621'),
+('PASPALE_PLOT_ADJACENT_TO_INDUSTRIAL_ZONE_gkls621', 'DistrictType', 'DISTRICT_INDUSTRIAL_ZONE');

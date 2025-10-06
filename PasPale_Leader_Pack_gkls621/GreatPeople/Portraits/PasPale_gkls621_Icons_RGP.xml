@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<GameData>
+    <IconTextureAtlases>
+        <Row Name="ATLAS_GREAT_PERSON_INDIVIDUAL_SAYURI_gkls621" IconSize="160" IconsPerRow="1" IconsPerColumn="1" Filename="IDOL_SAYURI_gkls621.dds"/>
+        <Row Name="ATLAS_GREAT_PERSON_INDIVIDUAL_PLADY_gkls621" IconSize="160" IconsPerRow="1" IconsPerColumn="1" Filename="IDOL_PLADY_gkls621.dds"/>
+        <Row Name="ATLAS_GREAT_PERSON_INDIVIDUAL_MOMOE_gkls621" IconSize="160" IconsPerRow="1" IconsPerColumn="1" Filename="IDOL_MOMOE_gkls621.dds"/>
+        <Row Name="ATLAS_GREAT_PERSON_INDIVIDUAL_SEIKO_gkls621" IconSize="160" IconsPerRow="1" IconsPerColumn="1" Filename="IDOL_SEIKO_gkls621.dds"/>
+        <Row Name="ATLAS_GREAT_PERSON_INDIVIDUAL_MARI_gkls621" IconSize="160" IconsPerRow="1" IconsPerColumn="1" Filename="IDOL_MARI_gkls621.dds"/>
+        <Row Name="ATLAS_GREAT_PERSON_INDIVIDUAL_AKINA_gkls621" IconSize="160" IconsPerRow="1" IconsPerColumn="1" Filename="IDOL_AKINA_gkls621.dds"/>
+        <Row Name="ATLAS_GREAT_PERSON_INDIVIDUAL_NORIKO_gkls621" IconSize="160" IconsPerRow="1" IconsPerColumn="1" Filename="IDOL_NORIKO_gkls621.dds"/>
+        <Row Name="ATLAS_GREAT_PERSON_INDIVIDUAL_YUKIKO_gkls621" IconSize="160" IconsPerRow="1" IconsPerColumn="1" Filename="IDOL_YUKIKO_gkls621.dds"/>
+        <Row Name="ATLAS_GREAT_PERSON_INDIVIDUAL_MEGUMI_gkls621" IconSize="160" IconsPerRow="1" IconsPerColumn="1" Filename="IDOL_MEGUMI_gkls621.dds"/>
+        <Row Name="ATLAS_GREAT_PERSON_INDIVIDUAL_SPEED_gkls621" IconSize="160" IconsPerRow="1" IconsPerColumn="1" Filename="IDOL_SPEED_gkls621.dds"/>
+        <Row Name="ATLAS_GREAT_PERSON_INDIVIDUAL_MORNING_gkls621" IconSize="160" IconsPerRow="1" IconsPerColumn="1" Filename="IDOL_MORNING_gkls621.dds"/>
+        <Row Name="ATLAS_GREAT_PERSON_INDIVIDUAL_AKB48_gkls621" IconSize="160" IconsPerRow="1" IconsPerColumn="1" Filename="IDOL_AKB48_gkls621.dds"/>
+        <Row Name="ATLAS_GREAT_PERSON_INDIVIDUAL_CLOVERZ_gkls621" IconSize="160" IconsPerRow="1" IconsPerColumn="1" Filename="IDOL_CLOVERZ_gkls621.dds"/>
+        <Row Name="ATLAS_GREAT_PERSON_INDIVIDUAL_765AS_gkls621" IconSize="160" IconsPerRow="1" IconsPerColumn="1" Filename="IDOL_765AS_gkls621.dds"/>
+        <Row Name="ATLAS_GREAT_PERSON_INDIVIDUAL_MUS_gkls621" IconSize="160" IconsPerRow="1" IconsPerColumn="1" Filename="IDOL_MUS_gkls621.dds"/>
+        <Row Name="ATLAS_GREAT_PERSON_INDIVIDUAL_PASPALE_gkls621" IconSize="160" IconsPerRow="1" IconsPerColumn="1" Filename="IDOL_PASPALE_gkls621.dds"/>
+    </IconTextureAtlases>
+    <IconDefinitions>
+        <Row Name="ICON_GREAT_PERSON_INDIVIDUAL_SAYURI_gkls621" Atlas="ATLAS_GREAT_PERSON_INDIVIDUAL_SAYURI_gkls621" Index="0"/>
+        <Row Name="ICON_GREAT_PERSON_INDIVIDUAL_PLADY_gkls621" Atlas="ATLAS_GREAT_PERSON_INDIVIDUAL_PLADY_gkls621" Index="0"/>
+        <Row Name="ICON_GREAT_PERSON_INDIVIDUAL_MOMOE_gkls621" Atlas="ATLAS_GREAT_PERSON_INDIVIDUAL_MOMOE_gkls621" Index="0"/>
+        <Row Name="ICON_GREAT_PERSON_INDIVIDUAL_SEIKO_gkls621" Atlas="ATLAS_GREAT_PERSON_INDIVIDUAL_SEIKO_gkls621" Index="0"/>
+        <Row Name="ICON_GREAT_PERSON_INDIVIDUAL_MARI_gkls621" Atlas="ATLAS_GREAT_PERSON_INDIVIDUAL_MARI_gkls621" Index="0"/>
+        <Row Name="ICON_GREAT_PERSON_INDIVIDUAL_AKINA_gkls621" Atlas="ATLAS_GREAT_PERSON_INDIVIDUAL_AKINA_gkls621" Index="0"/>
+        <Row Name="ICON_GREAT_PERSON_INDIVIDUAL_NORIKO_gkls621" Atlas="ATLAS_GREAT_PERSON_INDIVIDUAL_NORIKO_gkls621" Index="0"/>
+        <Row Name="ICON_GREAT_PERSON_INDIVIDUAL_YUKIKO_gkls621" Atlas="ATLAS_GREAT_PERSON_INDIVIDUAL_YUKIKO_gkls621" Index="0"/>
+        <Row Name="ICON_GREAT_PERSON_INDIVIDUAL_MEGUMI_gkls621" Atlas="ATLAS_GREAT_PERSON_INDIVIDUAL_MEGUMI_gkls621" Index="0"/>
+        <Row Name="ICON_GREAT_PERSON_INDIVIDUAL_SPEED_gkls621" Atlas="ATLAS_GREAT_PERSON_INDIVIDUAL_SPEED_gkls621" Index="0"/>
+        <Row Name="ICON_GREAT_PERSON_INDIVIDUAL_MORNING_gkls621" Atlas="ATLAS_GREAT_PERSON_INDIVIDUAL_MORNING_gkls621" Index="0"/>
+        <Row Name="ICON_GREAT_PERSON_INDIVIDUAL_AKB48_gkls621" Atlas="ATLAS_GREAT_PERSON_INDIVIDUAL_AKB48_gkls621" Index="0"/>
+        <Row Name="ICON_GREAT_PERSON_INDIVIDUAL_CLOVERZ_gkls621" Atlas="ATLAS_GREAT_PERSON_INDIVIDUAL_CLOVERZ_gkls621" Index="0"/>
+        <Row Name="ICON_GREAT_PERSON_INDIVIDUAL_765AS_gkls621" Atlas="ATLAS_GREAT_PERSON_INDIVIDUAL_765AS_gkls621" Index="0"/>
+        <Row Name="ICON_GREAT_PERSON_INDIVIDUAL_MUS_gkls621" Atlas="ATLAS_GREAT_PERSON_INDIVIDUAL_MUS_gkls621" Index="0"/>
+        <Row Name="ICON_GREAT_PERSON_INDIVIDUAL_PASPALE_gkls621" Atlas="ATLAS_GREAT_PERSON_INDIVIDUAL_PASPALE_gkls621" Index="0"/>
+    </IconDefinitions>
+</GameData>

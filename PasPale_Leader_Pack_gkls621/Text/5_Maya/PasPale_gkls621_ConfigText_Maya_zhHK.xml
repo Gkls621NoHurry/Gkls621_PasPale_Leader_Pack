@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_LEADER_MAYA_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>大和麻彌</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_MAYA_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>回文技師</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_MAYA_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>城市可額外建造一個專業化 [ICON_District] 區域，偶像劇場不佔用專業化 [ICON_District] 區域名額。解鎖「建造」即可建造工業區。建造工業區時+100% [ICON_Production] 生產力，建造其餘區域時+50% [ICON_Production] 生產力（除器材間）。區域每與兩個相同區域相鄰，相鄰加成+200%；區域二環上每有兩個相同區域，相鄰加成+100%。</Text>
+		</Row>
+
+        <Row Tag="LOC_DISTRICT_EQUIPMENT_ROOM_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>器材間</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_EQUIPMENT_ROOM_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>大和麻彌為領袖時的特殊區域，替代水渠，基礎造價更低，解鎖於「砌磚」，同一城市可建造多個。與工業區/偶像劇場相鄰時，提供+1 [ICON_Amenities] 宜居度。可為區域提供大量相鄰加成，並使工業區相鄰加成+100%。</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

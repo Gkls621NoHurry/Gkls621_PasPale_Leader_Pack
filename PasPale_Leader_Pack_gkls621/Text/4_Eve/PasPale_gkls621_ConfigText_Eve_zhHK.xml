@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_LEADER_EVE_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>若宮伊芙</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_EVE_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>拉普蘭武士道</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_EVE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>可生產武士，並擁有特色單位「雪地狙擊手」。可以 [ICON_Faith] 信仰值購買近戰、遠程單位。對抗基礎戰鬥力更高的軍事單位時+6 [ICON_Strength] 戰鬥力。擊殺單位時獲得其 [ICON_Strength] 戰鬥力50%的 [ICON_Science] 科技值、 [ICON_Culture] 文化值及100%的 [ICON_Faith] 信仰值，若伊芙方單位基礎戰鬥力更低則收益翻番。單位不受暴風雪與火山噴發之傷害，國境內敵方單位遭遇以上災害時所受傷害加倍。</Text>
+		</Row>
+
+        <Row Tag="LOC_DISTRICT_KENDO_CLUB_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>劍道俱樂部</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_KENDO_CLUB_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>若宮伊芙為領袖時的特殊區域，替代軍營，基礎造價更低，解鎖於「軍事傳統」。相鄰凍土與雪地類單元格提供標準的 [ICON_Faith] 信仰值與 [ICON_Food] 食物相鄰加成，礁石、火山、地熱裂縫提供大量 [ICON_Faith] 信仰值相鄰加成，火山土提供標準 [ICON_Faith] 信仰值相鄰加成，伊芙方所擊殺軍事單位之總數、其中使用基礎戰鬥力較低的單位完成擊殺之次數提供少量 [ICON_Faith] 信仰值相鄰加成（上限為255）。處於 [ICON_GLORY_GOLDEN_AGE] 黃金時代時， [ICON_Faith] 信仰值相鄰加成也提供 [ICON_Production] 生產力。所在城市生產的近戰及遠程單位+2 [ICON_Movement] 移動力，所獲經驗+50%。所在城市擁有地熱裂縫時額外+2 [ICON_Amenities] 宜居度。</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_FINNISH_SNIPER_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>雪地狙擊手</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FINNISH_SNIPER_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>工業時代特色遠程單位，替代野戰加農炮，造價更低。近戰攻擊力較低，基礎移動力與遠程攻擊力更高，無視控制區，攻擊後可移動。只有相鄰的敵方單位才能發現之。</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

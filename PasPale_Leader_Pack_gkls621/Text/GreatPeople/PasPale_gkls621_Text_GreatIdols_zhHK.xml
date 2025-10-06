@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+    <LocalizedText>
+        <Row Tag="LOC_GREAT_PERSON_CLASS_IDOL_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>大偶像</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_GREAT_IDOL_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>大偶像</Text>
+        </Row>
+        <Row Tag="LOC_UNIT_GREAT_IDOL_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>大偶像的描述</Text>
+        </Row>
+        <Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SAYURI_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>吉永小百合</Text>
+        </Row>
+        <Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_PLADY_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>Pink Lady</Text>
+        </Row>
+        <Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MOMOE_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>山口百惠</Text>
+        </Row>
+        <Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SEIKO_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>松田聖子</Text>
+        </Row>
+        <Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MARI_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>飯島真理</Text>
+        </Row>
+        <Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_AKINA_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>中森明菜</Text>
+        </Row>
+        <Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_NORIKO_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>酒井法子</Text>
+        </Row>
+        <Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_YUKIKO_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>岡田有希子</Text>
+        </Row>
+        <Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MEGUMI_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>林原惠美</Text>
+        </Row>
+        <Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_SPEED_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>Speed</Text>
+        </Row>
+        <Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MORNING_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>早安少女組</Text>
+        </Row>
+        <Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_AKB48_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>AKB48</Text>
+        </Row>
+        <Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_CLOVERZ_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>桃色幸運草Z</Text>
+        </Row>
+        <Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_765AS_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>765PRO ALLSTARS</Text>
+        </Row>
+        <Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_MUS_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>μ's</Text>
+        </Row>
+        <Row Tag="LOC_GREAT_PERSON_INDIVIDUAL_PASPALE_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>Pastel✽Palettes</Text>
+        </Row>
+
+        <!--Birth Modifiers-->
+        <Row Tag="LOC_IDOL_SAYURI_IDOL_THEATER_CULTURE_TO_SCIENCE_ATTACH_gkls621" Language="zh_Hant_HK">
+            <Text>3個單元格內的城市，偶像劇場的 [ICON_Gold] 金幣與 [ICON_Culture] 文化相鄰加成也提供 [ICON_Science] 科技值。</Text>
+        </Row>
+        <Row Tag="LOC_IDOL_SEIKO_CITY_HAPPY_GOLD_ATTACH_gkls621" Language="zh_Hant_HK">
+            <Text>6個單元格內，快樂的城市 [ICON_Gold] 金幣產量+50%，欣喜若狂的城市則+150%。</Text>
+        </Row>
+        <Row Tag="LOC_IDOL_MARI_DISTRICTS_EXTRA_RANGE_ATTACH_gkls621" Language="zh_Hant_HK">
+            <Text>6個單元格內，區域性建築的輻射範圍+3。</Text>
+        </Row>
+        <Row Tag="LOC_IDOL_YUKIKO_COMBAT_STRENGTH_gkls621" Language="zh_Hant_HK">
+            <Text>為相鄰軍事單位+5 [ICON_Strength] 戰鬥力，+1 [ICON_Movement] 移動力。</Text>
+        </Row>
+        <Row Tag="LOC_IDOL_MEGUMI_EXTRA_ROCK_BAND_ATTACH_gkls621" Language="zh_Hant_HK">
+            <Text>6個單元格內的城市，生產出搖滾樂隊時可額外獲得一支搖滾樂隊。。</Text>
+        </Row>
+        <Row Tag="LOC_IDOL_765AS_CITIES_IDENTITY_PRESSURE_ATTACH_gkls621" Language="zh_Hant_HK">
+            <Text>6個單元格內的城市所釋放之忠誠度壓力+5。</Text>
+        </Row>
+        <Row Tag="LOC_IDOL_PASPALE_CITIES_PRODUCTION_gkls621" Language="zh_Hant_HK">
+            <Text>6個單元格內的城市+100% [ICON_Production] 生產力。</Text>
+        </Row>
+
+        <!--Action Modifiers-->
+        <Row Tag="LOC_IDOL_MOMOE_IDOL_EXTRA_CHARGE_gkls621" Language="zh_Hant_HK">
+            <Text>大偶像的使用次數+1。</Text>
+        </Row>
+        <Row Tag="LOC_IDOL_PLADY_FOREIGN_CONTINENT_CITIES_YIELD_gkls621" Language="zh_Hant_HK">
+            <Text>與首都大陸相異的城市，全部產出+10%。</Text>
+        </Row>
+        <Row Tag="LOC_IDOL_SEIKO_COAST_PRODUCTION_gkls621" Language="zh_Hant_HK">
+            <Text>淺海單元格+1 [ICON_Production] 生產力。瀕海區域+1 [ICON_Amenities] 宜居度。</Text>
+        </Row>
+        <Row Tag="LOC_IDOL_AKINA_ALL_PROJECTS_PRODUCTION_gkls621" Language="zh_Hant_HK">
+            <Text>所有城市進行項目時， [ICON_Production] 生產力+20%。所宗主的每個城邦使玩家+5% [ICON_Culture] 文化值。</Text>
+        </Row>
+        <Row Tag="LOC_IDOL_NORIKO_OFFENSIVE_SPY_SCIENCE_gkls621" Language="zh_Hant_HK">
+            <Text>獲得一個間諜。進攻性間諜活動成功時，獲得目標城市每回合 [ICON_Science] 科技值與 [ICON_Gold] 金幣產出的150%。</Text>
+        </Row>
+        <Row Tag="LOC_IDOL_YUKIKO_UNITS_PROPERTY_STRENGTH_gkls621" Language="zh_Hant_HK">
+            <Text>帝國不會產生厭戰情緒。有軍事單位死亡時，相鄰的己方軍事單位+1 [ICON_Strength] 戰鬥力。</Text>
+        </Row>
+        <Row Tag="LOC_IDOL_MEGUMI_CITIES_ROCK_BAND_AMENITY_gkls621" Language="zh_Hant_HK">
+            <Text>獲得3支搖滾樂隊。市中心有搖滾樂隊的城市+5 [ICON_Amenities] 宜居度。</Text>
+        </Row>
+        <Row Tag="LOC_IDOL_MORNING_FAITH_FROM_HARVEST_gkls621" Language="zh_Hant_HK">
+            <Text>清除地貌、收穫資源的產出+50%。此時還可獲得與收益數量相等的 [ICON_Faith] 信仰值。</Text>
+        </Row>
+        <Row Tag="LOC_IDOL_AKB48_CITIES_GOLD_POPULATION_BASE_gkls621" Language="zh_Hant_HK">
+            <Text>國內每一 [ICON_Citizen] 人口每回合提供+10 [ICON_Gold] 金幣；有廣播塔的城市（或其餘同級劇院建築）則為三倍。</Text>
+        </Row>
+        <Row Tag="LOC_IDOL_CLOVERZ_TOURISM_BOMB_FARM_ABILITY_gkls621" Language="zh_Hant_HK">
+            <Text>搖滾樂隊在農場、種植園、伐木場內的表演效果提升1個等級，+200 [ICON_Tourism] 旅遊業績。</Text>
+        </Row>
+        <Row Tag="LOC_IDOL_765AS_CITIES_ALLOW_PURCHASE_DISTRICTS_FULL_LOYALTY_gkls621" Language="zh_Hant_HK">
+            <Text>忠誠度為滿的城市可用 [ICON_Gold] 金幣購買區域。</Text>
+        </Row>
+        <Row Tag="LOC_IDOL_MUS_KILL_ENEMY_UNITS_gkls621" Language="zh_Hant_HK">
+            <Text>秒殺3個單元格內的敵方單位。己方軍事單位被擊殺後產生一個 [ICON_GreatWork_Relic] 遺物。</Text>
+        </Row>
+        <Row Tag="LOC_IDOL_PASPALE_CITIES_UNLIMITED_DISTRICTS_FULL_LOYALTY_gkls621" Language="zh_Hant_HK">
+            <Text>忠誠度為滿的城市建造專業化區域時無人口要求。</Text>
+        </Row>
+        <Row Tag="LOC_IDOL_MARI_CITIES_GRANT_P51_WITH_AERODROME_gkls621" Language="zh_Hant_HK">
+            <Text>所有 [ICON_Government] 政體+1通配符槽位。城市建成航空港後獲得兩架野馬戰鬥機。</Text>
+        </Row>
+        <Row Tag="LOC_IDOL_SAYURI_CITY_SCIENCE_PER_GREATWORKOBJECT_WRITING_gkls621" Language="zh_Hant_HK">
+            <Text>當前城市內每一部巨作提供200 [ICON_Science] 科技值與200 [ICON_Culture] 文化值。</Text>
+        </Row>
+        <Row Tag="LOC_IDOL_SPEED_GREAT_PERSON_CLASS_GENERAL_IDOL_THEATER_SCIENCE_gkls621" Language="zh_Hant_HK">
+            <Text>玩家每招募一種 [ICON_GreatPerson] 偉人，偶像劇場便+2 [ICON_Science] 科技值。</Text>
+        </Row>
+
+        <Row Tag="LOC_ABILITY_IDOL_YUKIKO_COMBAT_STRENGTH_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>岡田有希子</Text>
+        </Row>
+        <Row Tag="LOC_ABILITY_IDOL_YUKIKO_COMBAT_STRENGTH_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>相鄰軍事單位+5 [ICON_Strength] 戰鬥力。</Text>
+        </Row>
+        <Row Tag="LOC_ABILITY_IDOL_YUKIKO_MOVEMENT_gkls621_NAME" Language="zh_Hant_HK">
+            <Text> </Text>
+        </Row>
+        <Row Tag="LOC_ABILITY_IDOL_YUKIKO_MOVEMENT_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>相鄰軍事單位+1 [ICON_Movement] 移動力。</Text>
+        </Row>
+        <Row Tag="LOC_ABILITY_IDOL_YUKIKO_PROPERTY_STRENGTH_gkls621_NAME" Language="zh_Hant_HK">
+            <Text> </Text>
+        </Row>
+        <Row Tag="LOC_ABILITY_IDOL_YUKIKO_PROPERTY_STRENGTH_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>有軍事單位死亡時，相鄰的己方軍事單位+1 [ICON_Strength] 戰鬥力。</Text>
+        </Row>
+        <Row Tag="LOC_ABILITY_IDOL_CLOVERZ_TOURISM_BOMB_FARM_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>桃色幸運草Z</Text>
+        </Row>
+        <Row Tag="LOC_ABILITY_IDOL_CLOVERZ_TOURISM_BOMB_FARM_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>在農場演出時+200 [ICON_Tourism] 旅遊業績。</Text>
+        </Row>
+        <Row Tag="LOC_ABILITY_IDOL_CLOVERZ_ROCK_LEVEL_FARM_gkls621_NAME" Language="zh_Hant_HK">
+            <Text> </Text>
+        </Row>
+        <Row Tag="LOC_ABILITY_IDOL_CLOVERZ_ROCK_LEVEL_FARM_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>在農場演出的等級+1。</Text>
+        </Row>
+        <Row Tag="LOC_ABILITY_IDOL_CLOVERZ_ROCK_LEVEL_PLANTATION_gkls621_NAME" Language="zh_Hant_HK">
+            <Text> </Text>
+        </Row>
+        <Row Tag="LOC_ABILITY_IDOL_CLOVERZ_ROCK_LEVEL_PLANTATION_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>在種植園演出的等級+1。</Text>
+        </Row>
+        <Row Tag="LOC_ABILITY_IDOL_CLOVERZ_TOURISM_BOMB_PLANTATION_gkls621_NAME" Language="zh_Hant_HK">
+            <Text> </Text>
+        </Row>
+        <Row Tag="LOC_ABILITY_IDOL_CLOVERZ_TOURISM_BOMB_PLANTATION_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>在種植園演出時+200 [ICON_Tourism] 旅遊業績。</Text>
+        </Row>
+        <Row Tag="LOC_ABILITY_IDOL_CLOVERZ_TOURISM_BOMB_LUMBER_MILL_gkls621_NAME" Language="zh_Hant_HK">
+            <Text> </Text>
+        </Row>
+        <Row Tag="LOC_ABILITY_IDOL_CLOVERZ_TOURISM_BOMB_LUMBER_MILL_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>在伐木場演出時+200 [ICON_Tourism] 旅遊業績。</Text>
+        </Row>
+        <Row Tag="LOC_ABILITY_IDOL_CLOVERZ_ROCK_LEVEL_LUMBER_MILL_gkls621_NAME" Language="zh_Hant_HK">
+            <Text> </Text>
+        </Row>
+        <Row Tag="LOC_ABILITY_IDOL_CLOVERZ_ROCK_LEVEL_LUMBER_MILL_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>在伐木場演出的等級+1。</Text>
+        </Row>
+        <Row Tag="LOC_ABILITY_IDOL_MUS_UNITS_DEATH_RELIC_gkls621_NAME" Language="zh_Hant_HK">
+            <Text>μ's</Text>
+        </Row>
+        <Row Tag="LOC_ABILITY_IDOL_MUS_UNITS_DEATH_RELIC_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+            <Text>死亡後，生成一個 [ICON_GreatWork_Relic] 遺物。</Text>
+        </Row>
+        <Row Tag="LOC_ABILITY_IDOL_YUKIKO_PROPERTY_STRENGTH_gkls621_PREVIEW" Language="zh_Hant_HK">
+            <Text>+{Property} [ICON_Strength] 戰鬥力。</Text>
+        </Row>
+
+        <!--Civilopedia Contents-->
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SAYURI_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+            <Text>吉永小百合可能不是日本第一個國民偶像，但一定是生涯最長青、影響最深遠的國民藝人之一。作為1960年代極具代表性的女演員，她“清純少女”的形象被後世多數偶像承襲，其多棲發展路線乃至生活中的“戀愛禁令”同樣被事務所們借鑒。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SAYURI_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+            <Text>吉永小百合生於1945年3月13日，並於小學六年級時（1957年）首次參演廣播劇。1959年，她的熒幕首秀《呼喚清晨的口哨》上映。1962年，17歲的小百合便憑《化鐵爐的街》斬獲藍絲帶獎最佳女主角。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SAYURI_gkls621_CHAPTER_HISTORY_PARA_3" Language="zh_Hant_HK">
+            <Text>作為日活電影公司的當家花旦，吉永小百合拍攝了許多純愛、青春向的電影（尤其是與濱田光夫的搭檔），幫助公司開闢新路線，成功吸引了大量新觀眾。她演唱的歌曲銷量亦不菲，本人也曾五次登上紅白歌會。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SAYURI_gkls621_CHAPTER_HISTORY_PARA_4" Language="zh_Hant_HK">
+            <Text>雖然青春淑女的路線受到市場變化的衝擊，但小百合通過轉型，依然在娛樂界立穩了腳跟，多次獲獎。時至今日，她仍是日本廣告代言費最高的藝人之一，且是各種“國民女神”盤點榜單的常客。[NEWLINE][NEWLINE]（整理自日文維基百科）</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_PLADY_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+            <Text>Pink Lady是1970年代末的一支二人歌唱組合。她們憑藉充滿創新性的編舞與服裝掀起熱潮，且曾作出過闖蕩大洋彼岸的嘗試，然而其人氣驟然滑落，惹人唏噓。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_PLADY_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+            <Text>Pink Lady的兩名成員根本美鶴代與增田啟子於初中時相識。1973年，她們通過了雅馬哈音樂舉辦的選拔賽，進入其所辦的聲樂學校，後開始模仿當紅的Candies組合（也曾是計劃入選本模組的大偶像之一），嘗試出道，但直到1976年才如願。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_PLADY_gkls621_CHAPTER_HISTORY_PARA_3" Language="zh_Hant_HK">
+            <Text>不過簽下二人的Victor公司決心參考西方迪斯科的藝人包裝她們——改穿大膽露出肌膚、貼合身材曲線的服裝，主打性感中透着清新的可愛形象，同時使用“Pink Lady”這一都市味十足的組合名。她們的人氣很快攀升，首張單曲便斬獲新人賞，其後連續十單銷量破百萬、累計霸榜64周的成績更是創下紀錄。彼時，她們的兒童粉絲可能足足佔42.5%。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_PLADY_gkls621_CHAPTER_HISTORY_PARA_4" Language="zh_Hant_HK">
+            <Text>但隨着Pink Lady拒絕登上紅白歌會轉投日視跨年，以及松田聖子等風格不同的偶像登上歷史舞台，二人組人氣急劇下跌，並於1981年3月31日舉行最後一次演唱會。據說當時落座情況堪憂，遠不及她們最初奮鬥目標Candies的終演。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_PLADY_gkls621_CHAPTER_HISTORY_PARA_5" Language="zh_Hant_HK">
+            <Text>值得一提的是，Pink Lady也曾進軍美國市場。她們在美國的首單衝上了公告牌第37位，她們在NBC黃金時段擁有冠名節目；可惜這一切隨着在美合約結束戛然而止，也未能幫助組合扭轉局勢。[NEWLINE][NEWLINE]（整理自日文維基百科）</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MOMOE_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+            <Text>山口百惠璀璨而短暫的藝人生涯有如曇花，僅僅不到十年的歷程已成為東亞地區永恆的記憶瑰寶。然細究其勇退，亦可覺娛樂工業光鮮背後的辛酸。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MOMOE_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+            <Text>1973年，百惠出演電影《としごろ》（太冷門了，中文譯名一時不明）並獻唱同名曲，正式出道。由於熱度不及預期，演藝公司決定讓她改走“青春性路線”，以淳樸中學少女形象演唱歌詞較挑逗大膽的歌曲；雖然百惠從此大紅大紫，成為70年代最暢銷偶像歌手、紅白歌會的首位青少年壓軸者、連續七年的寫真銷冠，但如此包辦強制的經歷也為她早早退圈埋下伏筆。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MOMOE_gkls621_CHAPTER_HISTORY_PARA_3" Language="zh_Hant_HK">
+            <Text>1974年，山口百惠主演《伊豆的舞女》，從此結識三浦友和，與他合作多部影視作品，包括另外11部電影以及TBS電視台的7部“赤色系列”電視劇，二人號稱“黃金組合”。1979年10月20日，百惠宣布與三浦友和的戀情，並於次年3月7日公開決定退出娛樂圈。當年10月5日，她在武道館舉行了最後的演唱會。其在結束後向粉絲深鞠躬，靜默走回後台，而將話筒留在場地中央的畫面動人至今。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MOMOE_gkls621_CHAPTER_HISTORY_PARA_4" Language="zh_Hant_HK">
+            <Text>百惠從此鮮有露面。她退陣後，唱片公司們竭力推出各種“下一個山口百惠”式的新人，不過鮮有成功者——她是不可替代、無可複製的。隨着改革開放之潮，她的作品也在中國大陸走紅。息影後又於異國名聲斐然，不可謂不佳話。[NEWLINE][NEWLINE]（整理自日文維基百科）</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SEIKO_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+            <Text>松田聖子於山口百惠引退之年出道，但她最終沒有成為“下一個百惠”，而是幾乎定義了80年代風貌的時代偶像、“唯一的松田聖子”。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SEIKO_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+            <Text>聖子的歌手之路始於1978年。她背着父母參加了Ms. Seventeen歌唱比賽的海選並獲得晉級機會，並最終說服持否定意見的家父，準備出道。1980年，聖子演唱了一系列廣告歌曲，但因名聲不赫，甚至為同出演廣告片的藝人做了嫁衣裳。終於，當年七月發行的《藍色珊瑚礁》幾經波折而走紅（雖未能登頂，卻成為松田聖子生涯代表作），她也憑此與山口百惠完成了一場富有時代象徵意義的共演。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SEIKO_gkls621_CHAPTER_HISTORY_PARA_3" Language="zh_Hant_HK">
+            <Text>1985年，松田聖子與神田正輝結婚（此前她與鄉裕樹濃墨重彩的分手事件亦是話題），並於1986年誕下獨女神田沙也加。翌年重返歌壇的她保持婚前風格，但開始有所新嘗試：自主創作、進軍海外、發行爵士風作品等。聖子的冠單數與連續登頂數皆打破了Pink Lady所創記錄，她也是在武道館開唱場數最多的女藝人。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SEIKO_gkls621_CHAPTER_HISTORY_PARA_4" Language="zh_Hant_HK">
+            <Text>松田聖子頻繁捲入娛樂圈的煩人新聞，但永遠穩居“有史以來最受歡迎的偶像”之列，於一項調查中被公認為“日本雜誌最常見的名人”。其早年形象風格的影響尤為深遠，所謂“聖子頭”成為時尚髮型；而她背後強大的歌曲製作團隊也推動了偶像類音樂專輯製作水準進步，為後世成熟的造星工業奠定基礎。[NEWLINE][NEWLINE]（整理自日文維基百科）</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MARI_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+            <Text>儘管其本人並不苟同，但飯島真理的確是開“聲優偶像化”先河的人物之一。後來林原惠美、水樹奈奈、上坂堇等藝人的成功，某種程度上離不開她的探索。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MARI_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+            <Text>飯島真理在大學期間與Victor簽約，並於1983年9月發行由坂本龍一製作的首專。不過早在前一年，她便已開始為《超時空要塞》中的林明美配音，並以明美的名義獻唱歌曲。其中1984年上映之劇場版《可曾記得愛》的同名主題曲獲Oricon公信榜第七名的成績。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MARI_gkls621_CHAPTER_HISTORY_PARA_3" Language="zh_Hant_HK">
+            <Text>在超時空要塞系列的世界觀中，告別地球的林明美最終消失在銀河中心；而飯島真理與動畫界的緣分也基本止於此，後來的她繼續專注於歌手工作，與山下達郎、Toto樂隊等有過合作。約1990年代起她移居美國，仍然發行新作，並定期回日舉辦音樂會。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MARI_gkls621_CHAPTER_HISTORY_PARA_4" Language="zh_Hant_HK">
+            <Text>不過在《超時空要塞》後續的衍生作品中，她依舊為明美獻聲，且參加了許多紀念活動。雖然論商業成就，真理遜於她那些走得更遠的後輩；但好比賈憲之於楊輝三角，她仍是多棲藝人發展史上濃墨重彩的一筆。[NEWLINE][NEWLINE]（整理自日文維基百科）</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_AKINA_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+            <Text>中森明菜同樣是1980年代最具代表性的偶像之一，又一位“山口百惠接班人”。她多舛的人生故事令人憐惜，同時也因幾則港娛軼事在中國大陸享有一定話題度。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_AKINA_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+            <Text>1981年，明菜參加選秀節目《明星誕生》，並以山口百惠的一曲《夢境引路者》奪得節目史上最高分，引起注意。次年她便以本名出道，此後穩步走紅，實現日本唱片大獎兩連冠、日本唱片銷售獎四度獲獎，並且成為TBS電視台《The Best Ten》最多冠軍曲目的持有者。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_AKINA_gkls621_CHAPTER_HISTORY_PARA_3" Language="zh_Hant_HK">
+            <Text>然而在事業欣欣向榮的1989年，明菜突然在她交往中的男友，藝人近藤真彥的家中嘗試自殺。一般認為，是近藤辜負了明菜的愛意（前者當時甚至與松田聖子拍攝了親密的雜誌照），才刺激她如此舉動。是年12月31日，二人召開發布會：其間明菜示好，但近藤矢口否認二人的戀情關係，令她只好以“朋友的姿態”結束了節目，史稱“金屏風事件”。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_AKINA_gkls621_CHAPTER_HISTORY_PARA_4" Language="zh_Hant_HK">
+            <Text>明菜於1990年復出，其後因身體原因偶有暫停，但演藝生涯保持強勁。坊間有言，稱她曾是香港經典電影《倩女幽魂》中聶小倩一角的首選；而另一位悲情巨星張國榮也曾直白表達他對明菜的傾慕，更使她以一種奇妙的方式走入中國觀眾的視線。[NEWLINE][NEWLINE]（整理自日文維基百科）</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_NORIKO_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+            <Text>酒井法子，一代元氣少女偶像，中國兩岸三地共同追捧的明星，如今卻因涉毒、拍攝大尺度作品之類落魄事蹟而“著稱”，不可不謂是“世事難料”。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_NORIKO_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+            <Text>1985年，法子參加資生堂主辦的形象大賽，雖未獲得冠軍，卻因受到演藝事務所賞識，獲得了為她特別創設的“BOMB!獎”。翌年法子出道（少有的VHD視頻光碟形式），發行了一系列熱單，並頻繁參與廣告代言、公益宣傳海報的拍攝——甲子園、紅十字會、消防廳都青睞她的朝氣。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_NORIKO_gkls621_CHAPTER_HISTORY_PARA_3" Language="zh_Hant_HK">
+            <Text>酒井法子的本國事業可圈可點，在海外又有收穫。本來人氣不算最出眾的她打入彼時日娛尚不重視的台灣市場，結果炙手可熱，演出一票難求；而在大陸，她成為家庭張貼海報上的常客，歌曲與電視劇大受歡迎，所出演的松下電視廣告亦深受喜愛。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_NORIKO_gkls621_CHAPTER_HISTORY_PARA_4" Language="zh_Hant_HK">
+            <Text>2009年，但當結婚多年的酒井法子因吸毒、藏毒甚至試圖逃跑而被逮捕時，所有人都震驚了（常年以正面形象示人的她去年才參演了最高法院製作的制度宣傳片）。雖然她的毒癮離不開丈夫威脅，但木已成舟，大廈坍塌。後幾年處於生涯最低谷的她一度參演了“三級電影”；不過近幾年，情況有所好轉。[NEWLINE][NEWLINE]（整理自日文維基百科）</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_YUKIKO_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+            <Text>岡田有希子作為偶像界的冉冉新星，被期許成為“下一個松田聖子”；然其疑雲重重的猝逝結束了一切，更令人反思偶像工業暗藏的血淚、時代背景助推的社會效應。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_YUKIKO_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+            <Text>1982年，有希子不顧班主任反對，毅然缺課參加《明星誕生》並取得決賽資格；而母親提出的“出道條件”——一系列苛刻成績要求，她憑努力全部達成，終於次年出道。她主持了一系列廣播節目，從1984年起也發行了許多歌曲，並包攬日本唱片大獎全部新人類項目。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_YUKIKO_gkls621_CHAPTER_HISTORY_PARA_3" Language="zh_Hant_HK">
+            <Text>有希子在1985年拿到了第一首冠單，其餘活動也齊驅並進。但1986年4月8日，高中畢業不久、正在全國巡演的她忽於寓所中開煤氣自盡，獲救後又從唱片公司大樓一躍而下，香消玉殞。這位陽光偶像的死亡震驚了日本，甚至成了國會論題。同年青年學生尋短見的趨勢被稱為“有希子現象”。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_YUKIKO_gkls621_CHAPTER_HISTORY_PARA_4" Language="zh_Hant_HK">
+            <Text>而她為何赴死，眾說紛紜：感情受挫、工作過勞、……其中毋庸置疑的一點是，曾經令她憧憬不已的偶像事業，早就祛魅。但岡田本人的魅力永存。為她供曲的竹內瑪麗亞坦言：“單曲銷量超越她的人比比皆是。但以清新姿態登場、正‘未來可期’卻驟然消逝的歌手實屬空前絕後。她不僅為粉絲傳遞夢想，更讓人們純粹享受支持偶像的喜悅，同時也將偶像身份的艱辛與孤獨投射給世人。她正是那種消失後反而更具存在感的獨特存在。”時至今日，有希子歸天之處依然鮮花不斷。[NEWLINE][NEWLINE]（整理自日文維基百科）</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MEGUMI_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+            <Text>“聲優偶像化”早已不是新鮮話題。人們希望畫面背後的配音員才貌俱佳，能唱能主持，總而言之便是向“青春活力偶像”靠攏。而林原惠美的成功，使這浪潮一發不可收拾。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MEGUMI_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+            <Text>林原惠美（又譯“林原惠”）人稱“聲優女王”，代表角色涵蓋而不限於女亂馬（《亂馬1/2》）、莉娜·因巴斯（《秀逗魔導士》）、武藏（《神奇寶貝》）、綾波麗（《新世紀福音戰士》）、菲·瓦倫丁（《星際牛仔》）、灰原哀（《名偵探柯南》）乃至Kitty貓。凡九十年代的作品，無論長輩童年回憶、長青時尚單品抑或“高品味佳作”均有她的身影。此外，她也是首位有單曲（《Give a Reason》）、專輯（《SPHERE》）殺入公信榜前十的聲優，並長期保持在榜、銷量記錄。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MEGUMI_gkls621_CHAPTER_HISTORY_PARA_3" Language="zh_Hant_HK">
+            <Text>林原早年就讀於護士學校，但同時在聲優培育所進修。1988年，《魔神英雄傳》中的忍部火美子一角成為她首個主役，但謹慎的林原一度繼續兼任着護士工作，直到工作前景足夠明朗。而其歌手生涯始於OVA《機動戰士高達0080：口袋裏的戰爭》。實際上，聲優登台獻演一事彼時尚未成為主流，老一輩配音員接受採訪時不願露臉之情形亦有發生。但簽下林原的國王唱片打消了她的顧慮，並成功運作出這位“聲優界的美空雲雀”。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MEGUMI_gkls621_CHAPTER_HISTORY_PARA_4" Language="zh_Hant_HK">
+            <Text>進入2000年代後，林原便很少接受新的主役工作；而在繼續為老角色獻聲之餘，她也主持着史上最長壽的聲優個人廣播之一（曾經是“之二”）。而當年決心發掘林原的國王唱片也攢下經驗，於日後推出了水樹奈奈、上坂堇等一眾成功的聲優歌手，加速了聲優偶像化的風靡。[NEWLINE][NEWLINE]（整理自日文維基百科）</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SPEED_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+            <Text>SPEED是一支來自沖繩縣的歌舞偶像團體，由新垣仁繪、上原多香子、今井繪理子、島袋寬子組成。組合雖短暫而成功，堪稱1990年代偶像低潮期難得的代表團體。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SPEED_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+            <Text>1995年，幾人通過沖繩演員學校的選拔，並於同年年底在日本電視台出道，當時她們的年齡都在小升初左右（出道時平均13.5歲）。她們很快參與到沖繩學姐安室奈美惠的節目中，並擁有了自己的廣播欄目。SPEED的風格效仿了美國當紅的女子組合LTC，主打獨立酷女孩的形象，呈現效果更立竿見影：她們第二張單曲便拿下百萬銷量，又憑首單榮膺1996年的新人獎；此後登上1997年紅白歌會，還大趕新潮，舉辦了聖誕在線演唱會。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SPEED_gkls621_CHAPTER_HISTORY_PARA_3" Language="zh_Hant_HK">
+            <Text>但漸漸長大的成員們各奔東西——SPEED在新千年前夕宣布即將於2000年3月31日解散（同時於99年底創下紅白第一部分的收視紀錄）。成員們開始了單飛活動，不過也曾多次合體。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_SPEED_gkls621_CHAPTER_HISTORY_PARA_4" Language="zh_Hant_HK">
+            <Text>自CD出道起算，SPEED的首次活動歷時1335天。期間共發行單曲11張、專輯6張，以及4支音樂錄影帶。其累計銷量約3000萬張，銷售額達到386億日元。[NEWLINE][NEWLINE]（整理自日文維基百科）</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MORNING_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+            <Text>早安少女組開創了“成員畢業”“世代更替”的偶像團體營運制度，從而使企劃長期存續，藉已有名號打響新生熱度。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MORNING_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+            <Text>組合的第一代成員是來自東京電視台某檔選秀節目的五位落選者。她們於1998年1月正式出道，立刻空降單曲榜第六名。同年二期生加入，組合榮獲日本唱片大獎新人獎，也成功登上紅白歌會。1999年，福田明日香成為首個退出的成員（當時使用仍“脫退”一詞而非“畢業”），代謝制度初具雛形。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MORNING_gkls621_CHAPTER_HISTORY_PARA_3" Language="zh_Hant_HK">
+            <Text>早安少女組的商業成績相當顯赫：所有單曲都能進入排行榜前十，且幾乎皆能取得前五；組合連續十年參與紅白歌會，創造歷史。保持成員結構年輕、增加媒體曝光機會、舉辦粉絲交流活動等策略，是組合從數名落選秀起做大做強的幾大秘訣。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MORNING_gkls621_CHAPTER_HISTORY_PARA_4" Language="zh_Hant_HK">
+            <Text>如今，早安少女組已更新至第17期，作為“Hello! Project”的核心部分繼續着演藝活動。[NEWLINE][NEWLINE]（整理自日文維基百科）</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_AKB48_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+            <Text>AKB48，當今最知名的畢業制女團之一，以“養成系”“可以見面的偶像”等理念風靡東亞，巔峰熱度簡直無出其右；而偏偏是外人看來奇怪、粉絲只覺榮幸的“10秒握手會”，成為其成功的一大魔力殺器。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_AKB48_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+            <Text>AKB48始於2005年。通過選拔的成員於當年12月8日開展首次劇場公演。AKB48設在秋葉原的小劇場幾乎每日都有平價演出，於是受眾擁有了經常近距離觀看心儀偶像之機會。此外能徑直與偶像接觸、交談的“握手會”也滿足了粉絲們跨越平面媒體一睹芳容的夢想（高峰時幾乎每周都有）；總選舉亦使觀眾影響偶像培育決策成了可能。如此“打破第四面牆”手法的加持下，AKB48幫助日本實體唱片業逆勢上漲（很大程度來自抽取握手券的熱潮）。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_AKB48_gkls621_CHAPTER_HISTORY_PARA_3" Language="zh_Hant_HK">
+            <Text>團體的成功離不開製作人秋元康獨到的佈局。這個同時創造了“日本最偉大金曲”（《川流不息》作詞）與當代最熱偶像團體的奇人早在1985年便主導製作了鄰家女孩風的大型偶像團體“小貓俱樂部”（其妻與工藤靜香均出自此團），並以三十餘回的周榜冠軍橫掃全國。該團雖因成員醜聞旋即解散，卻激發了秋元康對“可見面偶像”的新思考。AKB48起初亦非一炮而紅，但設立開辦握手會、設立總選舉、發行貼合成員心聲的金曲《River》等舉措助其衝出“地下”範疇。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_AKB48_gkls621_CHAPTER_HISTORY_PARA_4" Language="zh_Hant_HK">
+            <Text>2010年，AKB48成為“優良設計獎特別金獎”的首個真人得主（此前多頒給產品），這一評判有理而不失揶揄——如此營運方針，是否淡化了偶像生而為人的個體抉擇權？而秋元康高歌猛進，以“可見面”理念繼續於海內外開設48系（以及後來的46系）團體。現今48系稍顯疲態，但人們對“會見偶像”的渴望不減。[NEWLINE][NEWLINE]（整理自日文維基百科及知乎、Bilibili等平台的相關文章）</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CLOVERZ_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+            <Text>桃色幸運草Z同樣貫徹着“親民偶像路線”，從街頭演出打拼起，一路登堂入室，而市場策略又和其他團體“同中有異”。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CLOVERZ_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+            <Text>組合誕生於2008年5月17日，成員們彼時均為中學生年紀。起初她們不受事務所重視，只好用街頭演出之形式吸引注意，為配合企業商演乘貨車輾轉全國，親自推銷唱片。當時她們在秋葉原的演出僅一場滿座，不過一個有意比肩AKB48的口號——“‘現在’就能見到的偶像”也由此訂立。2010年末，得益於不懈參演各大音樂節，組合終於實現音樂廳滿場。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CLOVERZ_gkls621_CHAPTER_HISTORY_PARA_3" Language="zh_Hant_HK">
+            <Text>桃色幸運草Z的營運相對開放而獨樹一幟：成員無戀愛禁令、着裝低暴露、CD不附贈活動抽選券、通過演唱會開展活動等。她們演唱會的動員人數屢破女藝人記錄，團體亦連續多年獲選“最佳表演藝人”。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_CLOVERZ_gkls621_CHAPTER_HISTORY_PARA_4" Language="zh_Hant_HK">
+            <Text>桃色幸運草Z的成員十幾年來保持穩定，雖有離隊引退，但其餘偶像不曾有變。縱使青春漸遠，行將二十歲的組合依舊充滿號召力。[NEWLINE][NEWLINE]（整理自日文維基百科）</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_765AS_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+            <Text>如今的偶像大師本家被尊為“二偶始祖”，開枝散葉衍生出一個數百人的龐大帝國。企劃亦是在試錯中成長的，單論本家則尤為明顯、深遠。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_765AS_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+            <Text>南夢宮於2005年7月正式推出偶像培育街機遊戲《偶像大師》。起初反響不溫不火，但Niconico的興起使P（即“Producer”，玩家所扮角色兼群體代稱）們得以分享流程、二創，再加上營運方佈局跨媒體展開，企劃開始上升，所推出的主機遊戲甚至直接拯救了Xbox 360在日銷量。由於子企劃不斷出新，為有所區分，20年前最初登場（包含後幾年追加）的一批偶像合稱為“765PRO ALLSTARS”，亦即“本家”。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_765AS_gkls621_CHAPTER_HISTORY_PARA_3" Language="zh_Hant_HK">
+            <Text>起初，765PRO ALLSTARS由以下成員組成：天海春香（CV：中村繪里子）、如月千早（CV：今井麻美）、萩原雪步（CV：落合佑里香/長谷優里奈→淺倉杏美）、高槻彌生（CV：仁後真耶子）、水瀨伊織（CV：釘宮理惠）、菊地真（CV：平田宏美）、三浦梓（CV：高橋智秋）、秋月律子（CV：若林直美）、雙海真美（CV：下田麻美）、雙海亞美（CV：下田麻美）。星井美希（CV：長谷川明子）於Xbox 360版加入，我那霸響（CV：沼倉愛美）與四條貴音（CV：原由實）則由《偶像大師SP》引入。企劃本無明確的“中心人物”，但隨時間發展確立了春香、千早、美希組成的“御三家”，尤以春香為核心代表。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_765AS_gkls621_CHAPTER_HISTORY_PARA_4" Language="zh_Hant_HK">
+            <Text>13人的故事通過電視動畫《偶像大師》廣為流傳，不過背後亦有值得玩味之處：首先，2011年版遠非她們首部動畫，這一頭銜當屬2007年的機戰動畫《偶像大師：Xenoglossia》，一部聲優全換，人設有別，將“idol”闡釋為智能機械人的黑歷史作品（當然，劇集質量過關）；此外，2011版動畫與“背棄團結口號”、引發反對聲浪的《偶像大師2》共享許多設定，如龍宮小町（不過動畫忠誠於“團結精神”）。此外，還有街機開發時期的“Z結局”、更換聲優風波等教訓，均為後來偶像企劃提供了前鑒。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_765AS_gkls621_CHAPTER_HISTORY_PARA_5" Language="zh_Hant_HK">
+            <Text>在《偶像大師：百萬現場》系列中，765PRO事務所再度引入大量新人，本家13人的合稱亦逐漸定型為“765PRO ALLSTARS”（多見於演唱會標題）。雖然年齡、檔期等問題不可忽視，她們依然定期舉辦演唱會——其中最近的一次便是紀念企劃二十週年，全員到齊。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MUS_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+            <Text>μ's，學園偶像的開山鼻祖，“LoveLive!”曾經的同義詞。LoveLive!企劃始於2010年，通過書報、音樂、廣播、遊戲、動畫、演唱會等載體講述“大家一起實現夢想的故事”。企劃中九人所組成的學園偶像團體於當年的讀者投票中定名為“μ's”（即九位繆斯女神）。她們是：高坂穗乃果（CV：新田惠海）、絢瀨繪里（CV：南條愛乃）、南小鳥（CV：內田彩）、園田海未（CV：三森鈴子）、星空凜（CV：飯田里穗）、西木野真姫（CV：Pile）、東條希（CV：楠田亞衣奈）、小泉花陽（CV：久保由利香）、矢澤妮可（CV：德井青空）。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MUS_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+            <Text>在企劃世界觀中，九人為幫助她們就讀的音乃木坂學院走出廢校危機，選擇成為學園偶像，以吸引新生。與此同時，她們也為登上校園偶像的全國大賽“LoveLive!”奮鬥着。跌宕起伏的故事以大團圓告終：音乃木坂免於廢校，μ's也成功獲得LoveLive!的冠軍。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MUS_gkls621_CHAPTER_HISTORY_PARA_3" Language="zh_Hant_HK">
+            <Text>現實中μ's九人組的打拼軌跡也有異曲同工之處：企劃伊始少有人問津，首單記錄銷量僅434張，日後聲名大噪的德井青空尚且對着寂寥的展台自拍；不過伴隨演唱會、遊戲與動畫的跟進，她們的成績一路高歌，藍光碟首周銷量打破記錄，CD收入佔唱片公司一半以上，更於2015年登上紅白歌會。“妮可妮可妮”“海未抽牌”“為了拯救……決定出道成為……”等橋段已經超越一時的網絡迷因，融入了幾代人的生活。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MUS_gkls621_CHAPTER_HISTORY_PARA_4" Language="zh_Hant_HK">
+            <Text>可嘆的是，如日中天的μ's突然宣布舉行Final Live，從此再無九人齊聚的演出。有觀點認為，這與萬代南夢宮內部的勾心鬥角有關：開始老化的μ's淪為失敗者，必須為後生的Aqours讓路——Aqours初期刻意迴避μ's的活動方針，更為堪稱史上最虛無之社區紛爭的“繆水大戰”煽風點火。而Final Live後不久，μ's領唱新田惠海的下海經歷便被曝出，一時人心惶惶；直接相關的爭議雖已漸息，可似乎此後LoveLive!系列每代聲優都難逃令人腦洞大開的負面新聞。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_MUS_gkls621_CHAPTER_HISTORY_PARA_5" Language="zh_Hant_HK">
+            <Text>如今，μ's的成員們還會零星參加企劃舉辦的活動，商業成績更輝煌的Aqours也變作了後來虞詐的犧牲品，在最新作的設定中“LoveLive!大賽”更是確認停辦。拋開悲劇與疏離，勉強算得上戲謔的是：所有這些越走越遠的後生仔都必須繼承μ's傳下的母頭銜，似乎不再有第二塊金字招牌。“青春活力”，塵埃落定到最後，只見資方嘴臉罷了。[NEWLINE][NEWLINE]（LoveLive!劇情、世界觀資料整理自萌娘百科）</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_PASPALE_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+            <Text>Pastel✽Palettes是《BanG Dream!》系列作品的登場樂隊及同名聲優組合，但角色的聲優並不會演奏。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_PASPALE_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+            <Text>文明/領袖頁面已基本介紹了Pastel✽Palettes及其成員的概況。在現實世界中，她們的配音演員是：前島亞美（飾丸山彩）、上坂堇（飾白鷺千聖）、小澤亞李（飾冰川日菜）、秦佐和子（飾若宮伊芙）、中上育實（飾大和麻彌）。組合於2017年7月12日發布首張單曲《しゅわりん☆どり～みん》（即“修車曲”），其他代表作有《天下卜ーイツA to Z☆》《ゆら・ゆらRing-Dong-Dance》等。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_PASPALE_gkls621_CHAPTER_HISTORY_PARA_3" Language="zh_Hant_HK">
+            <Text>Pastel✽Palettes的活動頻率不似幾大真人團頻繁，主要由前島亞美參加BanG Dream!系列的合體演出，當然亦有成員合體的專場活動。因真人樂隊不斷擴軍，粉絲們一直擔心PasPale等虛擬團被邊緣化；不過現狀仍相對穩定，新歌、手游活動等皆有，儘管高星卡面顏色屬性不均衡、周邊商品“遍插茱萸少一人”等插曲時有發生。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_PASPALE_gkls621_CHAPTER_HISTORY_PARA_4" Language="zh_Hant_HK">
+            <Text>前島亞美（愛稱“Amita”）因其早年偶像履歷，加之與丸山彩神似，被公認為團魂，“一拳十瓦”的傳說更是反哺了無數彩彩二創。2022年11月，她忽然宣布中止活動（疑似被事務所雪藏），引發無數關於她與PasPale的擔憂。從此將近一年，丸山彩處於無聲狀態，任配音者一欄從缺——直到2023年9月1日，Amita以新事務所復歸，彩彩重新發聲（此前段落亦補錄），一時間舉邦歡騰。</Text>
+        </Row>
+        <Row Tag="LOC_PEDIA_GREATPEOPLE_PAGE_GREAT_PERSON_INDIVIDUAL_PASPALE_gkls621_CHAPTER_HISTORY_PARA_5" Language="zh_Hant_HK">
+            <Text>論人氣、成績，Pastel✽Palettes難與偶像大師、LoveLive!們抗衡。但有幸幫助一批人覓得獨家鍾愛、有緣同好傾蓋，也是“小企劃”不可磨滅的價值。[NEWLINE]（當然，畢竟她們是本模組的主角……）</Text>
+        </Row>
+    </LocalizedText>
+</GameData>

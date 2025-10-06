@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_LEADER_CHISATO_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>白鷺千聖</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_CHISATO_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>微笑的鐵假面</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CHISATO_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>「戲劇與詩歌」的初始研究進度為80%而非50%。所有玩家對你+30好感。所有玩家解鎖「戲劇與詩歌」後便可建立任意類型的 [ICON_ALLIANCE] 同盟。目前最高的有效同盟等級，為所有 [ICON_Government] 政體提供相等的外交政策槽位（3級同盟額外+2槽位），為區域提供+2/+4/+9 [ICON_Tourism] 旅遊業績。處於黑暗時代時，所有城市忠誠度為滿。[NEWLINE]首次採用「共產主義」 [ICON_Government] 政體時，本國所有城市獲得一支搖滾樂隊，搖滾樂隊專輯銷量+50。</Text>
+		</Row>
+
+        <Row Tag="LOC_DISTRICT_CHILDSTAR_GUILD_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>童星行會</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CHILDSTAR_GUILD_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>白鷺千聖為領袖時的特殊區域，替代商業中心，解鎖於「戲劇與詩歌」市政，基礎造價更低。相鄰的奢侈品資源與奇觀提供大量 [ICON_Culture] 文化值相鄰加成，相鄰加成資源、區域與所用的每一外交政策提供標準 [ICON_Culture] 文化值相鄰加成；外交政策還提供大量 [ICON_Gold] 金幣相鄰加成。提供+2同盟點數，處於 [ICON_GLORY_GOLDEN_AGE] 黃金時代則額外+2。黃金時代下，擁有童星行會的城市建成建築或奇觀時，獲得 [ICON_Production] 生產成本150%的 [ICON_Gold] 金幣。根據目前的最高有效同盟等級，童星行會的 [ICON_Culture] 文化值相鄰加成+200%/400%/600%。</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

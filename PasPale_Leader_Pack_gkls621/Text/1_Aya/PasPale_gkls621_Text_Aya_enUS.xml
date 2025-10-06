@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_AGENDA_AYA_gkls621_NAME" Language="en_US">
+			<Text>Self-Search Maniac</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_AYA_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Likes civilizations that actively gather intelligence and send spies to her. Dislikes civilizations that neglect intelligence gathering.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_AYA_gkls621" Language="en_US">
+			<Text>Aya Maruyama, the fluffy pink representative, an indomitable rising idol! Those uncertain trainee days are finally over, yet the turbulent entertainment career has just begun. The energy in front of the camera is born from the hardships behind the scenes, as everyone knows! And turning setbacks into stepping stones commands everyone's respect! The shining stage is always so close, and the crystal-clear dream will eventually pave the final distance.</Text>
+		</Row>
+
+		<Row Tag="LOC_GARAGE_STRATEGIC_PRODUCTION_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Production] Production from adjacent Strategic resources.</Text>
+		</Row>
+		<Row Tag="LOC_GARAGE_BONUS_PRODUCTION_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Production] Production from adjacent Bonus resources.</Text>
+		</Row>
+		<Row Tag="LOC_GARAGE_FORT_PRODUCTION_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Production] Production from adjacent Forts.</Text>
+		</Row>
+		<Row Tag="LOC_GARAGE_ENTERTAINMENT_PRODUCTION_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Production] Production from adjacent Entertainment Complexes.</Text>
+		</Row>
+		<Row Tag="LOC_GARAGE_WATER_ENTERTAINMENT_PRODUCTION_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Production] Production from adjacent Water Parks.</Text>
+		</Row>
+		<Row Tag="LOC_GARAGE_IDOL_THEATER_PRODUCTION_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Production] Production from adjacent Idol Theaters.</Text>
+		</Row>
+		<Row Tag="LOC_IDOL_THEATER_GARAGE_CULTURE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Culture] Culture from adjacent Garages.</Text>
+		</Row>
+		<Row Tag="LOC_AYA_GARAGE_PRODUCTION_ADJACENT_WORKER_gkls621" Language="en_US">
+			<Text>+{1_iBonus} [ICON_Production] Production from working Citizens in adjacent tiles.</Text>
+		</Row>
+		<Row Tag="LOC_AYA_GARAGE_PRODUCTION_WORKER_gkls621" Language="en_US">
+			<Text>+{1_iBonus}% [ICON_Production] Production from Specialists in the district.</Text>
+		</Row>
+		<Row Tag="LOC_GARAGE_COMBAT_STRENGTH_gkls621" Language="en_US">
+			<Text>+10 [ICON_Strength] Combat Strength if a Garage is within 6 tiles.</Text>
+		</Row>
+
+		<!--Civilopedia contents-->
+		<Row Tag="LOC_LEADER_AYA_gkls621_QUOTE" Language="en_US">
+			<Text>Colouration upon Chubby Mountain! I am Aya Maruyama!</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AYA_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The main vocalist of Pastel*Palettes, enjoys browsing social networking sites and studying selfies. Likes Western food like omelette rice and hamburger steak, dislikes octopus.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AYA_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Aya has dreamed of becoming an idol since childhood, inspired by Ayumi, the main vocalist of the idol group Marmalade. After three years of training, Aya was finally selected as the main vocalist of Pastel*Palettes.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AYA_gkls621_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Lacks self-confidence, gets nervous and stage-frightened easily, and often trips over her tongue, making her not very good at improvisation. Has fragile tear glands and cries easily when emotions well up. However, offstage, Aya is always cheerful, lively, and full of energy, helpful, and loves being an idol.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AYA_gkls621_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>In fact, Aya Maruyama is sensitive inside, tormented by a desire for recognition. So she rarely disguises herself in public (hoping to be recognized) and often secretly searches her own name online—if connected to our world, Aya might be greeted by a vast ocean of various "anti-Aya memes".</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AYA_gkls621_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>(Compiled from Fandom and Moegirlpedia)</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_GARAGE_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The term "Garage" can refer to either a parking garage or an auto repair shop. Where there is car manufacturing, there will inevitably be car repair; the auto repair industry has been an indispensable part of the automotive industry since its birth. Many famous brands started with repair services (though they might have repaired bicycles or motorcycles initially) and grew from there.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_GARAGE_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>And "car repair" (修车, Xiūchē) is one of the most important components of the "anti-Aya memes" (see Leader Civilopedia entry for Aya Maruyama). This parody originates from Pastel*Palettes' representative song "Shuwarin☆Dreamin'" — its first lyric "しゅわしゅわ" (shuwa shuwa) sounds similar to "修哇修哇" (Xiū wa xiū wa, Repair, repair), leading to the joke that Aya Maruyama is a "car repair master." Interestingly, in the Bilibili Collection launched by the simplified Chinese version of "BanG Dream! Girls Band Party!", there is an emote of Aya Maruyama holding two wrenches, captioned "修哇修哇" (Xiū wa xiū wa).</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_AYA_gkls621_AGENDA_BE_SPIED" Language="en_US">
+			<Text>Yes, yes, I am Aya Maruyama~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_AYA_gkls621_AGENDA_LOW_GOSSIP" Language="en_US">
+			<Text>Boo hoo, why can't I find myself when I search (´。＿。｀)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_AYA_gkls621_AGENDA_BE_SPIED" Language="en_US">
+			<Text>She likes civilizations that care about intelligence on her.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_AYA_gkls621_AGENDA_LOW_GOSSIP" Language="en_US">
+			<Text>She dislikes civilizations that neglect intelligence gathering.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AYA_gkls621_ANY" Language="en_US">
+			<Text>Thank you for your support of PasPale~ (Heart sign)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AYA_gkls621_ANY" Language="en_US">
+			<Text>Chisato-chan said that idols must follow the rules...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_AYA_gkls621_ANY" Language="en_US">
+			<Text>I, I will do my best to work hard. Please treat me well!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_AYA_gkls621_ANY" Language="en_US">
+			<Text>Thank you for your support of PasPale~ (Heart sign)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_AYA_gkls621_ANY" Language="en_US">
+			<Text>Chisato-chan said that idols must follow the rules...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_AYA_gkls621_ANY" Language="en_US">
+			<Text>I will bravely face and repair you, and your evil shall shatter like bubbles!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_AYA_gkls621_ANY" Language="en_US">
+			<Text>Even if I'm scared enough to cry, I must protect those who support us! Assemble, Pastel Rangers!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_AYA_gkls621_ANY" Language="en_US">
+			<Text>Lost trust, lost voice. Can we... still stand on the stage again...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_AYA_gkls621_ANY" Language="en_US">
+			<Text>Lost trust, lost voice. Can we... still stand on the stage again...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_AYA_gkls621_ANY" Language="en_US">
+			<Text>Wow, everyone knows me! Hehe, thank you anyway.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_AYA_gkls621_ANY" Language="en_US">
+			<Text>Ah, wait, an idol must greet guests with a signature pose...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_AYA_gkls621_ANY" Language="en_US">
+			<Text>I am the head of the Maruyama delegation~ (Takes off sunglasses) D-do I look... somewhat familiar to you...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_AYA_gkls621_ANY" Language="en_US">
+			<Text>Boo hoo... so mean...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_AYA_gkls621_ANY" Language="en_US">
+			<Text>Boo hoo... so mean...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_AYA_gkls621_ANY" Language="en_US">
+			<Text>Adding Color to Maruyama~ Hello there, I am the pink representative of Pastel*Palettes, Aya Maruyama! ☆</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_AYA_gkls621_ANY" Language="en_US">
+			<Text>PasPale is on an outdoor shoot, you're welcome to come and see!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_AYA_gkls621_ANY" Language="en_US">
+			<Text>PasPale is on an outdoor shoot. If you don't mind, could we film in your country?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_AYA_gkls621_ANY" Language="en_US">
+			<Text>Eh, you want me to do an idol signature move? Why don't you try one too?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_AYA_gkls621_ANY" Language="en_US">
+			<Text>He-ho-chu♪…………Wow, eh? Hya!? You're here too...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_AYA_gkls621_ANY" Language="en_US">
+			<Text>Want to take a selfie?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_AYA_gkls621_ANY" Language="en_US">
+			<Text>(Aya sweating)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_AYA_gkls621_ANY" Language="en_US">
+			<Text>This is not the time for tears, it's time to prepare to throw a punch!</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

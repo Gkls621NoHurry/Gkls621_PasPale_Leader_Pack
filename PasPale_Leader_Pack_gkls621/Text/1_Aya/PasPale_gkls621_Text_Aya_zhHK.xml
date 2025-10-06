@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_AGENDA_AYA_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>自搜狂魔</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_AYA_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>喜歡積極搜集情報、向自己派遣間諜的文明，討厭不關心情報的文明。</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_AYA_gkls621" Language="zh_Hant_HK">
+			<Text>丸山彩，蓬鬆的粉色代表，百折不撓的新銳偶像！那前途未卜的見習時光終於過去，可風高浪急的演藝生涯方才開頭。鏡頭前的元氣與幕後艱苦伴生，誰人不知！而化重挫為墊腳石，誰人不敬！閃耀的舞台永遠那麼近，晶瑩的夢想終將鋪滿最後距離。</Text>
+		</Row>
+
+		<Row Tag="LOC_GARAGE_STRATEGIC_PRODUCTION_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Production] 生產力來自相鄰戰略資源。</Text>
+		</Row>
+		<Row Tag="LOC_GARAGE_BONUS_PRODUCTION_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Production] 生產力來自相鄰加成資源。</Text>
+		</Row>
+		<Row Tag="LOC_GARAGE_FORT_PRODUCTION_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Production] 生產力來自相鄰堡壘。</Text>
+		</Row>
+		<Row Tag="LOC_GARAGE_ENTERTAINMENT_PRODUCTION_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Production] 生產力來自相鄰娛樂中心。</Text>
+		</Row>
+		<Row Tag="LOC_GARAGE_WATER_ENTERTAINMENT_PRODUCTION_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Production] 生產力來自相鄰水上樂園。</Text>
+		</Row>
+		<Row Tag="LOC_GARAGE_IDOL_THEATER_PRODUCTION_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Production] 生產力來自相鄰偶像劇場。</Text>
+		</Row>
+		<Row Tag="LOC_IDOL_THEATER_GARAGE_CULTURE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>+{1_Num} [ICON_Culture] 文化來自相鄰車庫。</Text>
+		</Row>
+		<Row Tag="LOC_AYA_GARAGE_PRODUCTION_ADJACENT_WORKER_gkls621" Language="zh_Hant_HK">
+			<Text>+{1_iBonus} [ICON_Production] 生產力來自相鄰單元格的工作人口。</Text>
+		</Row>
+		<Row Tag="LOC_AYA_GARAGE_PRODUCTION_WORKER_gkls621" Language="zh_Hant_HK">
+			<Text>+{1_iBonus}% [ICON_Production] 生產力來自區域內專家。</Text>
+		</Row>
+		<Row Tag="LOC_GARAGE_COMBAT_STRENGTH_gkls621" Language="zh_Hant_HK">
+			<Text>六環內存在車庫，+10 [ICON_Strength] 戰鬥力。</Text>
+		</Row>
+
+		<!--Civilopedia contents-->
+		<Row Tag="LOC_LEADER_AYA_gkls621_QUOTE" Language="zh_Hant_HK">
+			<Text>丸山之上繽紛彩！在下丸山彩！</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AYA_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+			<Text>Pastel✽Palettes樂隊的主唱，喜歡瀏覽交友網站和研究自拍。喜歡吃蛋包飯和漢堡肉之類的西餐，討厭吃章魚。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AYA_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+			<Text>彩自幼懷有一顆偶像夢，此夢契機乃是憧憬偶像組合Marmalade的主唱步美。經過三年的練習生階段，彩最終被選為Pastel✽Palettes的主唱。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AYA_gkls621_CHAPTER_HISTORY_PARA_3" Language="zh_Hant_HK">
+			<Text>缺乏自信，易緊張怯場，還經常咬舌頭，因此不太擅長即興發揮。淚腺脆弱，只要感情湧上心頭就很容易掉眼淚。但場下的彩總是開朗、活潑、活力滿滿，樂於助人，熱愛偶像。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AYA_gkls621_CHAPTER_HISTORY_PARA_4" Language="zh_Hant_HK">
+			<Text>事實上，丸山彩內心敏感，因渴望被認知而糾結。所以她在街上幾乎不變裝（就是希望被別人認出來），還經常偷偷上網檢索自己的名字——如果接入三次元網絡，迎接彩彩的可能是浩如煙海的花式彩黑迷因。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AYA_gkls621_CHAPTER_HISTORY_PARA_5" Language="zh_Hant_HK">
+			<Text>（整理自Fandom、萌娘百科）</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_GARAGE_gkls621_CHAPTER_HISTORY_PARA_1" Language="zh_Hant_HK">
+			<Text>「Garage」一詞既可以指停車的車庫，也可指汽修廠。有造車就必定催生修車，汽修業是汽車工業誕生起就不可或缺的一份子。許多名牌就是從修理業務起步（當然維修的也可能是自行車、摩托車），發展壯大。</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_GARAGE_gkls621_CHAPTER_HISTORY_PARA_2" Language="zh_Hant_HK">
+			<Text>而「修車」則是「彩黑迷因」（見丸山彩的領袖百科頁面）最為重要的組成部分之一。這一惡搞源自Pastel✽Palette的代表曲目《しゅわりん☆どり～みん》——其首句歌詞「しゅわしゅわ」音近「修哇修哇」，於是衍生出調侃丸山彩是「修車師傅」的說法。有意思的是，《BanG Dream!少女樂團派對》簡體中文服所推出的Bilibili收藏集中，就有丸山彩持兩把扳手的表情包，題曰「修哇修哇」。</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_AYA_gkls621_AGENDA_BE_SPIED" Language="zh_Hant_HK">
+			<Text>對呀對呀，我就是丸山彩哦~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_AYA_gkls621_AGENDA_LOW_GOSSIP" Language="zh_Hant_HK">
+			<Text>嗚嗚，怎麼搜不到我(´。＿。｀)</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_AYA_gkls621_AGENDA_BE_SPIED" Language="zh_Hant_HK">
+			<Text>她喜歡關心自己情報的文明。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_AYA_gkls621_AGENDA_LOW_GOSSIP" Language="zh_Hant_HK">
+			<Text>她討厭疏於情報搜集的文明。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AYA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>感謝你對PasPale的支持喲（比心）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_AYA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>千聖醬她說過，偶像，要遵守規則……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_AYA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>我，我會拼盡全力加油的。還請多多指教！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_AYA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>感謝你對PasPale的支持喲（比心）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_AYA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>千聖醬她說過，偶像，要遵守規則……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_AYA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>我將勇敢迎戰修理你，而你的邪惡將如泡沫般破碎！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_AYA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>即使害怕到想哭，我也要保護支持我們的人！集結，Pastel Rangers！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_AYA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>失去信任，失去聲音。我們，還能再站在舞台上嗎……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_AYA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>失去信任，失去聲音。我們，還能再站在舞台上嗎……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_AYA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>哇，全員都認識我欸！嘿嘿，總之多謝你啦。</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_AYA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>啊，稍等，偶像得擺出招牌姿勢待客……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_AYA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>我是丸山代表團團長喲~（摘墨鏡）有，有沒有覺得我，比較臉熟啊……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_AYA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>嗚嗚……好過分……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_AYA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>嗚嗚……好過分……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_AYA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>為丸山而添彩~你好呀，我是Pastel✽Palettes的粉色擔當，丸山彩！☆</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_AYA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>PasPale正在出外景，歡迎你也來看看喲！</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_AYA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>PasPale正在出外景呢。不介意的話，可以來貴國取個景嗎？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_AYA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>誒，希望我做一個偶像招牌動作嗎？你也來試一個唄？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_AYA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>嘿吼啾♪…………哇，誒？呀！？你也在嗎……</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_AYA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>來張自拍嗎？</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_AYA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>（彩彩流汗）</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_AYA_gkls621_ANY" Language="zh_Hant_HK">
+			<Text>這種時候不應該流眼淚，應該準備出拳才對！</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

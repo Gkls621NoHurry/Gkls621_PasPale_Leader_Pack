@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_AGENDA_HINA_gkls621_NAME" Language="en_US">
+			<Text>Effortless</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_HINA_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Likes civilizations with high Science output. Dislikes civilizations with low technological levels.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_HINA_gkls621" Language="en_US">
+			<Text>Hina Hikawa, is our eagerness to chart new courses considered very "ru-n" to you? As one prefers, the long and regular operation of the stars also mirrors your unconventional yet focused mind. Your unique talents will find new applications, and your wandering interests will reveal unprecedented spectra of the idol journey. Prepare the fries, and let's effortlessly continue to the next leg!</Text>
+		</Row>
+
+		<Row Tag="LOC_BUILDING_BUILDING_BLOCK_HINA_gkls621_NAME" Language="en_US">
+			<Text>Astronomy Club cannot construct Campus buildings!</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_BUILDING_BLOCK_HINA_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Astronomy Club cannot construct Campus buildings!</Text>
+		</Row>
+
+		<Row Tag="LOC_ASTRONOMY_CLUB_GRASS_MOUNTAIN_SCIENCE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Science] Science from adjacent Grassland Mountain tiles.</Text>
+		</Row>
+		<Row Tag="LOC_ASTRONOMY_CLUB_PLAINS_MOUNTAIN_SCIENCE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Science] Science from adjacent Plains Mountain tiles.</Text>
+		</Row>
+		<Row Tag="LOC_ASTRONOMY_CLUB_DESERT_MOUNTAIN_SCIENCE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Science] Science from adjacent Desert Mountain tiles.</Text>
+		</Row>
+		<Row Tag="LOC_ASTRONOMY_CLUB_TUNDRA_MOUNTAIN_SCIENCE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Science] Science from adjacent Tundra Mountain tiles.</Text>
+		</Row>
+		<Row Tag="LOC_ASTRONOMY_CLUB_SNOW_MOUNTAIN_SCIENCE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Science] Science from adjacent Snow Mountain tiles.</Text>
+		</Row>
+		<Row Tag="LOC_ASTRONOMY_CLUB_GRASS_SCIENCE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Science] Science from adjacent Grassland tiles.</Text>
+		</Row>
+		<Row Tag="LOC_ASTRONOMY_CLUB_PLAINS_SCIENCE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Science] Science from adjacent Plains tiles.</Text>
+		</Row>
+		<Row Tag="LOC_ASTRONOMY_CLUB_DESERT_SCIENCE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Science] Science from adjacent Desert tiles.</Text>
+		</Row>
+		<Row Tag="LOC_ASTRONOMY_CLUB_TUNDRA_SCIENCE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Science] Science from adjacent Tundra tiles.</Text>
+		</Row>
+		<Row Tag="LOC_ASTRONOMY_CLUB_SNOW_SCIENCE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Science] Science from adjacent Snow tiles.</Text>
+		</Row>
+		<Row Tag="LOC_ASTRONOMY_CLUB_WONDER_SCIENCE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Science] Science from adjacent Natural Wonder tiles.</Text>
+		</Row>
+		<Row Tag="LOC_ASTRONOMY_CLUB_IDOL_THEATER_SCIENCE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Science] Science from adjacent Idol Theaters.</Text>
+		</Row>
+		<Row Tag="LOC_IDOL_THEATER_ASTRONOMY_CLUB_CULTURE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Culture] Culture from adjacent Astronomy Clubs.</Text>
+		</Row>
+
+		<!--Civilopedia contents-->
+		<Row Tag="LOC_LEADER_HINA_gkls621_QUOTE" Language="en_US">
+			<Text>Ru-N~</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HINA_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Guitarist of Pastel*Palettes, likes junk food (especially fries), and her older sister Saya Hikawa (paramount!).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HINA_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Hina is a genius who never forgets and grasps things instantly, handling memorization or practicing instruments with ease; consequently, she also easily loses interest in things and seeks novel and interesting experiences.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HINA_gkls621_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>The extraordinarily talented Hina might find worldly human relations difficult to understand. She is straightforward but tactless, and still a bit childish, like laughing hysterically when Aya makes mistakes, or storing random unflattering photos of Aya taken on her phone...</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HINA_gkls621_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Formerly led the Hanasakigawa Astronomy Club and served as Hanasakigawa Student Council President; while the idea of Hina running the school seems unbelievable, under her direction, student opinions were fully absorbed, and her idol insights were used for management reference (and the Astronomy Club was saved too).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_HINA_gkls621_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>(Compiled from Fandom and Moegirlpedia, these entries are indeed very ru-N~)</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_ASTRONOMY_CLUB_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Humans began observing celestial phenomena very early. The "Shang Shu" records a solar eclipse around 2137 BC, and Babylonian star catalogs summarized the movements of many celestial bodies. Astronomy necessarily started at an amateur level, but amateur astronomy club organizations didn't truly develop until modern times (e.g., the Leeds Astronomical Society founded in 1859). Astronomy clubs are generally not the mainstream popular clubs in schools either.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_ASTRONOMY_CLUB_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>During high school, Hina Hikawa was the president and long-term sole member of the Hanasakigawa Astronomy Club, leading it (though "leading" isn't quite apt when alone) through the crisis of dissolution. According to Hina, astronomy clubs belong to the "oddball club" category that finds it hard to recruit new members (Takamatsu Tomori: ?); however, the stargazing events she hosted could attract quite a few students.</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_HINA_gkls621_AGENDA_HIGH_SCIENCE" Language="en_US">
+			<Text>Your country's new inventions are really ru-N~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_HINA_gkls621_AGENDA_LOW_SCIENCE" Language="en_US">
+			<Text>Haha, you really are still so dumb!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HINA_gkls621_AGENDA_HIGH_SCIENCE" Language="en_US">
+			<Text>She likes civilizations with high Science.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_HINA_gkls621_AGENDA_LOW_SCIENCE" Language="en_US">
+			<Text>She dislikes civilizations with low Science.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HINA_gkls621_ANY" Language="en_US">
+			<Text>Being with you is fun! And, teasing you is also fun☆</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_HINA_gkls621_ANY" Language="en_US">
+			<Text>A bit boring...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_HINA_gkls621_ANY" Language="en_US">
+			<Text>To me, you are an unknown variable! Precisely because you are an unknown variable, it's so interesting, it makes me want to be with you always! "Other people" have now become my motivation—no, you can no longer be considered "other people"☆</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_HINA_gkls621_ANY" Language="en_US">
+			<Text>Being with you is fun! And, teasing you is also fun☆</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_HINA_gkls621_ANY" Language="en_US">
+			<Text>A bit boring...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_HINA_gkls621_ANY" Language="en_US">
+			<Text>Hey, I say, the declaration of war in your eyes is also ru-n to the extreme, right~ But I'll only get a chance to observe your interesting soul with a telescope after it ascends to heaven in this battle~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_HINA_gkls621_ANY" Language="en_US">
+			<Text>Hey, I say, the declaration of war in your eyes is also ru-n to the extreme, right~ But I'll only get a chance to observe your interesting soul with a telescope after it ascends to heaven in this battle~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_HINA_gkls621_ANY" Language="en_US">
+			<Text>I already know everything that's about to happen, *poof*—just like that. If the accusations are longer than the principal's speech, it might prove you're a big villain who brought this upon yourself...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_HINA_gkls621_ANY" Language="en_US">
+			<Text>I already know everything that's about to happen, *poof*—just like that. If the accusations are longer than the principal's speech, it might prove you're a big villain who brought this upon yourself...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_HINA_gkls621_ANY" Language="en_US">
+			<Text>Such an interesting delegation ru-N~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_HINA_gkls621_ANY" Language="en_US">
+			<Text>All the procedures are just the same old stuff, not interesting at all.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_HINA_gkls621_ANY" Language="en_US">
+			<Text>Ta-da—it's Hina-chan's most favorite, most favorite fries ru-n~ And also, the problems I designed in alien language, all the doodles are just doodles, and there's punishment if you can't solve them! [NEWLINE]—Is it that hard?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_HINA_gkls621_ANY" Language="en_US">
+			<Text>Ahaha, there really are some fearless ones, but this can only be a fun point exclusive to Hina-chan~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_HINA_gkls621_ANY" Language="en_US">
+			<Text>Ahaha, there really are some fearless ones, but this can only be a fun point exclusive to Hina-chan~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_HINA_gkls621_ANY" Language="en_US">
+			<Text>I'm Hina Hikawa! I play the guitar in Pastel*Palettes. And... well, that's about it. [NEWLINE]Huh? Something else? I love my older sister the most~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_HINA_gkls621_ANY" Language="en_US">
+			<Text>There's a once-in-a-century meteor shower tonight! Want to come watch? It's super duper amazingly interesting~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_HINA_gkls621_ANY" Language="en_US">
+			<Text>Can Hina-chan legally sneak a peek at you? Hehe~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_HINA_gkls621_ANY" Language="en_US">
+			<Text>It really does kill time. After all, we are both interesting people~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_HINA_gkls621_ANY" Language="en_US">
+			<Text>Huh? I can't believe I ran into you here!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_HINA_gkls621_ANY" Language="en_US">
+			<Text>Let Hina-chan take a look too ru-N~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_HINA_gkls621_ANY" Language="en_US">
+			<Text>Seen through it all, bor~ing comrade~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_HINA_gkls621_ANY" Language="en_US">
+			<Text>Found you, curious about what mischief you're up to again... this gets me excited~</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

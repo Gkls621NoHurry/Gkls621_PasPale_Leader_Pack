@@ -1,0 +1,101 @@
+INSERT INTO Types
+(Type,  Kind)
+VALUES
+('UNIT_FINNISH_SNIPER_gkls621', 'KIND_UNIT'),
+('TRAIT_UNIT_FINNISH_SNIPER_gkls621',   'KIND_TRAIT'),
+('ABILITY_SNIPER_STEALTH_gkls621',  'KIND_ABILITY'),
+('ABILITY_SNIPER_MOVE_AFTER_ATTACK_gkls621',  'KIND_ABILITY');
+
+INSERT INTO Tags
+(Tag,   Vocabulary)
+VALUES
+('CLASS_FINNISH_SNIPER_gkls621',    'ABILITY_CLASS');
+
+INSERT INTO TypeTags
+(Type,  Tag)
+VALUES
+('UNIT_FINNISH_SNIPER_gkls621',         'CLASS_RANGED'),
+('UNIT_FINNISH_SNIPER_gkls621',         'CLASS_FINNISH_SNIPER_gkls621'),
+('ABILITY_SNIPER_STEALTH_gkls621',  'CLASS_FINNISH_SNIPER_gkls621'),
+('ABILITY_SNIPER_MOVE_AFTER_ATTACK_gkls621',  'CLASS_FINNISH_SNIPER_gkls621'),
+('ABILITY_IGNORE_ZOC',  'CLASS_FINNISH_SNIPER_gkls621');
+
+INSERT INTO UnitAiInfos
+(UnitType,  AiType)
+VALUES
+('UNIT_FINNISH_SNIPER_gkls621',       'UNITTYPE_LAND_COMBAT'),
+('UNIT_FINNISH_SNIPER_gkls621',       'UNITTYPE_RANGED'),
+('UNIT_FINNISH_SNIPER_gkls621',       'UNITAI_COMBAT');
+
+INSERT INTO Traits
+(TraitType, Name,   Description)
+VALUES
+('TRAIT_UNIT_FINNISH_SNIPER_gkls621',    'LOC_UNIT_FINNISH_SNIPER_gkls621_NAME',  'LOC_UNIT_FINNISH_SNIPER_gkls621_DESCRIPTION');
+
+INSERT INTO Units
+(UnitType,
+Name, 
+Description, 
+Cost,
+CostProgressionModel,
+CostProgressionParam1,
+Maintenance,
+BaseMoves,
+BaseSightRange,
+ZoneOfControl,
+Domain,
+Combat,
+RangedCombat,
+Range,
+FormationClass,
+PromotionClass,
+AdvisorType,
+PurchaseYield,
+PrereqTech,
+PrereqCivic,
+TraitType
+)SELECT
+'UNIT_FINNISH_SNIPER_gkls621',
+'LOC_UNIT_FINNISH_SNIPER_gkls621_NAME',
+'LOC_UNIT_FINNISH_SNIPER_gkls621_DESCRIPTION',
+Cost *0.5,
+CostProgressionModel,
+CostProgressionParam1,
+Maintenance -1,
+BaseMoves +1,
+BaseSightRange,
+ZoneOfControl,
+'DOMAIN_LAND',
+Combat -3,
+RangedCombat +5,
+Range,
+FormationClass,
+PromotionClass,
+AdvisorType,
+'YIELD_GOLD',
+NULL,
+'CIVIC_NATIONALISM',
+'TRAIT_UNIT_FINNISH_SNIPER_gkls621'
+FROM Units WHERE UnitType = 'UNIT_FIELD_CANNON';
+
+INSERT INTO UnitReplaces
+(CivUniqueUnitType, ReplacesUnitType)
+VALUES
+('UNIT_FINNISH_SNIPER_gkls621',  'UNIT_FIELD_CANNON');
+
+INSERT INTO UnitUpgrades
+(Unit,  UpgradeUnit)
+VALUES
+('UNIT_FINNISH_SNIPER_gkls621',   'UNIT_MACHINE_GUN');
+
+INSERT INTO UnitAbilities
+(UnitAbilityType,   Name,   Description)
+VALUES
+('ABILITY_SNIPER_STEALTH_gkls621',  'LOC_ABILITY_SNIPER_STEALTH_gkls621_NAME',  'LOC_ABILITY_SNIPER_STEALTH_gkls621_DESCRIPTION'),
+('ABILITY_SNIPER_MOVE_AFTER_ATTACK_gkls621',  'LOC_ABILITY_SNIPER_MOVE_AFTER_ATTACK_gkls621_NAME',  'LOC_ABILITY_SNIPER_MOVE_AFTER_ATTACK_gkls621_DESCRIPTION');
+
+INSERT INTO UnitAbilityModifiers
+(UnitAbilityType,   ModifierId)
+VALUES
+('ABILITY_SNIPER_STEALTH_gkls621',  'CAMOUFLAGE_STEALTH'),
+('ABILITY_SNIPER_MOVE_AFTER_ATTACK_gkls621',    'FADE_BONUS_MOVE_AFTER_ATTACKING');

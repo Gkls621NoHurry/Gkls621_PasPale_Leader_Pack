@@ -1,0 +1,365 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>PasPale Leader Pack</Name>
+    <Guid>57e36a4c-edba-43c4-aa59-d660713dc55f</Guid>
+    <ProjectGuid>ab1fe97f-368a-4db6-9298-4885600e090f</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>Adds Pastel*Palettes Civilisation and its 5 members as leaders to the game.</Teaser>
+    <Description>Adds Pastel*Palettes Civilisation and its 5 members as leaders to the game.</Description>
+    <Authors>Geekless_621</Authors>
+    <SpecialThanks>Civ6 modders and BanG Dreamers</SpecialThanks>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+    <AssociationData><![CDATA[<Associations>
+  <Dependency type="Dlc" title="Expansion: Gathering Storm" id="4873eb62-8ccc-4574-b784-dda455e74e68" />
+</Associations>]]></AssociationData>
+    <AssemblyName>PasPale_Leader_Pack_gkls621</AssemblyName>
+    <RootNamespace>PasPale_Leader_Pack_gkls621</RootNamespace>
+    <FrontEndActionData><![CDATA[<FrontEndActions><UpdateDatabase id="PasPaleConfig"><File>PasPale_gkls621_PlayerConfig.xml</File><File></File></UpdateDatabase><UpdateIcons id="PasPaleIcons"><File>PasPale_gkls621_Icons.xml</File></UpdateIcons><UpdateColors id="PasPaleColours"><File>PasPale_gkls621_Colours.xml</File></UpdateColors><UpdateArt id="PasPaleArt"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateText id="PasPaleText"><File>Text/1_Aya/PasPale_gkls621_ConfigText_Aya.xml</File><File>Text/2_Chisato/PasPale_gkls621_ConfigText_Chisato.xml</File><File>Text/3_Hina/PasPale_gkls621_ConfigText_Hina.xml</File><File>Text/4_Eve/PasPale_gkls621_ConfigText_Eve.xml</File><File>Text/5_Maya/PasPale_gkls621_ConfigText_Maya.xml</File><File>Text/Civ/PasPale_gkls621_ConfigText_Civilisation.xml</File><File>Text/1_Aya/PasPale_gkls621_ConfigText_Aya_enUS.xml</File><File>Text/2_Chisato/PasPale_gkls621_ConfigText_Chisato_enUS.xml</File><File>Text/3_Hina/PasPale_gkls621_ConfigText_Hina_enUS.xml</File><File>Text/4_Eve/PasPale_gkls621_ConfigText_Eve_enUS.xml</File><File>Text/5_Maya/PasPale_gkls621_ConfigText_Maya_enUS.xml</File><File>Text/1_Aya/PasPale_gkls621_ConfigText_Aya_zhHK.xml</File><File>Text/2_Chisato/PasPale_gkls621_ConfigText_Chisato_zhHK.xml</File><File>Text/3_Hina/PasPale_gkls621_ConfigText_Hina_zhHK.xml</File><File>Text/4_Eve/PasPale_gkls621_ConfigText_Eve_zhHK.xml</File><File>Text/5_Maya/PasPale_gkls621_ConfigText_Maya_zhHK.xml</File><File>Text/Civ/PasPale_gkls621_ConfigText_Civilisation_zhHK.xml</File><File>Text/Civ/PasPale_gkls621_ConfigText_Civilisation_enUS.xml</File></UpdateText></FrontEndActions>]]></FrontEndActionData>
+    <InGameActionData><![CDATA[<InGameActions><UpdateDatabase id="PasPaleCivData"><Properties><LoadOrder>60000</LoadOrder></Properties><File>PasPale_gkls621_Civilisation.sql</File><File>PasPale_gkls621_CivilisationTraits.sql</File><File>PasPale_gkls621_District_Civilisation.sql</File><File>PasPale_gkls621_Projects.sql</File><File>PasPale_gkls621_Unit_Civilisation.sql</File><File>PasPale_gkls621_Leaders.sql</File><File>PasPale_gkls621_Moments.xml</File></UpdateDatabase><UpdateDatabase id="AyaData"><Properties><LoadOrder>120020</LoadOrder></Properties><File>1_Aya/PasPale_gkls621_Agenda_Aya.sql</File><File>1_Aya/PasPale_gkls621_District_Aya.sql</File><File>1_Aya/PasPale_gkls621_LeaderTraits_Aya.sql</File><File>1_Aya/PasPale_gkls621_District_Aya_NewAdjacency.sql</File></UpdateDatabase><UpdateDatabase id="ChisatoData"><File>2_Chisato/PasPale_gkls621_Agenda_Chisato.sql</File><File>2_Chisato/PasPale_gkls621_District_Chisato.sql</File><File>2_Chisato/PasPale_gkls621_LeaderTraits_Chisato.sql</File><File>2_Chisato/PasPale_gkls621_District_Chisato_NewAdjacency.sql</File></UpdateDatabase><UpdateDatabase id="HinaData"><Properties><LoadOrder>120010</LoadOrder></Properties><File>3_Hina/PasPale_gkls621_Agenda_Hina.sql</File><File>3_Hina/PasPale_gkls621_Buildings_Hina.sql</File><File>3_Hina/PasPale_gkls621_LeaderTraits_Hina.sql</File><File>3_Hina/PasPale_gkls621_District_Hina.sql</File></UpdateDatabase><UpdateDatabase id="EveData"><Properties><LoadOrder>119000</LoadOrder></Properties><File>4_Eve/PasPale_gkls621_Agenda_Eve.sql</File><File>4_Eve/PasPale_gkls621_District_Eve.sql</File><File>4_Eve/PasPale_gkls621_District_Eve_NewAdjacency.sql</File><File>4_Eve/PasPale_gkls621_Unit_Eve.sql</File><File>4_Eve/PasPale_gkls621_UnitAbilities_Eve.sql</File><File>4_Eve/PasPale_gkls621_LeaderTraits_Eve.sql</File></UpdateDatabase><UpdateDatabase id="MayaData"><Properties><LoadOrder>120000</LoadOrder></Properties><File>5_Maya/PasPale_gkls621_Agenda_Maya.sql</File><File>5_Maya/PasPale_gkls621_District_Maya.sql</File><File>5_Maya/PasPale_gkls621_LeaderTraits_Maya.sql</File><File>5_Maya/PasPale_gkls621_LeaderTraits_Maya_NewAdjacency.sql</File><File>5_Maya/PasPale_gkls621_District_Maya_Compatibility.sql</File></UpdateDatabase><UpdateIcons id="PasPaleIcons"><File>PasPale_gkls621_Icons.xml</File></UpdateIcons><UpdateColors id="PasPaleColours"><File>PasPale_gkls621_Colours.xml</File></UpdateColors><AddGameplayScripts id="PasPaleGPLua"><File>Scripts/PasPale_gkls621_GPScript.lua</File><File>Scripts/PasPale_gkls621_GPScript_Maya.lua</File></AddGameplayScripts><AddUserInterfaces id="UIScript"><Properties><Context>InGame</Context></Properties><File>UI/PasPale_gkls621_UIScript.xml</File></AddUserInterfaces><UpdateArt id="PasPaleArt"><File>(Mod Art Dependency File)</File></UpdateArt><UpdateDatabase id="GreatIdol"><Properties><LoadOrder>800000</LoadOrder></Properties><File>GreatPeople/PasPale_gkls621_Idol_Class.sql</File><File>GreatPeople/PasPale_gkls621_Idol_GreatWorks.sql</File><File>GreatPeople/PasPale_gkls621_Idol_Individuals.sql</File><File>GreatPeople/PasPale_gkls621_Idol_Modifiers.sql</File></UpdateDatabase><UpdateText id="PasPaleText"><File>Text/1_Aya/PasPale_gkls621_ConfigText_Aya.xml</File><File>Text/2_Chisato/PasPale_gkls621_ConfigText_Chisato.xml</File><File>Text/3_Hina/PasPale_gkls621_ConfigText_Hina.xml</File><File>Text/4_Eve/PasPale_gkls621_ConfigText_Eve.xml</File><File>Text/5_Maya/PasPale_gkls621_ConfigText_Maya.xml</File><File>Text/Civ/PasPale_gkls621_ConfigText_Civilisation.xml</File><File>Text/1_Aya/PasPale_gkls621_Text_Aya.xml</File><File>Text/2_Chisato/PasPale_gkls621_Text_Chisato.xml</File><File>Text/3_Hina/PasPale_gkls621_Text_Hina.xml</File><File>Text/4_Eve/PasPale_gkls621_Text_Eve.xml</File><File>Text/5_Maya/PasPale_gkls621_Text_Maya.xml</File><File>Text/Civ/PasPale_Text_Civilisation.xml</File><File>Text/GreatPeople/PasPale_gkls621_Text_GreatIdols.xml</File></UpdateText><ImportFiles id="IdolPortraits"><Criteria>RealGreatPeople</Criteria><File>GreatPeople/Portraits/IDOL_765AS_gkls621.dds</File><File>GreatPeople/Portraits/IDOL_AKB48_gkls621.dds</File><File>GreatPeople/Portraits/IDOL_AKINA_gkls621.dds</File><File>GreatPeople/Portraits/IDOL_CLOVERZ_gkls621.dds</File><File>GreatPeople/Portraits/IDOL_MARI_gkls621.dds</File><File>GreatPeople/Portraits/IDOL_MEGUMI_gkls621.dds</File><File>GreatPeople/Portraits/IDOL_MOMOE_gkls621.dds</File><File>GreatPeople/Portraits/IDOL_MORNING_gkls621.dds</File><File>GreatPeople/Portraits/IDOL_MUS_gkls621.dds</File><File>GreatPeople/Portraits/IDOL_NORIKO_gkls621.dds</File><File>GreatPeople/Portraits/IDOL_PASPALE_gkls621.dds</File><File>GreatPeople/Portraits/IDOL_PLADY_gkls621.dds</File><File>GreatPeople/Portraits/IDOL_SAYURI_gkls621.dds</File><File>GreatPeople/Portraits/IDOL_SEIKO_gkls621.dds</File><File>GreatPeople/Portraits/IDOL_SPEED_gkls621.dds</File><File>GreatPeople/Portraits/IDOL_YUKIKO_gkls621.dds</File></ImportFiles><UpdateIcons id="IdolPortraitUpload"><Criteria>RealGreatPeople</Criteria><File>GreatPeople/Portraits/PasPale_gkls621_Icons_RGP.xml</File></UpdateIcons><UpdateText id="EnglishText"><File>Text/1_Aya/PasPale_gkls621_ConfigText_Aya_enUS.xml</File><File>Text/1_Aya/PasPale_gkls621_Text_Aya_enUS.xml</File><File>Text/2_Chisato/PasPale_gkls621_ConfigText_Chisato_enUS.xml</File><File>Text/2_Chisato/PasPale_gkls621_Text_Chisato_enUS.xml</File><File>Text/3_Hina/PasPale_gkls621_ConfigText_Hina_enUS.xml</File><File>Text/3_Hina/PasPale_gkls621_Text_Hina_enUS.xml</File><File>Text/4_Eve/PasPale_gkls621_ConfigText_Eve_enUS.xml</File><File>Text/5_Maya/PasPale_gkls621_ConfigText_Maya_enUS.xml</File><File>Text/5_Maya/PasPale_gkls621_Text_Maya_enUS.xml</File><File>Text/Civ/PasPale_gkls621_ConfigText_Civilisation_enUS.xml</File><File>Text/Civ/PasPale_Text_Civilisation_enUS.xml</File><File>Text/4_Eve/PasPale_gkls621_Text_Eve_enUS.xml</File><File>Text/GreatPeople/PasPale_gkls621_Text_GreatIdols_enUS.xml</File></UpdateText><UpdateText id="TraditionalChineseText"><File>Text/1_Aya/PasPale_gkls621_ConfigText_Aya_zhHK.xml</File><File>Text/1_Aya/PasPale_gkls621_Text_Aya_zhHK.xml</File><File>Text/2_Chisato/PasPale_gkls621_ConfigText_Chisato_zhHK.xml</File><File>Text/2_Chisato/PasPale_gkls621_Text_Chisato_zhHK.xml</File><File>Text/3_Hina/PasPale_gkls621_ConfigText_Hina_zhHK.xml</File><File>Text/3_Hina/PasPale_gkls621_Text_Hina_zhHK.xml</File><File>Text/4_Eve/PasPale_gkls621_ConfigText_Eve_zhHK.xml</File><File>Text/4_Eve/PasPale_gkls621_Text_Eve_zhHK.xml</File><File>Text/5_Maya/PasPale_gkls621_ConfigText_Maya_zhHK.xml</File><File>Text/5_Maya/PasPale_gkls621_Text_Maya_zhHK.xml</File><File>Text/Civ/PasPale_gkls621_ConfigText_Civilisation_zhHK.xml</File><File>Text/Civ/PasPale_Text_Civilisation_zhHK.xml</File><File>Text/GreatPeople/PasPale_gkls621_Text_GreatIdols_zhHK.xml</File></UpdateText></InGameActions>]]></InGameActionData>
+    <ActionCriteriaData><![CDATA[<ActionCriteria><Criteria id="RealGreatPeople" /></ActionCriteria>]]></ActionCriteriaData>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <None Include="PasPale_Leader_Pack_gkls621.Art.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1_Aya\PasPale_gkls621_Agenda_Aya.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="1_Aya\PasPale_gkls621_District_Aya.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="1_Aya\PasPale_gkls621_District_Aya_NewAdjacency.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="1_Aya\PasPale_gkls621_LeaderTraits_Aya.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="2_Chisato\PasPale_gkls621_Agenda_Chisato.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="2_Chisato\PasPale_gkls621_District_Chisato.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="2_Chisato\PasPale_gkls621_District_Chisato_NewAdjacency.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="2_Chisato\PasPale_gkls621_LeaderTraits_Chisato.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="3_Hina\PasPale_gkls621_Agenda_Hina.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="3_Hina\PasPale_gkls621_Buildings_Hina.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="3_Hina\PasPale_gkls621_District_Hina.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="3_Hina\PasPale_gkls621_LeaderTraits_Hina.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="4_Eve\PasPale_gkls621_Agenda_Eve.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="4_Eve\PasPale_gkls621_District_Eve.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="4_Eve\PasPale_gkls621_District_Eve_NewAdjacency.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="4_Eve\PasPale_gkls621_LeaderTraits_Eve.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="4_Eve\PasPale_gkls621_UnitAbilities_Eve.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="4_Eve\PasPale_gkls621_Unit_Eve.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="5_Maya\PasPale_gkls621_Agenda_Maya.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="5_Maya\PasPale_gkls621_District_Maya.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="5_Maya\PasPale_gkls621_District_Maya_Compatibility.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="5_Maya\PasPale_gkls621_LeaderTraits_Maya.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="5_Maya\PasPale_gkls621_LeaderTraits_Maya_NewAdjacency.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ArtDefs\Civilizations.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ArtDefs\Districts.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ArtDefs\FallbackLeaders.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ArtDefs\Landmarks.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ArtDefs\Units.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="ArtDefs\Units_Great_People.artdef">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="GreatPeople\PasPale_gkls621_Idol_Class.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="GreatPeople\PasPale_gkls621_Idol_GreatWorks.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="GreatPeople\PasPale_gkls621_Idol_Individuals.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="GreatPeople\PasPale_gkls621_Idol_Modifiers.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="GreatPeople\Portraits\IDOL_765AS_gkls621.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="GreatPeople\Portraits\IDOL_AKB48_gkls621.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="GreatPeople\Portraits\IDOL_AKINA_gkls621.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="GreatPeople\Portraits\IDOL_CLOVERZ_gkls621.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="GreatPeople\Portraits\IDOL_MARI_gkls621.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="GreatPeople\Portraits\IDOL_MEGUMI_gkls621.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="GreatPeople\Portraits\IDOL_MOMOE_gkls621.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="GreatPeople\Portraits\IDOL_MORNING_gkls621.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="GreatPeople\Portraits\IDOL_MUS_gkls621.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="GreatPeople\Portraits\IDOL_NORIKO_gkls621.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="GreatPeople\Portraits\IDOL_PASPALE_gkls621.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="GreatPeople\Portraits\IDOL_PLADY_gkls621.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="GreatPeople\Portraits\IDOL_SAYURI_gkls621.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="GreatPeople\Portraits\IDOL_SEIKO_gkls621.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="GreatPeople\Portraits\IDOL_SPEED_gkls621.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="GreatPeople\Portraits\IDOL_YUKIKO_gkls621.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="GreatPeople\Portraits\PasPale_gkls621_Icons_RGP.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="PasPale_gkls621_Civilisation.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="PasPale_gkls621_CivilisationTraits.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="PasPale_gkls621_Colours.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="PasPale_gkls621_District_Civilisation.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="PasPale_gkls621_Icons.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="PasPale_gkls621_Leaders.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="PasPale_gkls621_Moments.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="PasPale_gkls621_PlayerConfig.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="PasPale_gkls621_Projects.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="PasPale_gkls621_Unit_Civilisation.sql">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Scripts\PasPale_gkls621_GPScript.lua">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Scripts\PasPale_gkls621_GPScript_Maya.lua">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\1_Aya\PasPale_gkls621_ConfigText_Aya.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\1_Aya\PasPale_gkls621_ConfigText_Aya_enUS.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\1_Aya\PasPale_gkls621_ConfigText_Aya_zhHK.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\1_Aya\PasPale_gkls621_Text_Aya.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\1_Aya\PasPale_gkls621_Text_Aya_enUS.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\1_Aya\PasPale_gkls621_Text_Aya_zhHK.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\2_Chisato\PasPale_gkls621_ConfigText_Chisato.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\2_Chisato\PasPale_gkls621_ConfigText_Chisato_enUS.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\2_Chisato\PasPale_gkls621_ConfigText_Chisato_zhHK.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\2_Chisato\PasPale_gkls621_Text_Chisato.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\2_Chisato\PasPale_gkls621_Text_Chisato_enUS.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\2_Chisato\PasPale_gkls621_Text_Chisato_zhHK.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\3_Hina\PasPale_gkls621_ConfigText_Hina.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\3_Hina\PasPale_gkls621_ConfigText_Hina_enUS.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\3_Hina\PasPale_gkls621_ConfigText_Hina_zhHK.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\3_Hina\PasPale_gkls621_Text_Hina.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\3_Hina\PasPale_gkls621_Text_Hina_enUS.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\3_Hina\PasPale_gkls621_Text_Hina_zhHK.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\4_Eve\PasPale_gkls621_ConfigText_Eve.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\4_Eve\PasPale_gkls621_ConfigText_Eve_enUS.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\4_Eve\PasPale_gkls621_ConfigText_Eve_zhHK.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\4_Eve\PasPale_gkls621_Text_Eve.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\4_Eve\PasPale_gkls621_Text_Eve_enUS.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\4_Eve\PasPale_gkls621_Text_Eve_zhHK.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\5_Maya\PasPale_gkls621_ConfigText_Maya.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\5_Maya\PasPale_gkls621_ConfigText_Maya_enUS.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\5_Maya\PasPale_gkls621_ConfigText_Maya_zhHK.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\5_Maya\PasPale_gkls621_Text_Maya.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\5_Maya\PasPale_gkls621_Text_Maya_enUS.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\5_Maya\PasPale_gkls621_Text_Maya_zhHK.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\Civ\PasPale_gkls621_ConfigText_Civilisation.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\Civ\PasPale_gkls621_ConfigText_Civilisation_enUS.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\Civ\PasPale_gkls621_ConfigText_Civilisation_zhHK.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\Civ\PasPale_Text_Civilisation.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\Civ\PasPale_Text_Civilisation_enUS.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\Civ\PasPale_Text_Civilisation_zhHK.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\GreatPeople\PasPale_gkls621_Text_GreatIdols.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\GreatPeople\PasPale_gkls621_Text_GreatIdols_enUS.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Text\GreatPeople\PasPale_gkls621_Text_GreatIdols_zhHK.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="UI\PasPale_gkls621_UIScript.lua">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="UI\PasPale_gkls621_UIScript.xml">
+      <SubType>Content</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="1_Aya\" />
+    <Folder Include="2_Chisato\" />
+    <Folder Include="3_Hina\" />
+    <Folder Include="4_Eve\" />
+    <Folder Include="5_Maya\" />
+    <Folder Include="ArtDefs\" />
+    <Folder Include="GreatPeople\" />
+    <Folder Include="GreatPeople\Portraits" />
+    <Folder Include="Scripts\" />
+    <Folder Include="Text\" />
+    <Folder Include="Text\1_Aya\" />
+    <Folder Include="Text\2_Chisato\" />
+    <Folder Include="Text\3_Hina\" />
+    <Folder Include="Text\4_Eve\" />
+    <Folder Include="Text\5_Maya\" />
+    <Folder Include="Text\Civ\" />
+    <Folder Include="Text\GreatPeople\" />
+    <Folder Include="UI\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>

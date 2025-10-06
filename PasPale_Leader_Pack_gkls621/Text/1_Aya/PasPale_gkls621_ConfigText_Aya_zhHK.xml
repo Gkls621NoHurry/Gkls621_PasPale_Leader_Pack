@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_LEADER_AYA_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>丸山彩</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_AYA_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>丸山添彩！</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_AYA_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>開局獲得「建造」「工程」「機械」「學徒」「軍事工程學」「精煉」的 [ICON_TechBoosted] 尤里卡。同時擁有「批量生產」與「金屬鑄造」的 [ICON_TechBoosted] 尤里卡（或解鎖科技）則解鎖「內燃機」。購買重騎兵單位的費用-50%。城市建成工作坊時獲得一名建造者；建成工廠時獲得建造者、軍事工程師各一名。建造者、軍事工程師、應援團與近戰單位獲得+1 [ICON_Charges] 勞動次數。每招募一名 [ICON_GreatPerson] 偉人，全國 [ICON_Science] 科技、 [ICON_Culture] 文化、 [ICON_Faith] 信仰產出+5%（至多30%）。有總督就職的城市，免受環境效應的掠奪。</Text>
+		</Row>
+
+        <Row Tag="LOC_DISTRICT_GARAGE_gkls621_NAME" Language="zh_Hant_HK">
+			<Text>車庫</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_GARAGE_gkls621_DESCRIPTION" Language="zh_Hant_HK">
+			<Text>丸山彩為領袖時的特殊區域，替代工業區，解鎖於「戲劇與詩歌」市政。建成後提供一個應援團。相鄰的戰略資源、堡壘、娛樂中心、水上樂園及工作人口提供大量相鄰加成，加成資源提供標準相鄰加成；區域內每個專家人口使相鄰加成+50%。揭示鋁資源位置，每回合提供2點石油。6個單元格內的己方軍事單位+10 [ICON_Strength] 戰鬥力，+60生命回復。解鎖「工業化」後，提供等於 [ICON_Production] 生產力加成50%的 [ICON_Tourism] 旅遊業績。</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

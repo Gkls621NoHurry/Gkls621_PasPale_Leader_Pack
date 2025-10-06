@@ -1,0 +1,13 @@
+Starting AssetCooker...
+Argument '--shaders' has been deprecated and is no longer used.
+XLP cook starting...
+C:\Users\Geekless_621\Documents\Firaxis ModBuddy\Civilization VI\PasPale_Leader_Pack_gkls621\PasPale_Leader_Pack_gkls621\XLPs\PasPale_Texture_gkls621.xlp
+Opened output file: C:\Users\Geekless_621\Documents\My Games\Sid Meier's Civilization VI\Mods\PasPale_Leader_Pack_gkls621\Platforms\MacOS\BLPs/PasPale_Texture_gkls621.blp    For XLP: 'C:\Users\Geekless_621\Documents\Firaxis ModBuddy\Civilization VI\PasPale_Leader_Pack_gkls621\PasPale_Leader_Pack_gkls621\XLPs\PasPale_Texture_gkls621.xlp'
+Could not load digest key: ''.  Using mod key to sign BLP.
+Starting 'PasPale_Texture_gkls621'
+Load finished for: 'PasPale_Texture_gkls621' in 0.058 seconds
+Cook finished for: 'PasPale_Texture_gkls621' in 0.331 seconds
+Disk write finished for: 'PasPale_Texture_gkls621' in 0.059 seconds
+Cleanup finished for: 'PasPale_Texture_gkls621' in 0.006 seconds
+XLP cook completed with success.
+Cook completed in 0.465 seconds

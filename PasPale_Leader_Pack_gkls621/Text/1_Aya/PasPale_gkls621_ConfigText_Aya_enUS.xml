@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_LEADER_AYA_gkls621_NAME" Language="en_US">
+			<Text>Aya Maruyama</Text>
+		</Row>
+
+	    <Row Tag="LOC_TRAIT_LEADER_AYA_gkls621_NAME" Language="en_US">
+		    <Text>Maruyama Colouration!</Text>
+	    </Row>
+	    <Row Tag="LOC_TRAIT_LEADER_AYA_gkls621_DESCRIPTION" Language="en_US">
+		    <Text>Receive [ICON_TechBoosted] Eurekas for "Construction", "Engineering", "Machinery", "Apprenticeship", "Military Engineering", and "Refining" at the start. Unlock "Combustion" when both "Mass Production" and "Metal Casting" are boosted (or unlocked). 50% discount for purchasing heavy-cavalry units. Gain 1 Builder when a Workshop completes, and 1 Builder + 1 Military Engineer with a Factory. Builders, Military Engineers, Fans, and melee units gain +1 [ICON_Charges] Charge Count. For each [ICON_GreatPerson] Great Person earned, increase national [ICON_Science] Science, [ICON_Culture] Culture, and [ICON_Faith] Faith yield by 5% (up to 30%). Cities with governors established are immune to environmental disaster damage.</Text>
+	    </Row>
+
+        <Row Tag="LOC_DISTRICT_GARAGE_gkls621_NAME" Language="en_US">
+		    <Text>Garage</Text>
+	    </Row>
+	    <Row Tag="LOC_DISTRICT_GARAGE_gkls621_DESCRIPTION" Language="en_US">
+		    <Text>Special district replacing Industrial Zone when led by Maruyama Aya. Unlocked at "Drama and Poetry". Provides 1 Fan upon construction. Adjacent strategic resources, Forts, Entertainment Complexes, Water Parks, and adjacent working citizens provide significant adjacency bonuses (standard adjacency rules apply for bonus resources). Each specialist in the district increases adjacency bonuses by 50%. Reveals Aluminum resources and generates 2 Oil per turn. Military units within 6 tiles gain +10 [ICON_Strength] Combat Strength and +60 HP recovery per turn. After unlocking "Industrialization", generates [ICON_Tourism] Tourism equal to 50% of [ICON_Production] Production bonuses.</Text>
+	    </Row>
+    </LocalizedText>
+</GameData>

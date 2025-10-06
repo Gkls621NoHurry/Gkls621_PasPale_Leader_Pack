@@ -1,0 +1,19 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# ModBuddy Solution File, Format Version 12.00
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{5DAE07AF-E217-45C1-8DE7-FF99D6011E8A}") = "PasPale_Leader_Pack_gkls621", "PasPale_Leader_Pack_gkls621\PasPale_Leader_Pack_gkls621.civ6proj", "{AB1FE97F-368A-4DB6-9298-4885600E090F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Civ6 = Default|Civ6
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB1FE97F-368A-4DB6-9298-4885600E090F}.Default|Civ6.ActiveCfg = Default|Civ6
+		{AB1FE97F-368A-4DB6-9298-4885600E090F}.Default|Civ6.Build.0 = Default|Civ6
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_AGENDA_MAYA_gkls621_NAME" Language="en_US">
+			<Text>Studio-Based</Text>
+		</Row>
+		<Row Tag="LOC_AGENDA_MAYA_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Likes civilizations that actively build districts. Dislikes civilizations that are lazy about building districts.</Text>
+		</Row>
+		<Row Tag="LOC_LOADING_INFO_LEADER_MAYA_gkls621" Language="en_US">
+			<Text>The word "fate" is merely the starting point of an adventure story, and the moment of "opportunity" is what forges an enduring tale. Maya Yamato, after this miraculous baptism, you are still the skill-oriented you, with a magical laugh and an obsession when talking about equipment. This hexagonal land is also a place for you to showcase your skills; feel free to arrange the infrastructure, create order, and make a small world like a line, dwelling peacefully within it.</Text>
+		</Row>
+
+		<Row Tag="LOC_EQUIPMENT_ROOM_PRODUCTION_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Production] Production from adjacent Equipment Rooms.</Text>
+		</Row>
+		<Row Tag="LOC_EQUIPMENT_ROOM_CULTURE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Culture] Culture from adjacent Equipment Rooms.</Text>
+		</Row>
+		<Row Tag="LOC_EQUIPMENT_ROOM_SCIENCE_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Science] Science from adjacent Equipment Rooms.</Text>
+		</Row>
+		<Row Tag="LOC_EQUIPMENT_ROOM_FAITH_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Faith] Faith from adjacent Equipment Rooms.</Text>
+		</Row>
+		<Row Tag="LOC_EQUIPMENT_ROOM_GOLD_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Gold] Gold from adjacent Equipment Rooms.</Text>
+		</Row>
+		<Row Tag="LOC_EQUIPMENT_ROOM_FOOD_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Food] Food from adjacent Equipment Rooms.</Text>
+		</Row>
+		<Row Tag="LOC_IDOL_THEATER_EQUIPMENT_ROOM_PRODUCTION_gkls621_DESCRIPTION" Language="en_US">
+			<Text>+{1_Num} [ICON_Production] Production from adjacent Idol Theaters.</Text>
+		</Row>
+		<Row Tag="LOC_MAYA_RING_ONE_gkls621" Language="en_US">
+			<Text>+{1_iBonus} {2_YieldIcon} Adjacency bonus from several groups of identical districts on the first ring.</Text>
+		</Row>
+		<Row Tag="LOC_MAYA_RING_TWO_gkls621" Language="en_US">
+			<Text>+{1_iBonus} {2_YieldIcon} Adjacency bonus from several groups of identical districts on the second ring.</Text>
+		</Row>
+		<Row Tag="LOC_EQUIPMENT_INDUSTRY_gkls621" Language="en_US">
+			<Text>+{1_iBonus}% {2_YieldIcon} Adjacency bonus from adjacent Equipment Rooms.</Text>
+		</Row>
+		
+    <!--Civilopedia contents-->
+		<Row Tag="LOC_LEADER_MAYA_gkls621_QUOTE" Language="en_US">
+			<Text>Fuhehe~</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MAYA_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Maya Yamato, whose name reads the same forwards and backwards in Japanese, is the drummer of the band Pastel*Palettes. A heavy enthusiast of equipment, she is proficient in all kinds ofinstruments and machinery, and possesses considerable knowledge in various other fields—even wilderness survival.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MAYA_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>She initially worked as a technical staff member and support drummer for the agency. As Pastel*Palettes struggled to find a drummer (the one position that couldn't tolerate fake playing), she temporarily filled in for rehearsals; Chisato, with her keen eye, recognized Maya's beauty behind her glasses and decided to make her an official member (she must wear contact lenses during performances).</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MAYA_gkls621_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Maya is not skilled in social interactions, often appearing somewhat awkward in front of people, and had some social anxiety before becoming the drummer. But whenever she is around music equipment or talking about her hobbies, she becomes excited and talks fluently.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MAYA_gkls621_CHAPTER_HISTORY_PARA_4" Language="en_US">
+			<Text>Maya's "Fuhehe" laugh is quite addictive, but unfortunately, it gets prohibited by Chisato, at which point she laughs with an "Ohoho" instead.[NEWLINE][NEWLINE]Maya, who is adept at backstage details, has now become responsible for the agency's performance facilities and maintains good cooperation with Kaoru, Masking, and others.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MAYA_gkls621_CHAPTER_HISTORY_PARA_5" Language="en_US">
+			<Text>(Compiled from Fandom and Moegirlpedia)</Text>
+		</Row>
+
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_EQUIPMENT_ROOM_gkls621_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>The condenser microphone was invented in 1925, the electric guitar in 1931, the tape recorder in 1935... These inventions changed the face of recording studios. By the 1970s, when pioneering experimental trends were flourishing, engineers at EMI's Abbey Road Studios were already skilled in various sound processing techniques.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_DISTRICTS_PAGE_DISTRICT_EQUIPMENT_ROOM_gkls621_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Maya Yamato is skilled at managing recording equipment, and the equipment room is the perfect place to centrally store these devices. Maya is also a studio drummer. When she first met the other members of PasPale, she excitedly discussed voltage with Hina (What about voltage? For recording equipment, it probably covers everything...).</Text>
+		</Row>
+
+		<Row Tag="LOC_DIPLO_KUDO_LEADER_MAYA_gkls621_AGENDA_HIGH_DISTRICTS" Language="en_US">
+			<Text>A city's districts are like recording equipment. Hehe, it seems you also enjoy polishing the details!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_LEADER_MAYA_gkls621_AGENDA_LOW_DISTRICTS" Language="en_US">
+			<Text>To be honest, I recommend you make full use of the equipment at hand to develop...</Text>
+		</Row>
+        <Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_MAYA_gkls621_AGENDA_HIGH_DISTRICTS" Language="en_US">
+			<Text>She likes civilizations that actively build districts.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_MAYA_gkls621_AGENDA_LOW_DISTRICTS" Language="en_US">
+			<Text>She dislikes civilizations that lack districts for specialized work.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MAYA_gkls621_ANY" Language="en_US">
+			<Text>Th-thank you. That... I, I'm really happy!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_HUMAN_LEADER_MAYA_gkls621_ANY" Language="en_US">
+			<Text>I'm very sorry... I'm not the type who can step into the spotlight...! Let alone something like an alliance, it's absolutely impossible...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_FRIEND_FROM_AI_LEADER_MAYA_gkls621_ANY" Language="en_US">
+			<Text>...This is the first time someone has trusted me like this... If you don't mind...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DECLARE_FRIEND_FROM_AI_LEADER_MAYA_gkls621_ANY" Language="en_US">
+			<Text>Th-thank you. That... I, I'm really happy!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DECLARE_FRIEND_FROM_AI_LEADER_MAYA_gkls621_ANY" Language="en_US">
+			<Text>I'm very sorry... I'm not the type who can step into the spotlight...! Let alone something like an alliance, it's absolutely impossible...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MAYA_gkls621_ANY" Language="en_US">
+			<Text>Don't think I'm always just tinkering with equipment quietly; I've actually seen your unreasonableness all along!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MAYA_gkls621_ANY" Language="en_US">
+			<Text>Don't think I'm always just tinkering with equipment quietly; I've actually seen your unreasonableness all along!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_MAYA_gkls621_ANY" Language="en_US">
+			<Text>All pride is shattered: practice, performance skills, equipment repair, this dream-driven PasPale...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_MAYA_gkls621_ANY" Language="en_US">
+			<Text>All pride is shattered: practice, performance skills, equipment repair, this dream-driven PasPale...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MAYA_gkls621_ANY" Language="en_US">
+			<Text>Fu, fuhehe... Hearing you say that makes me so shy.</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_REJECT_DELEGATION_FROM_HUMAN_LEADER_MAYA_gkls621_ANY" Language="en_US">
+			<Text>Ah, wait, sorry...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_MAYA_gkls621_ANY" Language="en_US">
+			<Text>We've brought the latest guitar effect pedals and a complete set of concert circuit upgrade solutions! We hope this helps your country avoid repeating our mistakes...[NEWLINE]Also, the upcoming High-End Audio Show is definitely worth a visit!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_HUMAN_LEADER_MAYA_gkls621_ANY" Language="en_US">
+			<Text>Hehe, this isn't very dignified of you~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_DENOUNCE_FROM_AI_LEADER_MAYA_gkls621_ANY" Language="en_US">
+			<Text>Hehe, this isn't very dignified of you~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_LEADER_MAYA_gkls621_ANY" Language="en_US">
+			<Text>Read forwards or backwards, it's Maya Yamato. I am Maya Yamato. Pleased to meet you~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_MAYA_gkls621_ANY" Language="en_US">
+			<Text>Having someone to talk about instruments with is truly a happiness! Eh, ehehe...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NEAR_INITIATOR_POSITIVE_LEADER_MAYA_gkls621_ANY" Language="en_US">
+			<Text>C-can I take a look at your country's music stores? Hehe, actually, I just wanted to see if there are any latest cymbals for sale. Hehehe...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_FIRST_MEET_NO_MANS_INFO_EXCHANGE_LEADER_MAYA_gkls621_ANY" Language="en_US">
+			<Text>That... You don't need to be afraid! I, I'm very proficient in wilderness survival tricks...</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_GREETING_LEADER_MAYA_gkls621_ANY" Language="en_US">
+			<Text>Oh, I didn't expect to run into you again! Nice to meet you~</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MAYA_gkls621_ANY" Language="en_US">
+			<Text>I-Is that so? Ehehe... Hearing you say that really makes me happy. Thank you!</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MAYA_gkls621_ANY" Language="en_US">
+			<Text>Huh?</Text>
+		</Row>
+		<Row Tag="LOC_DIPLO_WARNING_TOO_MANY_TROOPS_NEAR_ME_LEADER_MAYA_gkls621_ANY" Language="en_US">
+			<Text>Don't touch my freshly tidied drum kit! And besides, you won't even get a chance to step in and touch it!</Text>
+		</Row>
+    </LocalizedText>
+</GameData>

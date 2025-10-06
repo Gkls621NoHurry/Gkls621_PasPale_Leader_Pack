@@ -1,0 +1,74 @@
+-- Aya's Agenda
+INSERT INTO Types
+(Type,	Kind)
+VALUES
+('TRAIT_AGENDA_AYA_gkls621',		'KIND_TRAIT');
+
+INSERT INTO Traits
+(TraitType)
+VALUES
+('TRAIT_AGENDA_AYA_gkls621');
+
+INSERT INTO Agendas
+(AgendaType,	Name,	Description)
+VALUES
+('AGENDA_AYA_gkls621',	'LOC_AGENDA_AYA_gkls621_NAME',	'LOC_AGENDA_AYA_gkls621_DESCRIPTION');
+
+INSERT INTO HistoricalAgendas
+(LeaderType,	AgendaType)
+VALUES
+('LEADER_AYA_gkls621',	'AGENDA_AYA_gkls621');
+
+INSERT INTO ExclusiveAgendas
+(AgendaOne,	AgendaTwo)
+VALUES
+('AGENDA_AYA_gkls621',	'AGENDA_DARWINIST'),
+('AGENDA_AYA_gkls621',	'AGENDA_STANDING_ARMY');
+
+INSERT INTO AgendaPreferredLeaders
+(AgendaType,	LeaderType,	PercentageChance)
+VALUES
+('AGENDA_INDUSTRIALIST',		'LEADER_AYA_gkls621',	50),
+('AGENDA_CULTURED',             'LEADER_AYA_gkls621',   30);
+
+INSERT INTO AgendaTraits
+(AgendaType,	TraitType)
+VALUES
+('AGENDA_AYA_gkls621',	'TRAIT_AGENDA_AYA_gkls621');
+
+INSERT INTO TraitModifiers
+(TraitType,	ModifierId)
+VALUES
+('TRAIT_AGENDA_AYA_gkls621', 'AGENDA_AYA_gkls621_BE_SPIED'),
+('TRAIT_AGENDA_AYA_gkls621', 'AGENDA_AYA_gkls621_LOW_GOSSIP');
+
+INSERT INTO Modifiers
+(ModifierId,	ModifierType,	SubjectRequirementSetId)
+VALUES
+('AGENDA_AYA_gkls621_BE_SPIED',		    'MODIFIER_PLAYER_DIPLOMACY_SIMPLE_MODIFIER',	'REQSET_PASPALE_AYA_KUDO_gkls621'),
+('AGENDA_AYA_gkls621_LOW_GOSSIP',	    'MODIFIER_PLAYER_DIPLOMACY_SIMPLE_MODIFIER',	'PLAYER_IS_NOT_SHARING_INFO');
+
+INSERT INTO ModifierArguments
+(ModifierId,	Name,	Value)
+VALUES
+('AGENDA_AYA_gkls621_BE_SPIED',			'InitialValue',					20),
+('AGENDA_AYA_gkls621_BE_SPIED',			'StatementKey',					'LOC_DIPLO_KUDO_LEADER_AYA_gkls621_AGENDA_BE_SPIED'),
+('AGENDA_AYA_gkls621_BE_SPIED',			'SimpleModifierDescription',	'LOC_DIPLO_MODIFIER_DESCRIPTION_AYA_gkls621_AGENDA_BE_SPIED'),
+('AGENDA_AYA_gkls621_LOW_GOSSIP',		'InitialValue',					-2),
+('AGENDA_AYA_gkls621_LOW_GOSSIP',		'StatementKey',					'LOC_DIPLO_WARNING_LEADER_AYA_gkls621_AGENDA_LOW_GOSSIP'),
+('AGENDA_AYA_gkls621_LOW_GOSSIP',		'SimpleModifierDescription',	'LOC_DIPLO_MODIFIER_DESCRIPTION_AYA_gkls621_AGENDA_LOW_GOSSIP');
+
+INSERT INTO RequirementSets (RequirementSetId, RequirementSetType)
+VALUES
+('REQSET_PASPALE_AYA_KUDO_gkls621', 'REQUIREMENTSET_TEST_ANY');
+
+INSERT INTO RequirementSetRequirements (RequirementSetId, RequirementId)
+VALUES
+('REQSET_PASPALE_AYA_KUDO_gkls621', 'REQUIRES_ESPIONAGE_DETECTED'),
+('REQSET_PASPALE_AYA_KUDO_gkls621', 'REQUIRES_SHARING_INFO');
+
+INSERT INTO ModifierStrings
+(ModifierId,	Context,	Text)
+VALUES
+('AGENDA_AYA_gkls621_BE_SPIED',	'Sample',	'LOC_TOOLTIP_SAMPLE_DIPLOMACY_ALL'),
+('AGENDA_AYA_gkls621_LOW_GOSSIP',	'Sample',	'LOC_TOOLTIP_SAMPLE_DIPLOMACY_ALL');

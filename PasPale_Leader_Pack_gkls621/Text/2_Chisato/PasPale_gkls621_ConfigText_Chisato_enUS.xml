@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+        <Row Tag="LOC_LEADER_CHISATO_gkls621_NAME" Language="en_US">
+			<Text>Chisato Shirasagi</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_CHISATO_gkls621_NAME" Language="en_US">
+			<Text>The Smiling Iron Mask</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LEADER_CHISATO_gkls621_DESCRIPTION" Language="en_US">
+			<Text>Starts with 80% instead of 50% of the Civics cost completed for Drama and Poetry. +30 Favor from all players. All players can form any type of [ICON_ALLIANCE] Alliance once Drama and Poetry is unlocked. The current highest effective Alliance level provides an equal number of Diplomatic policy slots to all [ICON_Government] Governments (+2 additional slots for a Level 3 Alliance), and provides +2/+4/+9 [ICON_Tourism] Tourism to Districts. Cities have full Loyalty during Dark Ages.[NEWLINE]All your cities receive a Rock Band upon first adopting the Communism [ICON_Government] Government, and Rock Band album sales are increased by 50%.</Text>
+		</Row>
+
+        <Row Tag="LOC_DISTRICT_CHILDSTAR_GUILD_gkls621_NAME" Language="en_US">
+			<Text>Child Star Guild</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_CHILDSTAR_GUILD_gkls621_DESCRIPTION" Language="en_US">
+			<Text>A special District for Shirasagi Chisato that replaces the Commerical Hub. Unlocked with the Drama and Poetry Civic and has a lower base Production cost. Provides major [ICON_Culture] Culture adjacency bonus from adjacent Luxury resources and Wonders, and standard [ICON_Culture] Culture adjacency bonus from adjacent Bonus resources, Districts, and from each active Diplomatic policy card; Diplomatic policy cards also provide a major [ICON_Gold] Gold adjacency bonus. Provides +2 Alliance points, +2 additional if in a [ICON_GLORY_GOLDEN_AGE] Golden Age. During a Golden Age, when a building or wonder is completed in a city with a Child Star Guild, receive [ICON_Gold] Gold equal to 150% of its [ICON_Production] Production cost. The Child Star Guild's [ICON_Culture] Culture adjacency bonus is increased by 200%/400%/600% based on the current highest effective Alliance level.</Text>
+		</Row>
+    </LocalizedText>
+</GameData>
